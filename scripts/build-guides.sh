@@ -136,10 +136,33 @@ build_pack() {
   md_to_pdf "$amd" "$OUT/$stem-activities.pdf"
 }
 
-# Iterate over all packs (syllabus order)
+# Iterate over all packs (syllabus order). Pass module slugs as args to limit;
+# default = all 15 modules.
+DEFAULT_MODULES=(
+  module-01-what-is-iks
+  module-02-panchabhuta
+  module-03-ayurveda-good-health
+  module-04-doshas
+  module-05-dot-addition
+  module-06-moon-phases-tithi
+  module-07-eleven-multiplication
+  module-08-yoga
+  module-09-subtraction-nikhilam
+  module-10-herbs-aushadhi
+  module-11-multiplication-near-base
+  module-12-movement-of-sun
+  module-13-indic-ecology
+  module-14-magic-squares
+  module-15-project-implementation
+)
+MODULES=("${@:-${DEFAULT_MODULES[@]}}")
+if [ "$#" -gt 0 ]; then MODULES=("$@"); fi
+
 for band in primary middle senior; do
-  for mod in module-01-what-is-iks module-02-panchabhuta module-03-ayurveda-good-health module-05-dot-addition module-08-yoga; do
-    build_pack "$band" "$mod"
+  for mod in "${MODULES[@]}"; do
+    if [ -d "curriculum/$band/$mod" ]; then
+      build_pack "$band" "$mod"
+    fi
   done
 done
 
