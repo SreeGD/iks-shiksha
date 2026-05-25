@@ -40,13 +40,23 @@ build_band_workbook() {
     echo "  - Module 1 — What is IKS?"
     echo "  - Module 2 — Panchabhuta (Five Elements)"
     echo "  - Module 3 — Ayurveda and Good Health"
+    echo "  - Module 4 — Doshas (Vāta, Pitta, Kapha)"
     echo "  - Module 5 — Bindu Paddhati (Dot Method of Addition)"
+    echo "  - Module 6 — Moon Phases and Tithi"
+    echo "  - Module 7 — ×11 Multiplication (Ekādhikena Pūrveṇa)"
     echo "  - Module 8 — Yoga and the Body"
+    echo "  - Module 9 — Subtraction Nikhilam (All from 9, last from 10)"
+    echo "  - Module 10 — Herbs (Auṣadhi)"
+    echo "  - Module 11 — Multiplication Near a Power of 10"
+    echo "  - Module 12 — Movement of the Sun"
+    echo "  - Module 13 — Indic Ecology (Vasudhaiva Kuṭumbakam)"
+    echo "  - Module 14 — Magic Squares (Bhadragaṇita)"
+    echo "  - Module 15 — Project Implementation (Capstone)"
     echo ""
     echo "Each module contains: overview, 10-day lesson plan, teacher notes, sources, all day files, quizzes, writing prompts, homework, activities, project brief, and rubric."
     echo ""
     echo "\\newpage"
-    for mod in module-01-what-is-iks module-02-panchabhuta module-03-ayurveda-good-health module-05-dot-addition module-08-yoga; do
+    for mod in module-01-what-is-iks module-02-panchabhuta module-03-ayurveda-good-health module-04-doshas module-05-dot-addition module-06-moon-phases-tithi module-07-eleven-multiplication module-08-yoga module-09-subtraction-nikhilam module-10-herbs-aushadhi module-11-multiplication-near-base module-12-movement-of-sun module-13-indic-ecology module-14-magic-squares module-15-project-implementation; do
       local pack_dir="$ROOT/curriculum/$band/$mod"
       if [ ! -d "$pack_dir" ]; then continue; fi
 

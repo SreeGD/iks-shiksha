@@ -89,9 +89,32 @@ one_day() {
   fi
 }
 
-# Loop over target modules
+# Loop over target modules. Pass module slugs as args to override default.
+DEFAULT_MODULES=(
+  module-01-what-is-iks
+  module-02-panchabhuta
+  module-03-ayurveda-good-health
+  module-04-doshas
+  module-05-dot-addition
+  module-06-moon-phases-tithi
+  module-07-eleven-multiplication
+  module-08-yoga
+  module-09-subtraction-nikhilam
+  module-10-herbs-aushadhi
+  module-11-multiplication-near-base
+  module-12-movement-of-sun
+  module-13-indic-ecology
+  module-14-magic-squares
+  module-15-project-implementation
+)
+if [ "$#" -gt 0 ]; then
+  MODULES=("$@")
+else
+  MODULES=("${DEFAULT_MODULES[@]}")
+fi
+
 for band in primary middle senior; do
-  for mod in module-01-what-is-iks module-02-panchabhuta module-03-ayurveda-good-health; do
+  for mod in "${MODULES[@]}"; do
     pack_dir="$ROOT/curriculum/$band/$mod"
     [ -d "$pack_dir/days" ] || continue
     echo "Pack: $band/$mod"
