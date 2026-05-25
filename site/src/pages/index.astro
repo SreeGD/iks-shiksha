@@ -1,0 +1,144 @@
+---
+import { withBase } from '../utils/path';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const packs = await getCollection('packs');
+const lessons = await getCollection('lessons');
+
+const bands = {
+  primary: packs.filter((p) => p.id.startsWith('primary/')),
+  middle: packs.filter((p) => p.id.startsWith('middle/')),
+  senior: packs.filter((p) => p.id.startsWith('senior/')),
+};
+---
+
+<BaseLayout title="Home">
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-12">
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">
+      IKS Curriculum · v2
+    </p>
+    <h1 class="text-4xl font-display font-bold mb-4">
+      Indian Knowledge Systems for Schools
+    </h1>
+    <p class="text-lg text-text-muted mb-8">
+      {bands.primary.length + bands.middle.length + bands.senior.length} module
+      packs · 3 age bands · {lessons.length} lessons
+    </p>
+
+    <h2 class="text-2xl font-display mt-12 mb-4">I am a …</h2>
+    <p class="text-sm text-text-muted mb-4">
+      Pick a role to personalise the site. You can change it anytime from the badge in the top-right.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <a
+        href={withBase("/teacher/")}
+        data-pick-audience="teacher"
+        class="audience-pick block bg-surface border border-border rounded-lg p-6 hover:shadow-md hover:border-accent transition-all no-underline text-text"
+      >
+        <div class="text-3xl mb-2">👨‍🏫</div>
+        <h3 class="font-display text-xl mb-1">Teacher</h3>
+        <p class="text-sm text-text-muted m-0">
+          Lesson plans, slide decks, printable handouts, progress tracker.
+        </p>
+      </a>
+      <a
+        href={withBase("/parent/")}
+        data-pick-audience="parent"
+        class="audience-pick block bg-surface border border-border rounded-lg p-6 hover:shadow-md hover:border-accent transition-all no-underline text-text"
+      >
+        <div class="text-3xl mb-2">👪</div>
+        <h3 class="font-display text-xl mb-1">Parent</h3>
+        <p class="text-sm text-text-muted m-0">
+          What your child is learning, how to support at home, FAQs.
+        </p>
+      </a>
+      <a
+        href={withBase("/student/")}
+        data-pick-audience="student"
+        class="audience-pick block bg-surface border border-border rounded-lg p-6 hover:shadow-md hover:border-accent transition-all no-underline text-text"
+      >
+        <div class="text-3xl mb-2">👧</div>
+        <h3 class="font-display text-xl mb-1">Student</h3>
+        <p class="text-sm text-text-muted m-0">
+          Workbook, vocabulary flashcards, project briefs.
+        </p>
+      </a>
+    </div>
+    <script is:inline>
+      document.querySelectorAll('.audience-pick').forEach((a) => {
+        a.addEventListener('click', () => {
+          const v = a.dataset.pickAudience;
+          try { localStorage.setItem('iks-audience', v); } catch (e) {}
+        });
+      });
+    </script>
+
+    <h2 class="text-2xl font-display mt-12 mb-4">Or pick a band</h2>
+    <div class="flex flex-wrap gap-3">
+      <a
+        href={withBase("/primary/")}
+        class="px-5 py-2 rounded-lg border-2 border-border hover:border-accent transition-colors no-underline"
+      >
+        Primary <span class="text-text-muted text-sm">(grades 3–5)</span>
+      </a>
+      <a
+        href={withBase("/middle/")}
+        class="px-5 py-2 rounded-lg border-2 border-border hover:border-accent transition-colors no-underline"
+      >
+        Middle <span class="text-text-muted text-sm">(grades 6–8)</span>
+      </a>
+      <a
+        href={withBase("/senior/")}
+        class="px-5 py-2 rounded-lg border-2 border-border hover:border-accent transition-colors no-underline"
+      >
+        Senior <span class="text-text-muted text-sm">(grades 9–12)</span>
+      </a>
+    </div>
+
+    <h2 class="text-2xl font-display mt-12 mb-4">The five pilot modules</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div class="bg-surface border-l-4 border-accent-2 p-4 rounded-r-lg">
+        <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">Module 1</p>
+        <h3 class="font-display text-lg mt-1 mb-1">What is IKS?</h3>
+        <p class="text-sm text-text-muted m-0">
+          The map of Indian Knowledge Systems — Vedas, Vedangas, Upavedas, named achievements with dates.
+        </p>
+      </div>
+      <div class="bg-surface border-l-4 border-accent-2 p-4 rounded-r-lg">
+        <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">Module 2</p>
+        <h3 class="font-display text-lg mt-1 mb-1">Panchabhūta (Five Elements)</h3>
+        <p class="text-sm text-text-muted m-0">
+          The Sāṅkhya cosmology — taught alongside states of matter.
+        </p>
+      </div>
+      <div class="bg-surface border-l-4 border-accent-2 p-4 rounded-r-lg">
+        <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">Module 3</p>
+        <h3 class="font-display text-lg mt-1 mb-1">Ayurveda and Good Health</h3>
+        <p class="text-sm text-text-muted m-0">
+          Tridosha, dinacharya, ahāra. Lifestyle medicine + honest evidence framing.
+        </p>
+      </div>
+      <div class="bg-surface border-l-4 border-accent-2 p-4 rounded-r-lg">
+        <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">Module 5</p>
+        <h3 class="font-display text-lg mt-1 mb-1">Bindu Paddhati — Dot Addition</h3>
+        <p class="text-sm text-text-muted m-0">
+          20th-century mental-arithmetic technique for fast column addition.
+        </p>
+      </div>
+      <div class="bg-surface border-l-4 border-accent-2 p-4 rounded-r-lg">
+        <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">Module 8</p>
+        <h3 class="font-display text-lg mt-1 mb-1">Yoga and the Body</h3>
+        <p class="text-sm text-text-muted m-0">
+          Patañjali's eight limbs + safe āsana practice + breath physiology.
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>

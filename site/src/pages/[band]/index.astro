@@ -1,0 +1,76 @@
+---
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { BAND_LABELS, BAND_GRADES, BAND_BLURBS, MODULE_TITLES, MODULE_BLURBS } from '../../utils/labels';
+
+export async function getStaticPaths() {
+  return ['primary', 'middle', 'senior'].map((band) => ({ params: { band } }));
+}
+
+const { band } = Astro.params;
+type Band = 'primary' | 'middle' | 'senior';
+const b = band as Band;
+
+const packs = await getCollection('packs');
+const bandPacks = packs.filter((p) => p.id.startsWith(`${band}/`));
+
+// Lesson counts per module
+const lessons = await getCollection('lessons');
+function lessonCount(modSlug: string) {
+  return lessons.filter((l) => l.id.startsWith(`${band}/${modSlug}/days/`)).length;
+}
+
+const bandLabel = BAND_LABELS[b];
+const bandGrades = BAND_GRADES[b];
+---
+
+<BaseLayout title={bandLabel} description={BAND_BLURBS[b]} band={b}>
+  <Header activeBand={b} />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <nav class="text-sm text-text-muted mb-4">
+      <a href={withBase("/")} class="text-accent-2">Home</a> › {bandLabel}
+    </nav>
+
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+      {bandLabel} · {bandGrades}
+    </p>
+    <h1 class="text-4xl font-display font-bold mt-1 mb-3 border-b-2 border-accent-2 pb-2">
+      {bandLabel} Band
+    </h1>
+    <p class="text-text-muted mb-8 text-lg">{BAND_BLURBS[b]}</p>
+
+    <h2 class="text-2xl font-display mt-10 mb-4">Modules in this band</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {bandPacks.map((pack) => {
+        const modSlug = pack.id.split('/')[1];
+        const moduleNumber = modSlug.match(/^module-(\d+)/)?.[1] ?? '?';
+        const count = lessonCount(modSlug);
+        return (
+          <a
+            href={withBase(`/${band}/${modSlug}/`)}
+            class="block bg-surface border-l-4 border-accent-2 rounded-r-lg p-5 hover:shadow-md transition-shadow no-underline text-text"
+          >
+            <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+              Module {parseInt(moduleNumber)}
+            </p>
+            <h3 class="font-display text-xl mt-1 mb-2 text-accent">
+              {MODULE_TITLES[modSlug] ?? modSlug}
+            </h3>
+            <p class="text-sm text-text-muted m-0 mb-2">
+              {MODULE_BLURBS[modSlug] ?? ''}
+            </p>
+            <p class="text-xs text-text-muted m-0">
+              📚 {count} lessons · 📝 1 project · ✍ writing prompts
+            </p>
+          </a>
+        );
+      })}
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>

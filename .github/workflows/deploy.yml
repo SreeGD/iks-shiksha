@@ -1,0 +1,67 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v3
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+          cache-dependency-path: site/pnpm-lock.yaml
+
+      - name: Install dependencies
+        working-directory: ./site
+        run: pnpm install --frozen-lockfile
+
+      - name: Build site
+        working-directory: ./site
+        env:
+          IKS_SITE_URL: https://${{ github.repository_owner }}.github.io
+          IKS_BASE_PATH: /${{ github.event.repository.name }}/
+        run: pnpm build
+
+      # The site links to exports/{pdf,pptx,docx}. Those folders are generated
+      # by bash pipelines (build-guides.sh, build-lessons.sh, build-workbooks.sh,
+      # generate-pptx.js). For now, copy whatever the repo committed under
+      # exports/ into site/dist/.
+      - name: Copy exports into dist
+        run: |
+          if [ -d exports/pdf ]; then cp -r exports/pdf site/dist/; fi
+          if [ -d exports/pptx ]; then cp -r exports/pptx site/dist/; fi
+          if [ -d exports/docx ]; then cp -r exports/docx site/dist/; fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

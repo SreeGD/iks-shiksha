@@ -1,0 +1,57 @@
+---
+import { AUDIENCE_SET_SNIPPET } from '../utils/audience';
+
+interface Props {
+  defaultAudience?: 'teacher' | 'parent' | 'student';
+}
+const { defaultAudience = 'teacher' } = Astro.props;
+---
+
+<div class="my-6">
+  <div role="tablist" class="inline-flex bg-surface border border-border rounded-lg p-1 gap-1">
+    <button
+      role="tab"
+      data-audience="teacher"
+      class="audience-tab px-4 py-2 rounded text-sm font-medium transition-colors"
+      aria-selected="false"
+    >👨‍🏫 Teacher</button>
+    <button
+      role="tab"
+      data-audience="parent"
+      class="audience-tab px-4 py-2 rounded text-sm font-medium transition-colors"
+      aria-selected="false"
+    >👪 Parent</button>
+    <button
+      role="tab"
+      data-audience="student"
+      class="audience-tab px-4 py-2 rounded text-sm font-medium transition-colors"
+      aria-selected="false"
+    >👧 Student</button>
+  </div>
+</div>
+
+<style>
+  /* Active state driven by [data-audience] on <html>. */
+  html[data-audience="teacher"] .audience-tab[data-audience="teacher"],
+  html[data-audience="parent"] .audience-tab[data-audience="parent"],
+  html[data-audience="student"] .audience-tab[data-audience="student"] {
+    background: rgb(var(--color-accent));
+    color: white;
+  }
+  /* When unset, highlight the default. */
+  html[data-audience="unset"] .audience-tab[data-audience="teacher"] {
+    background: rgb(var(--color-accent));
+    color: white;
+  }
+</style>
+
+<script is:inline define:vars={{ snippet: AUDIENCE_SET_SNIPPET, defaultAudience }}>
+  // eslint-disable-next-line no-new-func
+  new Function(snippet)();
+  document.querySelectorAll('.audience-tab').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      // @ts-ignore — global from snippet
+      setIksAudience(btn.dataset.audience);
+    });
+  });
+</script>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /pdf/
+Disallow: /pptx/
+Disallow: /docx/
+
+Sitemap: https://iks-curriculum.example.com/sitemap-index.xml

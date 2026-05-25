@@ -1,0 +1,86 @@
+---
+/**
+ * Cmd+K search palette backed by Pagefind.
+ *
+ * Pagefind is built from the static dist/ at build time (see package.json).
+ * The modal loads pagefind-ui.js lazily on first open so the homepage stays
+ * fast for users who don't search.
+ */
+import { BASE } from '../utils/path';
+---
+
+<dialog id="search-modal" class="search-modal w-full max-w-2xl p-0 rounded-lg bg-surface text-text border border-border backdrop:bg-black/40">
+  <div class="p-4 border-b border-border flex items-center gap-3">
+    <span class="text-text-muted text-sm">🔍 Search</span>
+    <kbd class="ml-auto text-xs text-text-muted">esc to close</kbd>
+  </div>
+  <div id="pagefind-search" class="p-4"></div>
+</dialog>
+
+<style is:global>
+  .search-modal { margin: 8vh auto auto auto; }
+  .search-modal::backdrop { backdrop-filter: blur(2px); }
+  /* Style Pagefind UI to match site palette. */
+  .pagefind-ui { --pagefind-ui-primary: rgb(var(--color-accent));
+                  --pagefind-ui-text: rgb(var(--color-text));
+                  --pagefind-ui-background: rgb(var(--color-surface));
+                  --pagefind-ui-border: rgb(var(--color-border));
+                  --pagefind-ui-font: theme('fontFamily.sans'); }
+</style>
+
+<script is:inline define:vars={{ pagefindBase: BASE + 'pagefind/' }}>
+  (function() {
+    const modal = document.getElementById('search-modal');
+    if (!modal) return;
+    let loaded = false;
+
+    async function openSearch() {
+      if (!loaded) {
+        // Lazy-load Pagefind UI on first open
+        const css = document.createElement('link');
+        css.rel = 'stylesheet';
+        css.href = pagefindBase + 'pagefind-ui.css';
+        document.head.appendChild(css);
+
+        const script = document.createElement('script');
+        script.src = pagefindBase + 'pagefind-ui.js';
+        script.onload = function() {
+          // eslint-disable-next-line no-undef
+          new PagefindUI({ element: '#pagefind-search', showSubResults: true, autofocus: true });
+        };
+        document.head.appendChild(script);
+        loaded = true;
+      }
+      modal.showModal();
+      setTimeout(() => {
+        const input = modal.querySelector('input');
+        if (input) input.focus();
+      }, 100);
+    }
+
+    function closeSearch() {
+      if (modal.open) modal.close();
+    }
+
+    // Cmd+K / Ctrl+K / "/" to open
+    document.addEventListener('keydown', (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape' && modal.open) {
+        closeSearch();
+      }
+    });
+
+    // Click backdrop to close
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeSearch();
+    });
+
+    // Expose for header button
+    window.iksOpenSearch = openSearch;
+  })();
+</script>

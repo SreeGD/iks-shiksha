@@ -1,0 +1,81 @@
+---
+import { withBase } from '../utils/path';
+import '../styles/global.css';
+import { AUDIENCE_BOOTSTRAP_SCRIPT } from '../utils/audience';
+import { ClientRouter } from 'astro:transitions';
+
+const THEME_BOOTSTRAP = `
+(function() {
+  try {
+    var saved = localStorage.getItem('iks-theme');
+    var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var theme = saved || (prefersDark ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+  } catch (e) {
+    document.documentElement.setAttribute('data-theme', 'light');
+  }
+})();
+`.trim();
+
+interface Props {
+  title: string;
+  description?: string;
+  band?: 'primary' | 'middle' | 'senior';
+  ogImage?: string;
+}
+
+const {
+  title,
+  description = 'A three-age-band Indian Knowledge Systems curriculum — for teachers, parents, and students.',
+  band,
+  ogImage = '/og-default.png',
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!DOCTYPE html>
+<html lang="en" data-band={band ?? 'middle'}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={withBase("/favicon.svg")} />
+    <link rel="sitemap" href={withBase("/sitemap-index.xml")} />
+
+    <title>{title} — IKS Curriculum</title>
+    <meta name="description" content={description} />
+
+    {/* Open Graph */}
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={new URL(ogImage, Astro.site)} />
+
+    {/* Twitter */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL(ogImage, Astro.site)} />
+
+    {/* Fonts */}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Noto+Sans+Devanagari:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    {/* Theme + audience bootstrap — both set on <html> before paint to avoid flash */}
+    <script is:inline set:html={THEME_BOOTSTRAP}></script>
+    <script is:inline set:html={AUDIENCE_BOOTSTRAP_SCRIPT}></script>
+
+    {/* Smooth page transitions */}
+    <ClientRouter />
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <slot />
+  </body>
+</html>

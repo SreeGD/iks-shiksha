@@ -1,0 +1,89 @@
+---
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { BAND_LABELS, MODULE_TITLES } from '../../utils/labels';
+
+const packs = await getCollection('packs');
+const lessons = await getCollection('lessons');
+---
+
+<BaseLayout title="Teacher home" description="Lesson plans, slide decks, printable handouts for teachers.">
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">For Teachers</p>
+    <h1 class="text-4xl font-display font-bold mb-3 border-b-2 border-accent-2 pb-2">
+      Teacher home
+    </h1>
+    <p class="text-text-muted text-lg mb-8">
+      Everything you need to teach a module: 10-day plans, slide decks, printable
+      handouts, quizzes, rubrics, and a per-class progress tracker.
+    </p>
+
+    {/* Today's lesson widget — placeholder; needs a plan stored in localStorage (Phase 5) */}
+    <section id="todays-lesson" class="bg-surface border-l-4 border-accent rounded-r-lg p-5 mb-8">
+      <p class="text-xs tracking-widest uppercase text-accent font-bold m-0">📅 Today's lesson</p>
+      <h2 class="font-display text-xl mt-1 mb-2 text-text">Set up your teaching plan</h2>
+      <p class="text-sm text-text-muted m-0">
+        Once you pick a module and start date, this card will show today's lesson with one-click access to its PDF, slide deck, and on-screen view.
+        (Plan-setup UI ships in Phase 5.)
+      </p>
+    </section>
+
+    {/* Quick links */}
+    <h2 class="text-2xl font-display mt-10 mb-4">Quick start</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mb-10">
+      <a href={withBase("/middle/module-01-what-is-iks/")} class="bg-surface border border-border rounded-lg p-4 hover:border-accent transition-colors no-underline text-text">
+        <div class="text-xs text-text-muted">Start here</div>
+        <div class="font-bold text-accent">Module 1 — What is IKS?</div>
+        <div class="text-xs text-text-muted mt-1">Foundation for the whole curriculum.</div>
+      </a>
+      <a href={withBase("/downloads/")} class="bg-surface border border-border rounded-lg p-4 hover:border-accent transition-colors no-underline text-text">
+        <div class="text-xs text-text-muted">Print kit</div>
+        <div class="font-bold text-accent">All handouts &amp; decks</div>
+        <div class="text-xs text-text-muted mt-1">150 lesson PDFs · 105 PPTX · 3 workbooks.</div>
+      </a>
+      <a href={withBase("/glossary/")} class="bg-surface border border-border rounded-lg p-4 hover:border-accent transition-colors no-underline text-text">
+        <div class="text-xs text-text-muted">Reference</div>
+        <div class="font-bold text-accent">Sanskrit glossary</div>
+        <div class="text-xs text-text-muted mt-1">All terms with IAST + meaning.</div>
+      </a>
+    </div>
+
+    {/* Browse all modules per band */}
+    <h2 class="text-2xl font-display mt-10 mb-4">Browse all modules</h2>
+    {['primary', 'middle', 'senior'].map((band) => {
+      const bandPacks = packs.filter((p) => p.id.startsWith(`${band}/`));
+      return (
+        <div class="mb-6">
+          <h3 class="text-lg font-display text-accent mb-2">
+            <a href={withBase(`/${band}/`)} class="hover:underline no-underline">{BAND_LABELS[band]}</a>
+          </h3>
+          <ul class="grid grid-cols-1 md:grid-cols-3 gap-2 list-none p-0">
+            {bandPacks.map((p) => {
+              const mod = p.id.split('/')[1];
+              return (
+                <li>
+                  <a href={withBase(`/${band}/${mod}/`)} class="block text-sm bg-surface border border-border rounded px-3 py-2 hover:border-accent no-underline text-text">
+                    {MODULE_TITLES[mod] ?? mod}
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      );
+    })}
+  </main>
+
+  <Footer />
+
+  <script is:inline>
+    try { localStorage.setItem('iks-audience', 'teacher'); } catch (e) {}
+    document.documentElement.setAttribute('data-audience', 'teacher');
+    document.dispatchEvent(new CustomEvent('iks-audience-change', { detail: 'teacher' }));
+  </script>
+</BaseLayout>

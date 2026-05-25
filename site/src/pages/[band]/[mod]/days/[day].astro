@@ -1,0 +1,151 @@
+---
+import { withBase } from '../../../../utils/path';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+import { BAND_LABELS, BAND_GRADES, MODULE_TITLES, prettyFileName } from '../../../../utils/labels';
+import TaughtCheckbox from '../../../../components/TaughtCheckbox.astro';
+
+export async function getStaticPaths() {
+  const lessons = await getCollection('lessons');
+  return lessons.map((lesson) => {
+    const parts = lesson.id.split('/');
+    const band = parts[0];
+    const mod = parts[1];
+    const day = parts[3]; // band/mod/days/day-NN-foo
+    return { params: { band, mod, day }, props: { lesson } };
+  });
+}
+
+const { band, mod, day } = Astro.params;
+type Band = 'primary' | 'middle' | 'senior';
+const b = band as Band;
+const { lesson } = Astro.props;
+const { Content } = await render(lesson);
+
+// Build prev/next within this pack
+const lessons = await getCollection('lessons');
+const packLessons = lessons
+  .filter((l) => l.id.startsWith(`${band}/${mod}/days/`))
+  .sort((a, b) => a.id.localeCompare(b.id));
+const currentIdx = packLessons.findIndex((l) => l.id === lesson.id);
+const prev = currentIdx > 0 ? packLessons[currentIdx - 1] : null;
+const next = currentIdx < packLessons.length - 1 ? packLessons[currentIdx + 1] : null;
+
+const stem = `${band}-${mod}`;
+const moduleNumber = mod.match(/^module-(\d+)/)?.[1] ?? '?';
+const moduleTitle = MODULE_TITLES[mod] ?? mod;
+const dayLabel = prettyFileName(day);
+---
+
+<BaseLayout title={`${dayLabel} — ${moduleTitle}`} band={b}>
+  <Header activeBand={b} />
+
+  <div class="flex-1 max-w-7xl mx-auto px-4 md:px-6 py-6 w-full grid grid-cols-1 lg:grid-cols-[220px_1fr_180px] gap-6">
+
+    {/* Sidebar: all days in this pack */}
+    <aside class="lg:sticky lg:top-4 lg:self-start lg:max-h-[calc(100vh-2rem)] lg:overflow-y-auto no-print">
+      <h3 class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2 font-sans">In this pack</h3>
+      <a href={withBase(`/${band}/${mod}/`)} class="block px-2 py-1 text-sm hover:bg-bg rounded text-text no-underline">
+        ← Pack overview
+      </a>
+      <h3 class="text-xs tracking-widest uppercase text-accent-2 font-bold mt-4 mb-2 font-sans">Daily lessons</h3>
+      <ul class="list-none m-0 p-0 text-sm">
+        {packLessons.map((l) => {
+          const lstem = l.id.split('/').pop() ?? '';
+          const active = l.id === lesson.id;
+          return (
+            <li>
+              <a
+                href={withBase(`/${band}/${mod}/days/${lstem}/`)}
+                class={`block px-2 py-1 rounded no-underline ${active ? 'bg-accent text-white' : 'text-text hover:bg-bg'}`}
+              >
+                {prettyFileName(lstem)}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </aside>
+
+    {/* Main content */}
+    <main class="min-w-0">
+      <nav class="text-sm text-text-muted mb-2 no-print">
+        <a href={withBase("/")} class="text-accent-2">Home</a> ›
+        <a href={withBase(`/${band}/`)} class="text-accent-2">{BAND_LABELS[b]}</a> ›
+        <a href={withBase(`/${band}/${mod}/`)} class="text-accent-2">Module {parseInt(moduleNumber)}</a> ›
+        {dayLabel}
+      </nav>
+
+      {/* Action bar */}
+      <div class="bg-surface border border-border rounded-lg p-3 mb-6 flex flex-wrap gap-2 text-sm no-print">
+        <a href={withBase(`/pdf/lessons/${stem}/${day}.pdf`)} download class="px-3 py-1 bg-accent text-white rounded no-underline hover:opacity-90">📄 PDF</a>
+        <a href={withBase(`/pptx/lessons/${stem}/${day}.pptx`)} download class="px-3 py-1 bg-accent text-white rounded no-underline hover:opacity-90">📊 PPTX</a>
+        <button onclick="window.print()" class="px-3 py-1 border border-border rounded hover:border-accent">🖨 Print</button>
+        <div class="ml-auto"><TaughtCheckbox lessonId={lesson.id} /></div>
+      </div>
+
+      <article class="prose prose-lg max-w-none">
+        <Content />
+      </article>
+
+      {/* Prev/Next */}
+      <nav class="mt-10 pt-6 border-t border-border flex gap-3 no-print">
+        {prev ? (
+          <a
+            href={withBase(`/${band}/${mod}/days/${prev.id.split('/').pop()}/`)}
+            class="flex-1 bg-surface border border-border rounded-lg p-4 hover:border-accent no-underline text-text"
+          >
+            <div class="text-xs text-text-muted">← Previous</div>
+            <div class="font-bold text-accent">{prettyFileName(prev.id.split('/').pop() ?? '')}</div>
+          </a>
+        ) : (<div class="flex-1"></div>)}
+        {next ? (
+          <a
+            href={withBase(`/${band}/${mod}/days/${next.id.split('/').pop()}/`)}
+            class="flex-1 bg-surface border border-border rounded-lg p-4 hover:border-accent no-underline text-text text-right"
+          >
+            <div class="text-xs text-text-muted">Next →</div>
+            <div class="font-bold text-accent">{prettyFileName(next.id.split('/').pop() ?? '')}</div>
+          </a>
+        ) : (<div class="flex-1"></div>)}
+      </nav>
+    </main>
+
+    {/* On-page TOC (right rail) — auto-built from prose headings via JS */}
+    <aside class="hidden lg:block lg:sticky lg:top-4 lg:self-start no-print">
+      <h3 class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2 font-sans">On this page</h3>
+      <nav id="page-toc" class="text-sm space-y-1"></nav>
+    </aside>
+  </div>
+
+  <Footer />
+
+  {/* Build the on-page TOC client-side */}
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const toc = document.getElementById('page-toc');
+      if (!toc) return;
+      const headings = document.querySelectorAll('article.prose h2, article.prose h3');
+      headings.forEach((h, i) => {
+        if (!h.id) h.id = 'h-' + i;
+        const a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = h.textContent;
+        a.className = 'block text-text hover:text-accent no-underline ' + (h.tagName === 'H3' ? 'pl-3 text-text-muted' : '');
+        toc.appendChild(a);
+      });
+    });
+
+    // Keyboard navigation: ← prev, → next
+    document.addEventListener('keydown', (e) => {
+      if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+      const prev = document.querySelector('nav.no-print a[href*="/days/"]:first-of-type');
+      if (e.key === 'ArrowLeft') {
+        const links = document.querySelectorAll('nav a[href*="/days/"]');
+        const prevLink = Array.from(links).find(a => a.textContent.includes('Previous')) || null;
+      }
+    });
+  </script>
+</BaseLayout>

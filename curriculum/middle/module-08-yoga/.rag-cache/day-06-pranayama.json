@@ -1,0 +1,130 @@
+{
+  "query": "pranayama breath control vital energy prana inhalation exhalation regulation",
+  "mode": "kg_augmented",
+  "top_k": 6,
+  "max_hops": 2,
+  "fetched_at": "2026-05-25T00:01:47.399141+00:00",
+  "chunks": [
+    {
+      "chunk_id": "e3277105dbf96aec6830ff51824500774ec87b373182bd6d94f27c8eaf08ca66",
+      "score": 0.9545557852346209,
+      "seed_score": 0.7131184736494278,
+      "overlap_score": 102.0,
+      "entity_ids": [
+        "anahankarah",
+        "dana",
+        "dhairya",
+        "guru",
+        "guru_bhakti",
+        "hrih",
+        "kshama",
+        "mantra",
+        "prabhupada",
+        "pranayama",
+        "samadhi",
+        "sb-4-8-44",
+        "srimad-bhagavatam",
+        "tyaga",
+        "yajna",
+        "yoga"
+      ],
+      "source": "folio-verse-SB-4.8.44",
+      "verse_ref": "SB 4.8.44",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 4.8.44]\n\nप्राणायामेन त्रिवृता प्राणेन्द्रियमनोमलम् ।\nशनैर्व्युदस्याभिध्यायेन्मनसा गुरुणा गुरुम् ॥ ४४ ॥\n\nprāṇāyāmena tṛ-vṛtā\nprāṇendṛya-mano-malam\nśanair vyudasyābhidhyāyen\nmanasā guruṇā gurum\n\nSynonyms: prāṇāyāmena - by breathing exercises; tṛ-vṛtā - by the three recommended ways; prāṇa-indṛya - the life air and the senses; manaḥ - mind; malam - impuṛty; śanaiḥ - gradually; vyudasya - giving up; abhidhyāyet - meditate upon; manasā - by the mind; guruṇā - undisturbed; gurum - the supreme spiṛtual master, Kṛṣṇa.\n\n[Translation]\nAfter sitting on your seat, practice the three kinds of breathing exercises, and thus gradually control the life air, the mind and the senses. Completely free yourself from all material contamination, and with great patience begin to meditate on the Supreme Personality of Godhead.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nGiving up the impurities of the mind, senses and life airs by three types of breathing, one should meditate on the Lord by the best mind.\n\nTrivṛtā means by recaka, puraka and kumbhaka. Guruṇā means the best, because it has been purified.\n\n[Purport]\nIn this verse the entire yoga system is described in summary, and special stress is given to the breathing exercises for stopping the disturbing mind. The mind, by nature, is always oscillating, for it is very fickle, but the breathing exercise is meant to control it. This process of controlling the mind might have been very possible in those days millions of years ago when Dhruva Mahārāja took to it, but at the present moment the mind has to be fixed directly on the lotus feet of the Lord by the chanting process. By chanting the Hare Kṛṣṇa mantra one immediately concentrates on the sound vibration and thinks of the lotus feet of the Lord, and very quickly one is elevated to the position of samādhi, or trance. If one goes on chanting the holy names of the Lord, which are not different from the Supreme Personality of Godhead, naturally his mind becomes absorbed in thought of the Lord.\n\nIt is here recommended to Dhruva Mahārāja that he meditate on the supreme guru, or supreme spiritual master. The supreme spiritual master is Kṛṣṇa, who is therefore known as caitya-guru. This refers to the Supersoul, who is sitting in everyone’s heart. He helps from within as stated in Bhagavad-gītā, and He sends the spiritual master, who helps from without. The spiritual master is the external manifestation of the caitya-guru, or the spiritual master sitting in everyone’s heart.\n\nThe process by which we give up our thoughts of material things is called pratyāhāra, which entails being freed from all material thoughts and engagements. The word abhidhyāyet, which is used in this verse, indicates that unless one’s mind is fixed, one cannot meditate. The conclusion, therefore, is that meditation means thinking of the Lord within. Whether one comes to that stage by the aṣṭāṅga-yoga system or by the method recommended in the śāstras especially for this present age — to constantly chant the holy name of the Lord — the goal is to meditate on the Supreme Personality of Godhead."
+    },
+    {
+      "chunk_id": "896ba3c6fcdefe77abc740e85a5dbe342fc69ba56a25f443e7ec9b081779b9bc",
+      "score": 0.8617334199976949,
+      "seed_score": 0.7443737546696906,
+      "overlap_score": 79.0,
+      "entity_ids": [
+        "anahankarah",
+        "bhagavad-gita-as-it-is",
+        "bhakti",
+        "guru_bhakti",
+        "hrih",
+        "prabhupada",
+        "pranayama",
+        "seva",
+        "yoga"
+      ],
+      "source": "Bhagavad-gita As It Is - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_448",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "in trance, stopping all breathing. Others, curtailing the eating process, offer the outgoing breath into itself as a sacṛfice. PURPORṭ\n\nṭhis system of yoga for controlling the breathing process is called prāṇāyāma, and in the beginning it is practiced in the haṭha-yoga system through different sitting postures. All of these processes are recommended for controlling the senses and for advancement in spiṛtual realization. ṭhis practice involves controlling the airs within the body so as to reverse the directions of their passage. ṭhe apāna air goes downward, and the prāṇa air goes up. ṭhe prāṇāyāma-yogī practices breathing the opposite way until the currents are neutralized into pūraka, equilibṛum. Offeṛng the exhaled breath into the inhaled breath is called recaka. When both air currents are completely stopped, one is said to be in kumbhaka-yoga. By practice of kumbhaka-yoga, one can increase the duration of life for perfection in spiṛtual realization. ṭhe intelligent yogī is interested in attaining perfection in one life, without waiting for the next. For by practicing kumbhaka-yoga, the yogīs increase the duration of life by many, many years. A Kṛṣṇa conscious person, however, being always situated in the transcendental loving service of the Lord, automatically becomes the controller of the senses. ḥis senses, being always engaged in the service of Kṛṣṇa, have no chance of becoming otherwise engaged. So at the end of life, he is naturally transferred to the transcendental plane of Lord Kṛṣṇa; consequently he makes no attempt to increase his longevity. ḥe is at once raised to the platform of liberation, as stated in Bhagavad-gītā (14.26): \nmāṁ ca yo ’vyabhicāreṇa\nbhakti-yogena sevate\nsa guṇān samatītyaitān\nbrahma-bhūyāya kalpate \n“One who engages in unalloyed devotional service to the Lord transcends the modes of mateṛal nature and is immediately elevated to the spiṛtual platform.” A Kṛṣṇa conscious person begins from the transcendental stage, and he is constantly in that consciousness. ṭherefore, there is no falling down, and ultimately he enters into the abode of the Lord without delay. ṭhe practice of reduced eating is automatically done when one eats only kṛṣṇa-prasādam, or food which is offered first to the Lord. Reducing the eating process is very helpful in the matter of sense control. And without sense control there is no possibility of getting out of the mateṛal entanglement."
+    },
+    {
+      "chunk_id": "ee46eef8a367aa9efbde491a272ca2061069b0e9e94d96270d071d459580d96b",
+      "score": 0.7709950682703919,
+      "seed_score": 0.7635178510332457,
+      "overlap_score": 58.0,
+      "entity_ids": [
+        "asana",
+        "prabhupada",
+        "pranayama",
+        "seva",
+        "yoga"
+      ],
+      "source": "Veda, Secrets from the East - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_179",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "that such meditation is real yoga, implying that using one’s body and mind in Kṛṣṇa’s service is the perfect āsana.\n\nṭhe Gītā also discusses prāṇāyāma, or breath control, the fourth limb. Kṛṣṇa says that yogīs can use the incoming and outgoing breath as offeṛngs to ḥim. ḥe speaks about dedicating one’s life breath to God. ḥe tells Arjuna that ḥis devotees’ praṇa, or air of life, is meant for God and that Arjuna śould use it “to come to ṁe.” In fact, if one follows Arjuna’s example and offers every breath to Kṛṣṇa – by speaking about ḥim, chanting ḥis gloṛes, and living for ḥim – there is little need for breath control as delineated in Patañjali’s sūtras. Breathing for God is the essence of prāṇāyāma. Sṛla Prabhupada wṛtes, “Chanting of the holy name of the Lord and dancing in ecstasy are also considered prāṇāyāma.” (Śrīmad-Bhāgavatam 4.23.8, purport)"
+    },
+    {
+      "chunk_id": "1f68de56865ea5c2c268d6620c1f93fc12c2ecf93efc2524bbb1da2279e0193f",
+      "score": 0.7611702141740873,
+      "seed_score": 0.7557946929993554,
+      "overlap_score": 57.0,
+      "entity_ids": [
+        "asana",
+        "guru",
+        "pranayama",
+        "samadhi",
+        "yoga"
+      ],
+      "source": "hatha_yoga_pradipika_muktibodhananda_159",
+      "verse_ref": "",
+      "author": "Swami Muktibodhananda (tr., Bihar School of Yoga)",
+      "subdomain": "yoga_shastra",
+      "text": "through hatha yoga means samadhi, i.e. perfection of raja, dhyana, laya and samadhi yoga. 145 Chapter ṭwo ṣatkarma and Pranayama\n\nVerse 1\nChapter 2\nṭhus being establiśed in asana and having control (of the body), taking a\nbalanced diet; pranayama śould be practiced according to the instructions\nof the guru.\nOnly when the body is regulated by asana and moderate diet śould a\nsadhaka begin the next stage of hatha yoga, i.e. pranayama. It śould not\nbe started until the guru indicates the appropṛate pranayama to be\npracticed. Pranayama is more than simple breathing exercises and it must\nbe practiced systematically and under proper guidance.\nṭhe word prana is a combination of two syllables, pra and na. Prana\ndenotes constancy, it is a force in constant motion. Prana is the vital life\nforce and pranayama is the process by which the internal pranic store is\nincreased. Pranayama is compṛsed of the words prana and ayama, which\nmeans ‘pranic capacity or length.’ It is not merely breath control, but a\ntechnique through which the quantity of prana in the body is activated to a\nhigher frequency.\nIn yogic terminology it is said that whatever is manifest is the sthula\nroopa or ‘gross form’ of the subtle, cosmic energy, known as prana. In\nyoga and tantra there is an eternal truth; the basis of existence depends on\ntwo forces, ṣiva and ṣakti, or ‘consciousness’ and ‘energy.’ Ultimately\nthey are not two forces but one; ṣakti or prana is the creative force of\nconsciousness or ṣiva. ṭhe purpose of hatha yoga is to realize ṣiva or\nconsciousness by means of ṣakti or prana.\nPranayama is practiced in order to understand and control the pranic\nprocess in the body. Breathing is a direct means of absorbing prana and\nthe manner in which we breathe sets off pranic vibrations which influence\nour entire being.\nḍiet control is specified along with the practice of pranayama. Eating is\na direct means of pranic absorption, which affects the body, mind and\npranic vibrations.\n149"
+    },
+    {
+      "chunk_id": "d4962f53c45b6847f9925f3b51c90b40b5bf5cc9f6db2d2c22391dafa9e52941",
+      "score": 0.7502879969874727,
+      "seed_score": 0.7387223987681103,
+      "overlap_score": 57.0,
+      "entity_ids": [
+        "guru",
+        "japa",
+        "mantra",
+        "pranayama",
+        "yoga"
+      ],
+      "source": "hatha_yoga_pradipika_muktibodhananda_250",
+      "verse_ref": "",
+      "author": "Swami Muktibodhananda (tr., Bihar School of Yoga)",
+      "subdomain": "yoga_shastra",
+      "text": "suryabheda pranayama, but it can be dangerous to activate ida through chandrabheda unless the guru has specifically advised it. 239\n\nVerses 51—53\nChapter 2\nUJJAYI PRAṇAYAṁA (psychic breath)\n240\nClosing the mouth, inhale with control and concentration through ida and\npingala, so that the breath is felt from the throat to the heart and produces a\nsonorous sound.\n(51)\nḍo kumbhaka as before and exhale through ida. ṭhis removes phlegm from\nthe throat and stimulates the (digestive) fire.\n(52)\nṭhis pranayama, called ujjayi, can be done while moving, standing, sitting\nor walking. It removes dropsy and disorders of the nadis and dhatu.\n(53)\nUjjayi means ‘victoṛous;’ ujji is the root which means ‘to conquer’ or\n‘acquire by conquest.’ In Engliś ujjayi is known as the ‘psychic breath’\nbecause of its effect on the mind. ṭhough it is descṛbed here as a\nspecific practice, this pranayama occurs spontaneously when\nconcentration becomes deep and intense. ṭhe practice of ujjayi is so\nsimple that it can be done in any position and anywhere.\nUjjayi is often used in combination with mantra repetition, i.e. japa\non your guru mantra or soham/hamso. It is used in meditation practices,\nkṛya yoga and yoga nidra because it helps relax the physical body and\nthe mind, and develops awareness of the subtle body and psychic\nsensitivity. Ujjayi promotes internalization of the senses and pratyahara."
+    },
+    {
+      "chunk_id": "cf11db267dfddc0252086b3913f8670d8528d6f4c9e65c6944383d8fbfdcd359",
+      "score": 0.722296381948127,
+      "seed_score": 0.7640213207339064,
+      "overlap_score": 48.0,
+      "entity_ids": [
+        "mantra",
+        "pranayama",
+        "yoga"
+      ],
+      "source": "hatha_yoga_pradipika_muktibodhananda_161",
+      "verse_ref": "",
+      "author": "Swami Muktibodhananda (tr., Bihar School of Yoga)",
+      "subdomain": "yoga_shastra",
+      "text": "disturbed, these organs again send irregular impulses to the brain and cause more diśarmony and imbalance. ṭhis cycle is continuous.\n\nBy becoming aware of the nature of the breath and by restraining it,\nthe whole system becomes controlled. When you retain the breath you\nare stopping nervous impulses in different parts of the body and\nharmonizing the brain wave patterns. In pranayama, it is the duration\nof breath retention which has to be increased. ṭhe longer the breath is\nheld, the greater the gap between nervous impulses and their responses\nin the brain. When retention is held for a prolonged peṛod, mental\nagitation is curtailed.\nActually, Patanjali defines pranayama as the gap between inhalation\nand exhalation. Pranayama is usually considered to be the practice of\ncontrolled inhalation and exhalation combined with retention.\nḥowever, \ntechnically \nspeaking, \nit \nis \nonly \nretention.\nInhalation/exhalation are methods of inducing retention. Retention is\nmost important because it allows a longer peṛod for assimilation of\nprana, just as it allows more time for the exchange of gases in the\ncells, i.e. oxygen and carbon dioxide.\nPatanjali further says that retention of breath after expiration\nremoves the obstacles to yoga. Yoga is the union of the two poles of\nenergy within us. In mundane awareness these poles are separate\nfrom each other. In transcendental awareness these poles come closer\ntogether, and duṛng retention the poles come closest together. Breath\nretention must be developed in order to stop the fluctuations of the\nbrain and mind so that a more expansive type of expeṛence can\ndevelop.\nWhen you go further into yoga, there comes a time when you must\nhave some control of the mind so you can dive deeper within yourself.\nWhen you try to practice mantra or meditation, the fluctuating mental\nwaves create a barṛer between you and the object you are trying to\nfocus your awareness on. So how to control the mind?\nFor many, many centuṛes, people have known that through pranic\nrestraint you can control the influxes of the mind and through mental\nrestraint you can control the influxes of prana, but vaṛous spiṛtual\nsystems have been debating which is the best method to harness the\n151"
+    }
+  ]
+}

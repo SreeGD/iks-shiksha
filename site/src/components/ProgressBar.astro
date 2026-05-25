@@ -1,0 +1,62 @@
+---
+/**
+ * Teacher-only progress bar showing X / N lessons taught for a given pack.
+ * Reads localStorage iks-taught:* keys and updates live on iks-progress-change.
+ */
+interface Props {
+  packPrefix: string; // e.g. "middle/module-02-panchabhuta"
+  lessonIds: string[]; // full IDs of all lessons in the pack
+}
+const { packPrefix, lessonIds } = Astro.props;
+const idsAttr = lessonIds.join(',');
+---
+
+<div class="progress-tracker my-4 p-4 bg-surface border border-border rounded-lg" data-pack={packPrefix} data-ids={idsAttr}>
+  <div class="flex items-center justify-between mb-2">
+    <span class="text-xs uppercase tracking-widest text-accent font-bold">📊 Your teaching progress</span>
+    <span class="progress-text text-sm font-bold text-accent">0 / {lessonIds.length} taught</span>
+  </div>
+  <div class="w-full h-2 bg-bg rounded overflow-hidden">
+    <div class="progress-fill h-full bg-accent transition-all" style="width: 0%"></div>
+  </div>
+  <p class="progress-next text-xs text-text-muted mt-2"></p>
+</div>
+
+<style>
+  html:not([data-audience="teacher"]) .progress-tracker { display: none; }
+</style>
+
+<script is:inline>
+  function updateAllProgress() {
+    document.querySelectorAll('.progress-tracker').forEach((tracker) => {
+      const ids = tracker.dataset.ids.split(',');
+      const total = ids.length;
+      let taught = 0;
+      let nextUntaughtIdx = -1;
+      ids.forEach((id, i) => {
+        try {
+          if (localStorage.getItem('iks-taught:' + id) === '1') taught++;
+          else if (nextUntaughtIdx === -1) nextUntaughtIdx = i;
+        } catch (e) {}
+      });
+      const pct = total ? Math.round((taught / total) * 100) : 0;
+      tracker.querySelector('.progress-text').textContent = `${taught} / ${total} taught (${pct}%)`;
+      tracker.querySelector('.progress-fill').style.width = pct + '%';
+      const next = tracker.querySelector('.progress-next');
+      if (taught === total) {
+        next.textContent = '🎉 You’ve taught the whole module.';
+      } else if (nextUntaughtIdx !== -1) {
+        // Find the day number from the id
+        const nextId = ids[nextUntaughtIdx];
+        const dayPart = nextId.split('/').pop() || '';
+        const dayMatch = dayPart.match(/^day-(\d+)/);
+        next.textContent = dayMatch ? `Up next: Day ${parseInt(dayMatch[1])}` : 'Up next: ' + dayPart;
+      } else {
+        next.textContent = '';
+      }
+    });
+  }
+  updateAllProgress();
+  document.addEventListener('iks-progress-change', updateAllProgress);
+  document.addEventListener('iks-audience-change', updateAllProgress);
+</script>

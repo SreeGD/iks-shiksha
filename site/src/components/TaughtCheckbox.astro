@@ -1,0 +1,45 @@
+---
+/**
+ * Teacher-only "I've taught this lesson" checkbox.
+ * State stored in localStorage under `iks-taught:{lessonId}`.
+ * Visible only when audience === 'teacher'.
+ */
+interface Props {
+  lessonId: string; // e.g. "middle/module-02-panchabhuta/days/day-03"
+  label?: string;
+}
+const { lessonId, label = 'Taught' } = Astro.props;
+---
+
+<label
+  class="taught-checkbox inline-flex items-center gap-2 px-3 py-1 text-sm border border-border rounded cursor-pointer hover:border-accent transition-colors"
+  data-lesson-id={lessonId}
+>
+  <input type="checkbox" class="taught-cb" />
+  <span class="taught-label">✓ {label}</span>
+</label>
+
+<style>
+  html:not([data-audience="teacher"]) .taught-checkbox { display: none; }
+  .taught-checkbox:has(.taught-cb:checked) {
+    background: rgb(var(--color-accent));
+    color: white;
+    border-color: rgb(var(--color-accent));
+  }
+</style>
+
+<script is:inline>
+  document.querySelectorAll('.taught-checkbox').forEach((label) => {
+    const cb = label.querySelector('.taught-cb');
+    const id = label.dataset.lessonId;
+    const key = 'iks-taught:' + id;
+    try { cb.checked = localStorage.getItem(key) === '1'; } catch (e) {}
+    cb.addEventListener('change', () => {
+      try {
+        if (cb.checked) localStorage.setItem(key, '1');
+        else localStorage.removeItem(key);
+      } catch (e) {}
+      document.dispatchEvent(new CustomEvent('iks-progress-change'));
+    });
+  });
+</script>

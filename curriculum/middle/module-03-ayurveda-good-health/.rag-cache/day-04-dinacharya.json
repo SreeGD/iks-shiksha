@@ -1,0 +1,123 @@
+{
+  "query": "dinacharya daily routine morning practices oral hygiene oil massage abhyanga sleep",
+  "mode": "kg_augmented",
+  "top_k": 6,
+  "max_hops": 2,
+  "fetched_at": "2026-05-25T03:28:37.108196+00:00",
+  "chunks": [
+    {
+      "chunk_id": "33c6ec5b108063584d2782367c446b57f94699baa3ed28133db10b28575bfc62",
+      "score": 0.9752724379550303,
+      "seed_score": 0.6499975708217806,
+      "overlap_score": 58.0,
+      "entity_ids": [
+        "bg-6-17",
+        "bhagavad-gita-as-it-is",
+        "hrih",
+        "ishvara_pranidhana",
+        "karma",
+        "nishkama_karma",
+        "prabhupada",
+        "rasa",
+        "samadhi",
+        "seva",
+        "yajna",
+        "yoga"
+      ],
+      "source": "folio-verse-BG-6.17",
+      "verse_ref": "BG 6.17",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[BG 6.17]\n\nयुक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्‍नावबोधस्य योगो भवति दु:खहा ॥ १७ ॥\n\nyuktāhāra-vihārasya\nyukta-ceṣṭasya karmasu\nyukta-svapnāvabodhasya\nyogo bhavati duḥkha-hā\n\nSynonyms: yukta - regulated; āhāra - eating; vihārasya - recreation; yukta - regulated; ceṣṭasya - of one who works for maintenance; karmasu - in discharging duties; yukta - regulated; svapna-avabodhasya - sleep and wakefulness; yogaḥ - practice of yoga; bhavati - becomes; duḥkha-hā - diminiśing pains.\n\n[Translation]\nHe who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains by practicing the yoga system.\n\n[Translation (Visvanatha Cakravarti Thakura)]\n17. If one has regulated eating, regulated walking, regulated use of organs in both material and spiritual activities, regulated sleep and regulated waking, his yoga destroys all suffering.\n\n[Translation (Baladeva Vidyabhusana)]\n17. If one has regulated eating, regulated recreation, regulated use of organs in both material and spiritual activities, regulated sleep and regulated waking, yoga destroys all suffering.\n\n[Purport]\nExtravagance in the matter of eating, sleeping, defending and mating – which are demands of the body – can block advancement in the practice of yoga. As far as eating is concerned, it can be regulated only when one is practiced to take and accept prasādam, sanctified food. Lord Kṛṣṇa is offered, according to the Bhagavad-gītā (9.26) , vegetables, flowers, fruits, grains, milk, etc. In this way, a person in Kṛṣṇa consciousness becomes automatically trained not to accept food not meant for human consumption, or not in the category of goodness. As far as sleeping is concerned, a Kṛṣṇa conscious person is always alert in the discharge of his duties in Kṛṣṇa consciousness, and therefore any unnecessary time spent sleeping is considered a great loss. Avyartha-kālatvam: a Kṛṣṇa conscious person cannot bear to pass a minute of his life without being engaged in the service of the Lord. Therefore, his sleeping is kept to a minimum. His ideal in this respect is Śrīla Rūpa Gosvāmī, who was always engaged in the service of Kṛṣṇa and who could not sleep more than two hours a day, and sometimes not even that. Ṭhākura Haridāsa would not even accept prasādam nor even sleep for a moment without finishing his daily routine of chanting with his beads three hundred thousand names. As far as work is concerned, a Kṛṣṇa conscious person does not do anything which is not connected with Kṛṣṇa’s interest, and thus his work is always regulated and is untainted by sense gratification. Since there is no question of sense gratification, there is no material leisure for a person in Kṛṣṇa consciousness. And because he is regulated in all his work, speech, sleep, wakefulness and all other bodily activities, there is no material misery for him.\n\n[Purport (Visvanatha Cakravarti Thakura)]\nYukta here means “controlled.” One who controls eating and walking (ahāra, vihārasya), and controls actions such as speech (ceṣṭasya) during execution of both material and spiritual duties (karmaṣu), performs yoga which destroys suffering.\n\n[Purport (Baladeva Vidyabhusana)]\nFor one with regulated eating and recreation, with controlled actions of the sense organs (such as speaking) related to spiritual and mundane duties, with regulated sleeping and waking, yoga destroys all suffering. Therefore the yogī will conduct himself in that way.\n\n[Surrender Unto Me]\nNext is another definition of the perfected stage.\n [ 6 . Yogarudha: Fixing the mind in samadhi: Thus the yogi regulates his habits. By his pure mind, he, devoid of material desires, sees and enjoys the self. (18‑19) ]"
+    },
+    {
+      "chunk_id": "5f605333dd5b59e8d5c2adcf9652d552e222cb50432d3f91e6039944c3c066f7",
+      "score": 0.8358350404496195,
+      "seed_score": 0.6479374212584847,
+      "overlap_score": 42.0,
+      "entity_ids": [
+        "anahankarah",
+        "bhakti",
+        "guru_bhakti",
+        "rasa",
+        "seva",
+        "svadhyaya",
+        "yoga"
+      ],
+      "source": "English_Value_Edu_Booklet_August_2020_60",
+      "verse_ref": "",
+      "author": "Value Education Study Guide",
+      "subdomain": "",
+      "text": "behavior. ṭhe first step for a clean mind is to keep it clean from such influences. Value Education Study Guide\n\n33                                                          ḍhruva Club/August 2020 \nChapter 9 \n Regulate Your Sleeping ḥabits  \nयुक्ताहारतवहारस्य युक्तचेष्टस्य कमधसु | \nयुक्तस्वप्नावबोर्स्य योगो भवति दु:खहा || \nḥe who is regulated in his habits of eating, sleeping, recreation, and work can \nmitigate all mateṛal pains by practicing the yoga system.  Bhagavad Gita 6.17 \nḥḍG A. C. Bhaktivedanta Swami Prabhupada, mentions that \nExtravagance in the matter of eating, sleeping, defending, and mating—which are demands of \nthe body—can block advancement in the practice of yoga. As far as sleeping is concerned, a \nKṛśna conscious person is always alert in the discharge of his duties in Kṛśna consciousness, \nand therefore any unnecessary time spent sleeping is considered a great loss.  \nA devotee of God cannot bear to pass a minute of his life without being engaged in the service \nof the Lord. ṭherefore, his sleeping is kept to a minimum."
+    },
+    {
+      "chunk_id": "4ff516971fe3d61f9828abe8c66a6aed4fc0b4874949cc3b2b1aa7958106ca41",
+      "score": 0.7150429719990038,
+      "seed_score": 0.6595872846009562,
+      "overlap_score": 27.0,
+      "entity_ids": [
+        "bhagavad-gita-as-it-is",
+        "nishkama_karma",
+        "prabhupada",
+        "yoga"
+      ],
+      "source": "Bhagavad-gita As It Is - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_560",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "in the mode of ignorance is lazy and prone to sleep a great deal. Such a person cannot perform yoga.\n\nṭEXṭ 17\n\nyuktāhāra-vihārasya\nyukta-ceṣṭasya karmasu\nyukta-svapnāvabodhasya\nyogo bhavati duḥkha-hā\n\nyukta – regulated; āhāra – eating; vihārasya – recreation; yukta – regulated; ceṣṭasya – of one who works for maintenance; karmasu – in discharging duties; yukta – regulated; svapna-avabodhasya – sleep and wakefulness; yogaḥ – practice of yoga; bhavati – becomes; duḥkha-hā – diminiśing pains. \nṭRAṇSLAṭIOṇ\n\nḥe who is regulated in his habits of eating, sleeping, recreation and work can mitigate all mateṛal pains by practicing the yoga system. \nPURPORṭ"
+    },
+    {
+      "chunk_id": "2a65c2f6ace05606637a5adbfca42b08dd3be56c400c8d63545e4f89d155e6ed",
+      "score": 0.706766227778229,
+      "seed_score": 0.6482677482504685,
+      "overlap_score": 27.0,
+      "entity_ids": [
+        "bhakti",
+        "guru_bhakti",
+        "seva",
+        "yoga"
+      ],
+      "source": "English_Value_Edu_Booklet_August_2020_00001_67",
+      "verse_ref": "",
+      "author": "Notepad Versions",
+      "subdomain": "",
+      "text": "mitigate all mateṛal pains by practicing the yoga system. Bhagavad Gita 6.17 ḥḍG A. C. Bhaktivedanta Swami Prabhupada, mentions that\n\nExtravagance in the matter of eating, sleeping, defending, and mating—which are demands of\nthe body—can block advancement in the practice of yoga. As far as sleeping is concerned, a\nKṛśna conscious person is always alert in the discharge of his duties in Kṛśna consciousness,\nand therefore any unnecessary time spent sleeping is considered a great loss.\n\nA devotee of God cannot bear to pass a minute of his life without being engaged in the service\nof the Lord. ṭherefore, his sleeping is kept to a minimum.\n\nWhat Science Says"
+    },
+    {
+      "chunk_id": "d952608c765b16301b84bfd627ea3f2a3b5f9152f900462d28672f14fec96fe6",
+      "score": 0.6900709504479514,
+      "seed_score": 0.6490146145362392,
+      "overlap_score": 25.0,
+      "entity_ids": [
+        "nishkama_karma",
+        "prabhupada",
+        "yoga"
+      ],
+      "source": "folio-book-POP-ch5_39",
+      "verse_ref": "",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "rasagullas. ṇo. We śould eat and sleep just enough to keep the body fit, and no more. It is stated,\n\nyuktahara-viharasya\n\nyukta-cestasya karmasu\n\nyukta-svapnavabodhasya\n\nyogo bhavati duhkha-ha\n\n”ḥe who is temperate in his habits of eating, sleeping, working, and recreation can mitigate all mateṛal pains by practicing the \nyoga system.” (Bg. 6.17)"
+    },
+    {
+      "chunk_id": "ee271a701143fa0b3455bc8f36e851883082b3e5a646ee855311bd01b8930e50",
+      "score": 0.6727418922672241,
+      "seed_score": 0.6488947021487123,
+      "overlap_score": 23.0,
+      "entity_ids": [
+        "dana",
+        "maya",
+        "prabhupada",
+        "raksha",
+        "srimad-bhagavatam",
+        "yoga"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 10 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_1160",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "yoga-māyā between all the other mothers and ḥimself. ṭEXṭ 13.23 tato nṛponmardana-majja-lepanā- laṅkāra-rakṣā-tilakāśanādibhiḥ saṁlālitaḥ svācaṛtaiḥ praharṣayan sāyaṁ gato yāma-yamena mādhavaḥ\n\ntataḥ – thereafter; nṛpa – O King (ṁahārāja Parīkṣit); unmardana – by massaging them with oil; majja – by bathing; lepana – by smeaṛng the body with oil and sandalwood pulp; alaṅkāra – by decorating with ornaments; rakṣā – by chanting protective mantras; tilaka – by decorating the body with tilaka marks in twelve places; aśana-ādibhiḥ – and by feeding them sumptuously; saṁlālitaḥ – in this way cared for by the mothers; sva-ācaṛtaiḥ – by their characteṛstic behavior; praharṣa-yan – making the mothers very much pleased; sāyam – evening; gataḥ – arṛved; yāma-yamena – as the time of each activity passed; mādhavaḥ – Lord Kṛṣṇa. \nṭRAṇSLAṭIOṇ"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "query": "yoga sutra patanjali eight limbs ashtanga yama niyama asana pranayama",
+  "mode": "kg_augmented",
+  "top_k": 6,
+  "max_hops": 2,
+  "fetched_at": "2026-05-25T00:01:47.399074+00:00",
+  "chunks": [
+    {
+      "chunk_id": "923e356fad190577893105a5671d197aac3a43807395e1f442f96792dc78d105",
+      "score": 0.974247607232839,
+      "seed_score": 0.715617082865489,
+      "overlap_score": 122.0,
+      "entity_ids": [
+        "anahankarah",
+        "asana",
+        "hrih",
+        "karma",
+        "nishkama_karma",
+        "prema",
+        "samadhi",
+        "santosha",
+        "seva",
+        "shanti",
+        "sthitaprajna",
+        "svadhyaya",
+        "tapas",
+        "tejas",
+        "viveka",
+        "yoga"
+      ],
+      "source": "JOURNEY OF SELF DISCOVERY_ BHAG - PREMNIDHI DAS_263",
+      "verse_ref": "",
+      "author": "Prem Nidhi Prabhu",
+      "subdomain": "",
+      "text": "the eight-fold yoga process explained below: 1. Yama - don'ts, or the regulations. 2. ṇiyama - dos, or the rules.\n\n3. Āsana - physical postures for the body.\n4. Prānāyama - breathing exercises to puṛfy the mind.\n5. Pratyāhāra - śutting the senses.\n6. ḍhāranā - holding the Lord's divine form in the mind.\n7. ḍhyāna - intense meditation on the Lord's beautiful\ntranscendental form.\n8. Samādhi - total absorption in our eternal spiṛtual love of\nGod.\nṭhus, yoga's perfection is to achieve samādhi or reawaken our pure\neternal love for the Supreme Being. ṭhere are four types of yoga\nprocesses as descṛbed below.\n6.2.2 ṭhe four types of yoga\n(i) Karma yoga — the yoga of action that chiefly engages the senses\nin work for the Supreme. ṭhere are two types of karma yogis:\na) ṭhe sakāma karma yogi is very passionate and disciplined in his\nwork. For him, work is worśip. ḥe desires to enjoy its fruits in this\nlife and the heavens in the next.\nb) ṭhe niskāma karma yogi is also a determined worker but without\nmateṛal desires. Since he is not motivated by the results, he does\nnot become proud or intoxicated by success, nor is he frustrated in\nfailure. For him, job satisfaction and inner peace are more important\nthan his labor's external fruits.\n(ī) Jnāna yoga — the yoga of wisdom that pṛmaṛly engages the\nmind to gather knowledge. A jnāna-yogi, by his philosophical study\nand deep insights, is aware that all enjoyments of this world\neventually lead to suffeṛng and death.\nṭhus, he sees the futility of mateṛal life and renounces gross\nexternal activities. ḥowever, internally he is very active in mental\nspeculations to achieve mateṛal peace. An advanced jnāna-yogi\nseeks complete liberation from all suffeṛngs by merging into the\nSupreme Lord's brahma-jyoti effulgence."
+    },
+    {
+      "chunk_id": "0cabe842cb17d55b866779742f38cfac7f4d3e88f43111cba551adc0c21d2af8",
+      "score": 0.8319672131147541,
+      "seed_score": 0.7544762187003992,
+      "overlap_score": 81.0,
+      "entity_ids": [
+        "anahankarah",
+        "prabhupada",
+        "santosha",
+        "satya",
+        "shaucha",
+        "sthitaprajna",
+        "tapas",
+        "viveka",
+        "yoga"
+      ],
+      "source": "Veda, Secrets from the East - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_176",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "Kṛṣṇa and śow how the Bhagavad-gītā expresses the culmination of all Vedic wisdom relating to yoga. ṭhe Gītā’s Eight Limbs\n\nṭhe Bhagavad-gītā addresses all eight limbs of rāja-yoga, the form of yoga popular today as aṣṭaṅga-yoga or hatha-yoga.* For example, yama, the ﬁrst limb, consists of ﬁve ethical pṛnciples: truthfulness, continence, nonviolence, noncovetousness, and abstention from stealing. ṭhese fundamental disciplines of yoga are mentioned in the Gītā, as is niyama, the second limb, which consists of things like worśip, cleanliness, contentment, austeṛty, and self-reﬂection."
+    },
+    {
+      "chunk_id": "7bb872c818ae88e47b6de3ca33c4374e8f8fd0759e7a9a214bc11195c07cb8de",
+      "score": 0.8152591754767186,
+      "seed_score": 0.7292645845823011,
+      "overlap_score": 81.0,
+      "entity_ids": [
+        "bhakti",
+        "guru_bhakti",
+        "prabhupada",
+        "samadhi",
+        "seva",
+        "tapas",
+        "tejas",
+        "yoga"
+      ],
+      "source": "Veda, Secrets from the East - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_181",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "ḥe instructs us to use these same objects in the service of God. ṭhat is true pratyāhāra. ṭhe Upper Limbs\n\nAnd then we have the culmination of yoga practice – the last three limbs of rāja-yoga: dhāraṇa, dhyāna, and samādhi, or concentration, meditation, and complete absorption.\n\nWhile yama and niyama are preliminary steps, these three are called saṁyama, “the perfect discipline” or “perfect practice.” Bhagavad-Gītā speaks extensively of these upper limbs. For example, Lord Kṛṣṇa states, “Just ﬁx your mind upon ṁe, the Supreme Personality of Godhead, and engage all your intelligence in ṁe. ṭhus you will live in ṁe always, without a doubt. ṁy dear Arjuna, O winner of wealth, if you cannot ﬁx your mind upon ṁe without deviation, then follow the regulative pṛnciples of bhakti-yoga [abhyāsa-yogena]. In this way develop a desire to attain ṁe.” (Gītā 12.8–9)"
+    },
+    {
+      "chunk_id": "b0f76d9ca90d7c5006cb66e97853bfae4406c4aeee9ef1b86f8836c47992e27f",
+      "score": 0.7779265058504403,
+      "seed_score": 0.7285894434624564,
+      "overlap_score": 72.0,
+      "entity_ids": [
+        "asana",
+        "bhakti",
+        "hrih",
+        "pranayama",
+        "prema",
+        "samadhi",
+        "yoga"
+      ],
+      "source": "JOURNEY OF SELF DISCOVERY_ BHAG - PREMNIDHI DAS_00001_463",
+      "verse_ref": "",
+      "author": "Prem Nidhi Prabhu",
+      "subdomain": "",
+      "text": "us to connect with our deepest spiṛtual essence, with the Supreme, and to śare ḥis divine love in this world.\n\nA yogi is not recognized simply by a flowing beard or long hair. Yoga\nis also not just a posture for physical fitness, stress relief, or for\nearning fabulous wealth. ṭhese are by-products or external results of\nperforming asanas which is only one aspect of the astaṛga-yoga\nsystem, the eight-fold yoga process explained below:\n\n1. Yama - don'ts, or the regulations.\n2. ṇiyama - dos, or the rules.\n\f3. Asana - physical postures for the body.\n\n4. Pranayama - breathing exercises to puṛfy the mind.\n\n5. Pratyahara - śutting the senses.\n\n6. ḍharana - holding the Lord's divine form in the mind.\n\n7. ḍhyana - intense meditation on the Lord's beautiful\ntranscendental form.\n\n8. Samadhi - total absorption in our eternal spiṛtual love of\n\nGod."
+    },
+    {
+      "chunk_id": "2ffa656a70d1d6ddfc7ef6b9f19a6a4963384e5f9c07d48be4048bb4c3467e75",
+      "score": 0.7396130741702658,
+      "seed_score": 0.7326186103516974,
+      "overlap_score": 62.0,
+      "entity_ids": [
+        "bhagavad-gita-as-it-is",
+        "guru_bhakti",
+        "prabhupada",
+        "seva",
+        "sthitaprajna",
+        "yoga"
+      ],
+      "source": "Bhagavad-gita As It Is - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_565",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "as steady as a lamp in a windless place. ṭEXṭS 20–23 yatroparamate cittaṁ niruddhaṁ yoga-sevayā yatra caivātmanātmānaṁ paśyann ātmani tuṣyati\n\nsukham ātyantikaṁ yat tad\nbuddhi-grāhyam atīndṛyam\nvetti yatra na caivāyaṁ\nsthitaś calati tattvataḥ\n\nyaṁ labdhvā cāparaṁ lābhaṁ\nmanyate nādhikaṁ tataḥ\nyasmin sthito na duḥkhena\nguruṇāpi vicālyate\n\ntaṁ vidyād duḥkha-saṁyoga-\nviyogaṁ yoga-saṁjñitam"
+    },
+    {
+      "chunk_id": "fa4e76d2c2f4c0e911ff01b62b5513763b2879621888df44e70ecc6abf57b196",
+      "score": 0.7361788132435366,
+      "seed_score": 0.7150680113539932,
+      "overlap_score": 64.0,
+      "entity_ids": [
+        "bhakti",
+        "guru_bhakti",
+        "prabhupada",
+        "seva",
+        "yoga"
+      ],
+      "source": "folio-book-TLK-ch8_0",
+      "verse_ref": "",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "22.10 Chapter Eight\n\nBhakti-yoga:\n\nṭhe Supreme Yoga System\n\nṭEXṭ 14\n\ntam imam te pravaksyami\n\nyam avocam puranaghe\n\nrsinam Srotu-kamanam\n\nyogam sarvanga-naipunam\n\nO most pious mother, I śall now explain unto you the ancient yoga system, which I explained formerly to the great sages. It is \nserviceable and practical in every way."
+    }
+  ]
+}

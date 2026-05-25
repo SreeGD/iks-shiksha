@@ -1,0 +1,37 @@
+---
+/**
+ * Wraps a content block that should only appear for a specific audience.
+ * Visibility is CSS-driven from <html data-audience="..">.
+ *
+ * Usage:
+ *   <AudienceContent only="teacher">
+ *     <p>Teacher-only content.</p>
+ *   </AudienceContent>
+ *   <AudienceContent only="parent">
+ *     <p>Parent-only content.</p>
+ *   </AudienceContent>
+ *
+ * The "unset" state shows all sections (so unconfigured first-time visitors
+ * still see complete content — the audience filter is enhancement, not gating).
+ */
+interface Props {
+  only: 'teacher' | 'parent' | 'student';
+}
+const { only } = Astro.props;
+---
+
+<div class="audience-content" data-audience-only={only}>
+  <slot />
+</div>
+
+<style>
+  /* When audience is set AND it doesn't match the block's required audience, hide. */
+  html[data-audience="teacher"] .audience-content[data-audience-only="parent"],
+  html[data-audience="teacher"] .audience-content[data-audience-only="student"],
+  html[data-audience="parent"] .audience-content[data-audience-only="teacher"],
+  html[data-audience="parent"] .audience-content[data-audience-only="student"],
+  html[data-audience="student"] .audience-content[data-audience-only="teacher"],
+  html[data-audience="student"] .audience-content[data-audience-only="parent"] {
+    display: none;
+  }
+</style>

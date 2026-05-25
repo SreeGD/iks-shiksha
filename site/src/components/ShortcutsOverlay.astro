@@ -1,0 +1,49 @@
+---
+/**
+ * Global "?" shortcuts overlay.
+ * Shows the keyboard shortcut cheatsheet.
+ */
+---
+
+<dialog id="shortcuts-modal" class="shortcuts-modal w-full max-w-md p-0 rounded-lg bg-surface text-text border border-border backdrop:bg-black/40">
+  <div class="p-4 border-b border-border flex items-center justify-between">
+    <h2 class="font-display text-lg font-bold m-0">⌨️ Keyboard shortcuts</h2>
+    <button onclick="document.getElementById('shortcuts-modal').close()" class="text-text-muted hover:text-accent" aria-label="Close">✕</button>
+  </div>
+  <div class="p-4 space-y-3 text-sm">
+    <div class="flex justify-between"><span>Open search</span><span><kbd>⌘K</kbd> · <kbd>Ctrl+K</kbd> · <kbd>/</kbd></span></div>
+    <div class="flex justify-between"><span>Open this overlay</span><kbd>?</kbd></div>
+    <div class="flex justify-between"><span>Close any modal</span><kbd>Esc</kbd></div>
+    <hr class="border-border" />
+    <p class="text-xs text-text-muted uppercase tracking-widest font-bold mt-2">On flashcards page</p>
+    <div class="flex justify-between"><span>Next card</span><kbd>→</kbd> · <kbd>J</kbd></div>
+    <div class="flex justify-between"><span>Previous card</span><kbd>←</kbd> · <kbd>K</kbd></div>
+    <div class="flex justify-between"><span>Flip card</span><kbd>Space</kbd> · <kbd>Enter</kbd></div>
+  </div>
+</dialog>
+
+<style is:global>
+  .shortcuts-modal { margin: 10vh auto auto auto; }
+  .shortcuts-modal::backdrop { backdrop-filter: blur(2px); }
+  .shortcuts-modal kbd { display: inline-block; padding: 1px 6px; border: 1px solid rgb(var(--color-border));
+                         border-radius: 3px; background: rgb(var(--color-bg)); font-size: 11px;
+                         font-family: theme('fontFamily.mono'); }
+</style>
+
+<script is:inline>
+  document.addEventListener('keydown', (e) => {
+    if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+    if (e.key === '?' || (e.shiftKey && e.key === '/')) {
+      e.preventDefault();
+      const m = document.getElementById('shortcuts-modal');
+      if (m && !m.open) m.showModal();
+    }
+  });
+  // close on backdrop click
+  const m = document.getElementById('shortcuts-modal');
+  if (m) {
+    m.addEventListener('click', (e) => {
+      if (e.target === m) m.close();
+    });
+  }
+</script>

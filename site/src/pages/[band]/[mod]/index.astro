@@ -1,0 +1,209 @@
+---
+import { withBase } from '../../../utils/path';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+import { BAND_LABELS, BAND_GRADES, MODULE_TITLES, prettyFileName } from '../../../utils/labels';
+import AudienceTabs from '../../../components/AudienceTabs.astro';
+import ProgressBar from '../../../components/ProgressBar.astro';
+
+export async function getStaticPaths() {
+  const packs = await getCollection('packs');
+  return packs.map((pack) => {
+    const [band, mod] = pack.id.split('/');
+    return { params: { band, mod }, props: { pack } };
+  });
+}
+
+const { band, mod } = Astro.params;
+type Band = 'primary' | 'middle' | 'senior';
+const b = band as Band;
+const { pack } = Astro.props;
+const { Content } = await render(pack);
+
+// All day files for this pack
+const lessons = await getCollection('lessons');
+const packLessons = lessons
+  .filter((l) => l.id.startsWith(`${band}/${mod}/days/`))
+  .sort((a, b) => a.id.localeCompare(b.id));
+
+// All docs (quizzes, activities, etc.) for this pack
+const docs = await getCollection('docs');
+const packDocs = docs.filter((d) => d.id.startsWith(`${band}/${mod}/`));
+
+// Download asset helper — points at /exports/ via the previously-built symlinks.
+// In Astro production the assets live at /pdf/, /pptx/, /docx/ from the site root.
+const stem = `${band}-${mod}`;
+const downloads = [
+  { kind: 'teacher', label: 'Teacher Guide', desc: 'Full pack — lesson plan, day files, teacher notes, quizzes, rubric', icon: '👨‍🏫' },
+  { kind: 'parent', label: 'Parent Guide', desc: 'What your child is learning, how to support at home', icon: '👪' },
+  { kind: 'student', label: 'Student Guide', desc: 'Workbook + day-by-day reading + writing prompts', icon: '👧' },
+  { kind: 'activities', label: 'Activity Pack', desc: 'Printable activity sheets + project brief', icon: '🧪' },
+].map((d) => ({ ...d, href: `/pdf/${stem}-${d.kind}.pdf` }));
+
+const moduleNumber = mod.match(/^module-(\d+)/)?.[1] ?? '?';
+const title = MODULE_TITLES[mod] ?? mod;
+---
+
+<BaseLayout title={title} band={b}>
+  <Header activeBand={b} />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <nav class="text-sm text-text-muted mb-4">
+      <a href={withBase("/")} class="text-accent-2">Home</a> ›
+      <a href={withBase(`/${band}/`)} class="text-accent-2">{BAND_LABELS[b]}</a> ›
+      Module {parseInt(moduleNumber)}
+    </nav>
+
+    {/* Hero */}
+    <div class="bg-surface border border-border rounded-lg p-6 mb-8">
+      <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+        Module {parseInt(moduleNumber)} · {BAND_LABELS[b]} ({BAND_GRADES[b]})
+      </p>
+      <h1 class="text-4xl font-display font-bold mt-1 mb-3 border-b-2 border-accent-2 pb-2">
+        {title}
+      </h1>
+      <div class="flex flex-wrap gap-3 text-sm text-text-muted">
+        <span>📚 {packLessons.length} lessons</span>
+        <span>·</span>
+        <span>⏱ {b === 'primary' ? '30' : '45'} min each</span>
+        <span>·</span>
+        <span>🧪 {docs.filter(d => d.id.startsWith(`${band}/${mod}/activities/`)).length} activities</span>
+        <span>·</span>
+        <span>📝 1 project</span>
+      </div>
+    </div>
+
+    {/* Audience tabs */}
+    <AudienceTabs />
+
+    {/* Teacher-only progress bar */}
+    <ProgressBar
+      packPrefix={`${band}/${mod}`}
+      lessonIds={packLessons.map((l) => l.id)}
+    />
+
+    {/* Audience-specific "recommended next" callout */}
+    <div class="audience-recommended mb-8">
+      <div data-audience-show="teacher" class="bg-surface border-l-4 border-accent rounded-r-lg p-4">
+        <p class="text-xs uppercase tracking-widest text-accent font-bold m-0">Recommended for teachers</p>
+        <p class="text-sm m-0 mt-1">
+          Start with the <a href={withBase(`/${band}/${mod}/lesson-plan/`)} class="text-accent font-bold">10-day lesson plan</a>, then download the
+          <a href={withBase(`/pdf/${band}-${mod}-teacher.pdf`)} class="text-accent font-bold" download> Teacher Guide PDF</a>.
+        </p>
+      </div>
+      <div data-audience-show="parent" class="bg-surface border-l-4 border-accent rounded-r-lg p-4">
+        <p class="text-xs uppercase tracking-widest text-accent font-bold m-0">Recommended for parents</p>
+        <p class="text-sm m-0 mt-1">
+          Read the <a href={withBase(`/${band}/${mod}/parent-guide/`)} class="text-accent font-bold">Parent Guide</a> first — it explains what your
+          child will learn and how to support them.
+        </p>
+      </div>
+      <div data-audience-show="student" class="bg-surface border-l-4 border-accent rounded-r-lg p-4">
+        <p class="text-xs uppercase tracking-widest text-accent font-bold m-0">Recommended for students</p>
+        <p class="text-sm m-0 mt-1">
+          Open your <a href={withBase(`/${band}/${mod}/student-workbook/`)} class="text-accent font-bold">Student Workbook</a> and start with
+          <a href={withBase(`/${band}/${mod}/days/`)} class="text-accent font-bold"> Day 1</a>.
+        </p>
+      </div>
+    </div>
+
+    <style>
+      .audience-recommended [data-audience-show] { display: none; }
+      html[data-audience="teacher"] .audience-recommended [data-audience-show="teacher"],
+      html[data-audience="parent"] .audience-recommended [data-audience-show="parent"],
+      html[data-audience="student"] .audience-recommended [data-audience-show="student"],
+      html[data-audience="unset"] .audience-recommended [data-audience-show="teacher"] {
+        display: block;
+      }
+    </style>
+
+    {/* Daily lessons */}
+    <h2 class="text-2xl font-display mt-10 mb-3">📚 Daily lessons</h2>
+    <p class="text-sm text-text-muted mb-4">
+      Click a lesson title to read it online, or download a printable PDF / projector-ready PPTX for any day.
+    </p>
+    <div class="bg-surface border border-border rounded-lg overflow-hidden">
+      <table class="w-full text-sm">
+        <thead class="bg-accent text-white">
+          <tr>
+            <th class="text-left p-3 font-bold">Lesson</th>
+            <th class="text-center p-3 font-bold w-20">PDF</th>
+            <th class="text-center p-3 font-bold w-20">PPTX</th>
+          </tr>
+        </thead>
+        <tbody>
+          {packLessons.map((lesson) => {
+            const dayStem = lesson.id.split('/').pop() ?? '';
+            return (
+              <tr class="border-t border-border hover:bg-bg">
+                <td class="p-3">
+                  <a href={withBase(`/${band}/${mod}/days/${dayStem}/`)} class="text-accent font-medium hover:underline">
+                    {prettyFileName(dayStem)}
+                  </a>
+                </td>
+                <td class="p-3 text-center">
+                  <a href={withBase(`/pdf/lessons/${stem}/${dayStem}.pdf`)} download class="text-accent text-xs">📄 PDF</a>
+                </td>
+                <td class="p-3 text-center">
+                  <a href={withBase(`/pptx/lessons/${stem}/${dayStem}.pptx`)} download class="text-accent text-xs">📊 PPTX</a>
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+
+    {/* Downloads */}
+    <h2 class="text-2xl font-display mt-10 mb-3">📥 Download guides</h2>
+    <p class="text-sm text-text-muted mb-4">
+      Four audience-specific PDFs plus the slide deck and combined workbook.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      {downloads.map((d) => (
+        <a
+          href={d.href}
+          download
+          class="bg-surface border border-border rounded-lg p-4 hover:border-accent transition-colors flex items-start gap-3 no-underline text-text"
+        >
+          <div class="text-2xl">{d.icon}</div>
+          <div>
+            <div class="font-bold">{d.label}</div>
+            <div class="text-xs text-text-muted">{d.desc}</div>
+          </div>
+        </a>
+      ))}
+      <a
+        href={withBase(`/pptx/${stem}.pptx`)}
+        download
+        class="bg-surface border border-border rounded-lg p-4 hover:border-accent transition-colors flex items-start gap-3 no-underline text-text"
+      >
+        <div class="text-2xl">📊</div>
+        <div>
+          <div class="font-bold">Slide Deck (PPTX)</div>
+          <div class="text-xs text-text-muted">~20-slide classroom deck</div>
+        </div>
+      </a>
+      <a
+        href={withBase(`/docx/iks-curriculum-${band}.docx`)}
+        download
+        class="bg-surface border border-border rounded-lg p-4 hover:border-accent transition-colors flex items-start gap-3 no-underline text-text"
+      >
+        <div class="text-2xl">📘</div>
+        <div>
+          <div class="font-bold">{BAND_LABELS[b]} Workbook (DOCX)</div>
+          <div class="text-xs text-text-muted">All 5 modules in this band combined</div>
+        </div>
+      </a>
+    </div>
+
+    {/* README content rendered */}
+    <article class="mt-12 prose prose-lg max-w-none">
+      <Content />
+    </article>
+  </main>
+
+  <Footer />
+</BaseLayout>

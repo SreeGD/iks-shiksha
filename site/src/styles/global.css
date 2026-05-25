@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ----- Design tokens (semantic, band-overridable) ----- */
+
+:root {
+  /* Light mode — neutral base; band-coloured accents */
+  --color-bg: 250 247 242;          /* warm cream  #FAF7F2 */
+  --color-surface: 255 255 255;     /* white       #FFFFFF */
+  --color-text: 26 26 26;           /* near-black  #1A1A1A */
+  --color-text-muted: 110 110 110;  /* mid-grey    #6E6E6E */
+  --color-border: 224 216 208;      /* warm grey   #E0D8D0 */
+
+  /* Default accent = teal (middle band tone) */
+  --color-accent: 39 120 132;       /* teal #277884 */
+  --color-accent-2: 254 68 71;      /* coral #FE4447 */
+}
+
+/* Band-specific palettes (applied per layout via data-band attribute) */
+[data-band="primary"] {
+  --color-accent: 135 169 107;      /* sage  #87A96B */
+  --color-accent-2: 224 122 95;     /* terracotta #E07A5F */
+}
+[data-band="middle"] {
+  --color-accent: 39 120 132;       /* teal  #277884 */
+  --color-accent-2: 254 68 71;      /* coral #FE4447 */
+}
+[data-band="senior"] {
+  --color-accent: 93 29 46;         /* burgundy #5D1D2E */
+  --color-accent-2: 153 121 41;     /* gold     #997929 */
+}
+
+/* Dark mode */
+[data-theme="dark"] {
+  --color-bg: 15 17 21;
+  --color-surface: 24 27 32;
+  --color-text: 232 232 232;
+  --color-text-muted: 160 160 160;
+  --color-border: 50 55 62;
+}
+
+/* ----- Base typography ----- */
+
+html { -webkit-text-size-adjust: 100%; }
+body { font-family: theme('fontFamily.sans'); line-height: 1.6; color: rgb(var(--color-text)); background: rgb(var(--color-bg)); }
+
+h1, h2, h3, h4 { font-family: theme('fontFamily.display'); color: rgb(var(--color-accent)); }
+h1 { font-weight: 700; }
+
+a { color: rgb(var(--color-accent)); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code, pre { font-family: theme('fontFamily.mono'); }
+
+/* Sanskrit term wrapper (set by remark plugin in Phase 4) */
+.glossary-term { border-bottom: 1px dotted rgb(var(--color-accent-2)); cursor: help; font-style: italic; }
+
+/* ----- Print stylesheet ----- */
+
+@media print {
+  body { background: #fff; color: #000; }
+  header, aside, footer, .no-print { display: none !important; }
+  main { max-width: 100%; padding: 0; }
+  h1 { font-size: 18pt; }
+  h2 { font-size: 14pt; page-break-after: avoid; }
+  a { color: #000; text-decoration: none; }
+}

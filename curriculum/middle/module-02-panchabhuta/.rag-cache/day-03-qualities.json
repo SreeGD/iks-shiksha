@@ -1,0 +1,131 @@
+{
+  "query": "tanmatra subtle elements sound touch form taste smell qualities sense perception",
+  "mode": "kg_augmented",
+  "top_k": 6,
+  "max_hops": 2,
+  "fetched_at": "2026-05-24T23:41:43.550815+00:00",
+  "chunks": [
+    {
+      "chunk_id": "bd262ba4f20dcef9c258b6f24220914327631f672c5c8f38e1ce123cada4f682",
+      "score": 0.9704330723698574,
+      "seed_score": 0.6592544426112191,
+      "overlap_score": 123.0,
+      "entity_ids": [
+        "anahankarah",
+        "hrih",
+        "nishkama_karma",
+        "prabhupada",
+        "rasa",
+        "sb-3-26-44",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "folio-verse-SB-3.26.44",
+      "verse_ref": "SB 3.26.44",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 3.26.44]\n\nरसमात्राद्विकुर्वाणादम्भसो दैवचोदितात् ।\nगन्धमात्रमभूत्तस्मात्पृथ्वी घ्राणस्तु गन्धग: ॥ ४४ ॥\n\nrasa-mātrād vikurvāṇād\nambhaso daiva-coditāt\ngandha-mātram abhūt tasmāt\npṛthvī ghrāṇas tu gandhagaḥ\n\nSynonyms: rasa-mātrāt - which evolves from the subtle element taste; vikurvāṇāt - undergoing transformation; ambhasaḥ - from water; daiva-coditāt - by a supeṛor arrangement; gandha-mātram - the subtle element odor; abhūt - became manifest; tasmāt - from that; pṛthvī - earth; ghrāṇaḥ - the olfactory sense; tu - in fact; gandha-gaḥ - which perceives aromas.\n\n[Translation]\nDue to the interaction of water with the taste perception, the subtle element odor evolves under superior arrangement. Thence the earth and the olfactory sense, by which we can variously experience the aroma of the earth, become manifest.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nFrom transformation of water whose tan-mātrā is taste, by the influence of time, arose smell.  From smell arose earth.  The nose perceives smell."
+    },
+    {
+      "chunk_id": "a649d361bbac0bf47b3b6de6a2083ca6e2fcd58b423d79b1ecff1b30e53ba92e",
+      "score": 0.9704064630016376,
+      "seed_score": 0.6706104679119601,
+      "overlap_score": 121.0,
+      "entity_ids": [
+        "anahankarah",
+        "hrih",
+        "karma",
+        "mardava",
+        "nishkama_karma",
+        "prabhupada",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 03 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_2037",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "of the subtle element touch; sparśatvam – the distinguiśing attṛbutes; tat-mātratvam – the subtle form; nabhasvataḥ – of air. ṭRAṇSLAṭIOṇ\n\nSoftness and hardness and cold and heat are the distinguiśing attṛbutes of touch, which is characteṛzed as the subtle form of air. \nPURPORṭ\n\nṭangibility is the proof of form. In actuality, objects are perceived in two different ways. ṭhey are either soft or hard, cold or hot, etc. ṭhis tangible action of the tactile sense is the result of the evolution of air, which is produced from the sky. \nṭEXṭ 26.37\n\ncālanaṁ vyūhanaṁ prāptir\n netṛtvaṁ dravya-śabdayoḥ\nsarvendṛyāṇām ātmatvaṁ\n vāyoḥ karmābhilakṣaṇam\n\ncālanam – moving; vyūhanam – mixing; prāptiḥ – allowing approach; netṛtvam – carrying; dravya-śabdayoḥ – particles of substances and sound; sarva-indṛyāṇām – of all the senses; ātmatvam – providing for the proper functioning; vāyoḥ – of air; karma – by actions; abhilakṣaṇam – the distinct characteṛstics. \nṭRAṇSLAṭIOṇ"
+    },
+    {
+      "chunk_id": "05cf72c010bdfe3cd9b72dab7c9c0aaef5a2d7a618789303679b9551f25c4d4f",
+      "score": 0.9642813878881888,
+      "seed_score": 0.6563302663644751,
+      "overlap_score": 122.0,
+      "entity_ids": [
+        "anahankarah",
+        "hrih",
+        "nishkama_karma",
+        "prabhupada",
+        "rasa",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 03 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_2050",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "water is most prominent. Also, excessive heat can be reduced simply by pouṛng water on the heated field. ṭEXṭ 26.44\n\nrasa-mātrād vikurvāṇād\n ambhaso daiva-coditāt\ngandha-mātram abhūt tasmāt\n pṛthvī ghrāṇas tu gandhagaḥ\n\nrasa-mātrāt – which evolves from the subtle element taste; vikurvāṇāt – undergoing transformation; ambhasaḥ – from water; daiva-coditāt – by a supeṛor arrangement; gandha-mātram – the subtle element odor; abhūt – became manifest; tasmāt – from that; pṛthvī – earth; ghrāṇaḥ – the olfactory sense; tu – in fact; gandha-gaḥ – which perceives aromas. \nṭRAṇSLAṭIOṇ\n\nḍue to the interaction of water with the taste perception, the subtle element odor evolves under supeṛor arrangement. ṭhence the earth and the olfactory sense, by which we can vaṛously expeṛence the aroma of the earth, become manifest. \nṭEXṭ 26.45\n\nkarambha-pūti-saurabhya-\n śāntogrāmlādibhiḥ pṛthak\ndravyāvayava-vaiṣamyād\n gandha eko vibhidyate"
+    },
+    {
+      "chunk_id": "fb6f053c534ee647a11f632dff928b73f4fb22ed5651ee61c7ad9519aa49367a",
+      "score": 0.9637572343821231,
+      "seed_score": 0.661292386839832,
+      "overlap_score": 121.0,
+      "entity_ids": [
+        "anahankarah",
+        "hrih",
+        "mardava",
+        "nishkama_karma",
+        "prabhupada",
+        "sb-3-26-36",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "folio-verse-SB-3.26.36",
+      "verse_ref": "SB 3.26.36",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 3.26.36]\n\nमृदुत्वं कठिनत्वं च शैत्यमुष्णत्वमेव च ।\nएतत्स्पर्शस्य स्पर्शत्वं तन्मात्रत्वं नभस्वत: ॥ ३६ ॥\n\nmṛdutvaṁ kaṭhinatvaṁ ca\nśaityam uṣṇatvam eva ca\netat sparśasya sparśatvaṁ\ntan-mātratvaṁ nabhasvataḥ\n\nSynonyms: mṛdutvam - softness; kaṭhinatvam - hardness; ca - and; śaityam - cold; uṣṇatvam - heat; eva - also; ca - and; etat - this; sparśasya - of the subtle element touch; sparśatvam - the distinguiśing attṛbutes; tat-mātratvam - the subtle form; nabhasvataḥ - of air.\n\n[Translation]\nSoftness and hardness and cold and heat are the distinguishing attributes of touch, which is characterized as the subtle form of air.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nThe main characteristics of touch are softness, hardness, cold and heat.  It is the tan-mātrā of air.\n\nThe characteristics of touch are described.  The main characteristics (sparśatvam) of touch are softness, hardness, cold and heat. It is the tan-mātrā of air (nabhasvataḥ).\n\n[Purport]\nTangibility is the proof of form. In actuality, objects are perceived in two different ways. They are either soft or hard, cold or hot, etc. This tangible action of the tactile sense is the result of the evolution of air, which is produced from the sky."
+    },
+    {
+      "chunk_id": "092046b471ce46d5209b1eb7238db5c837bb69f1b34094290c1a700fb9a775a4",
+      "score": 0.9596817788924707,
+      "seed_score": 0.6897610794093613,
+      "overlap_score": 115.0,
+      "entity_ids": [
+        "anahankarah",
+        "hrih",
+        "nishkama_karma",
+        "prabhupada",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 03 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_2040",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "movements of the air. ṭhe ability to detect odors is also due to the action of the air. ṭEXṭ 26.38\n\nvāyoś ca sparśa-tanmātrād\n rūpaṁ daiveṛtād abhūt\nsamutthitaṁ tatas tejaś\n cakṣū rūpopalambhanam\n\nvāyoḥ – from air; ca – and; sparśa-tanmātrāt – which evolves from the subtle element touch; rūpam – form; daiva-īṛtāt – according to destiny; abhūt – evolved; samutthitam – arose; tataḥ – from that; tejaḥ – fire; cakṣuḥ – sense of sight; rūpa – color and form; upalambhanam – perceiving. \nṭRAṇSLAṭIOṇ\n\nBy interactions of the air and the sensations of touch, one receives different forms according to destiny. By evolution of such forms, there is fire, and the eye sees different forms in color. \nPURPORṭ"
+    },
+    {
+      "chunk_id": "a5f4ba64c2c11742b861b5e93c1f5ca61533412603f3e52052ac6913c8543d33",
+      "score": 0.9494073804596284,
+      "seed_score": 0.6696661084657527,
+      "overlap_score": 116.0,
+      "entity_ids": [
+        "anahankarah",
+        "hrih",
+        "nishkama_karma",
+        "prabhupada",
+        "sb-3-26-38",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "folio-verse-SB-3.26.38",
+      "verse_ref": "SB 3.26.38",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 3.26.38]\n\nवायोश्च स्पर्शतन्मात्राद्रूपं दैवेरितादभूत् ।\nसमुत्थितं ततस्तेजश्चक्षू रूपोपलम्भनम् ॥ ३८ ॥\n\nvāyoś ca sparśa-tanmātrād\nrūpaṁ daiveṛtād abhūt\nsamutthitaṁ tatas tejaś\ncakṣū rūpopalambhanam\n\nSynonyms: vāyoḥ - from air; ca - and; sparśa-tanmātrāt - which evolves from the subtle element touch; rūpam - form; daiva-īṛtāt - according to destiny; abhūt - evolved; samutthitam - arose; tataḥ - from that; tejaḥ - fire; cakṣuḥ - sense of sight; rūpa - color and form; upalambhanam - perceiving.\n\n[Translation]\nBy interactions of the air and the sensations of touch, one receives different forms according to destiny. By evolution of such forms, there is fire, and the eye sees different forms in color.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nFrom air, whose tan-mātrā is touch, under the influence of time, arose form.  From form arose fire.  The eye perceives form.\n\n[Purport]\nBecause of destiny, the touch sensation, the interactions of air, and the situation of the mind, which is produced of the ethereal element, one receives a body according to his previous activities. Needless to say, a living entity transmigrates from one form to another. His form changes according to destiny and by the arrangement of a superior authority which controls the interaction of air and the mental situation. Form is the combination of different types of sense perception. Predestined activities are the plans of the mental situation and the interaction of air."
+    }
+  ]
+}

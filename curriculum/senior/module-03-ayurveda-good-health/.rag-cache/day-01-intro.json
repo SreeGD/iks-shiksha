@@ -1,0 +1,113 @@
+{
+  "query": "Ayurveda health swasthya doshas vata pitta kapha balance lifestyle wellness",
+  "mode": "kg_augmented",
+  "top_k": 6,
+  "max_hops": 2,
+  "fetched_at": "2026-05-25T03:28:37.118399+00:00",
+  "chunks": [
+    {
+      "chunk_id": "ff66ea2680a848b521ca509bdd5268b1df3e6e1e62e5289fdc57816afbbd3126",
+      "score": 0.9611058222389744,
+      "seed_score": 0.7487276880727345,
+      "overlap_score": 29.0,
+      "entity_ids": [
+        "abhaya",
+        "bhakti",
+        "dhairya",
+        "guru",
+        "guru_bhakti",
+        "kartavya",
+        "kritajnata",
+        "prema",
+        "raksha",
+        "saurya",
+        "seva"
+      ],
+      "source": "JOURNEY OF SELF DISCOVERY_ BHAG - PREMNIDHI DAS_315",
+      "verse_ref": "",
+      "author": "Prem Nidhi Prabhu",
+      "subdomain": "",
+      "text": "need to learn the art of balancing every aspect of our life based on the pṛnciples of the Bhagavad Gita.\n\nPhysical health\nOur body is like a car. It needs proper maintenance. Ayurveda\nrecommends three pillars for a healthy lifestyle: adequate food,\nregular exercise, and sufficient rest. Bhagavad Gita explains that one\nśould neither eat too much nor too little. One śould neither sleep\ntoo much nor too little. And further, the Gita says that our body is\nlike a machine. We need to oil this machine through some regular\nexercises to beat the stagnancy of our modern lifestyles.\nIn the bhakti tradition, the body is considered to be the property and\na gift of God. ṁy guru Sṛla Prabhupada, the Founder-Ācārya of\nISKCOṇ, ended every letter he wrote with, 'I hope this letter meets\nyou in good health.' ṭherefore, it is our duty to take care of our body\nfor the purpose of rendeṛng service to God and humanity — as long\nas we can.\nEmotional health\nWhat are the needs of a family? Loyalty, care, affection, to name a\nfew. Physically, we care for each other by providing necessities like\nhousing, clothing, and health. But emotional care is equally\nessential. We have a responsibility to make each other happy\nthrough appreciation and encouragement.\nOnce I was at the home of a ṛch couple in Illinois. ṭhough\nextremely ṛch, they had to work hard to sustain their wealth. ṭheir\nson, playing in the basement of their huge mansion, had toys worth\nthousands of dollars: high-tech computeṛzed machines, games, and\nweapons. ṭhe boy would play with a toy for a while but soon got\nbored with it and wanted another one. ḥe was dissatisfied because\nhis parents didn't provide him what he really wanted—attention,\naffection, and love.\nSome ladies complain that their husbands do not care for them and\ndo not like their food. When I ask the husbands, they reply that they\ncare for their wives and do like what they prepare. ṭhe problem lies\nin the lack of communication. Sometimes in marṛage, we\ncommunicate with everybody except the person we live with. ḥonest"
+    },
+    {
+      "chunk_id": "83b58c67668680172ef99e0c17550e1a3569a61770526281500ed1cbd709147e",
+      "score": 0.9084485678197366,
+      "seed_score": 0.7192165703100917,
+      "overlap_score": 27.0,
+      "entity_ids": [
+        "bhagavad-gita-as-it-is",
+        "bhakti",
+        "nishkama_karma",
+        "prabhupada",
+        "seva",
+        "yoga"
+      ],
+      "source": "Bhagavad-gita As It Is - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_260",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "make one’s life successful. Like misers, unfortunate persons do not employ their human energy in the service of the Lord.\n\nṭEXṭ 50\n\nbuddhi-yukto jahātīha\nubhe sukṛta-duṣkṛte\ntasmād yogāya yujyasva\nyogaḥ karmasu kauśalam\n\nbuddhi-yuktaḥ – one who is engaged in devotional service; jahāti – can get ṛd of; iha – in this life; ubhe – both; sukṛta-duṣkṛte – good and bad results; tasmāt – therefore; yogāya – for the sake of devotional service; yujyasva – be so engaged; yogaḥ – Kṛṣṇa consciousness; karmasu – in all activities; kauśalam – art. \nṭRAṇSLAṭIOṇ\n\nA man engaged in devotional service ṛds himself of both good and bad reactions even in this life. ṭherefore stṛve for yoga, which is the art of all work. \nPURPORṭ"
+    },
+    {
+      "chunk_id": "49ac7a22ae564101176cfcc7f8a7fef87679d178781f9dc70de562c42d07d970",
+      "score": 0.7775959743927785,
+      "seed_score": 0.7587062535864203,
+      "overlap_score": 18.0,
+      "entity_ids": [
+        "bhakti",
+        "guru",
+        "guru_bhakti",
+        "kartavya",
+        "seva"
+      ],
+      "source": "JOURNEY OF SELF DISCOVERY_ BHAG - PREMNIDHI DAS_00001_565",
+      "verse_ref": "",
+      "author": "Prem Nidhi Prabhu",
+      "subdomain": "",
+      "text": "learn the art of balancing every aspect of our life based on the pṛnciples of the Bhagavad Gita. Physical health\n\nOur body is like a car. It needs proper maintenance. Ayurveda\nrecommends three pillars for a healthy lifestyle: adequate food,\nregular exercise, and sufficient rest. Bhagavad Gita explains that one\nśould neither eat too much nor too little. One śould neither sleep\ntoo much nor too little. And further, the Gita says that our body is\nlike a machine. We need to oil this machine through some regular\nexercises to beat the stagnancy of our modern lifestyles.\n\nIn the bhakti tradition, the body is considered to be the property and\na gift of God. ṁy guru Sṛla Prabhupada, the Founder-Acarya of\nISKCOṇ, ended every letter he wrote with, 'I hope this letter meets\nyou in good health.’ ṭherefore, it is our duty to take care of our body\nfor the purpose of rendeṛng service to God and humanity — as long\nas we can.\n\nEmotional health"
+    },
+    {
+      "chunk_id": "5059bbaad2458507a73d5a65e86d59b5e58533570ed2cf1416c5476501a8be1e",
+      "score": 0.6670243400292671,
+      "seed_score": 0.747139590393575,
+      "overlap_score": 12.0,
+      "entity_ids": [
+        "karma",
+        "yoga"
+      ],
+      "source": "Ayurveda fact sheet 2_2",
+      "verse_ref": "",
+      "author": "Better Health Channel",
+      "subdomain": "ayurveda",
+      "text": "be upset by a vaṛety of factors including diet, stress, emotional upset and the weather. Ayurveda Page 1 of 2\n\nḍośas and their effect on prana\nAn Ayurvedic practitioner aims to balance the patient’s dośas in order to increase their life energy,\nor ‘prana’. Only then is good health possible. We take up prana from the food we eat and the air\nwe breathe. Food can affect a person’s dośa levels because food is also made up of the five basic\nelements and can be predominantly Vata, Pitta or Kapha.\nA range of therapies\nAn Ayurvedic practitioner uses a range of healing therapies to balance the dośas and bolster\nprana, including:\n•\nAromatherapy\n•\nḍietary therapy\n•\nḥerbal medicine\n•\nAcupuncture (practiced by some practitioners)\n•\nṁassage\n•\nṁeditation\n•\nPancha karma (‘five therapies’) – a specialised treatment consisting of five therapies\nresulting in internal detoxification and balancing of the dośas or the three energies (Vata,\nPitta and Kapha)\n•\nSound therapy, or the use of mantras\n•\nYoga.\nSpecial considerations\nḥerbal medicines can be as potent as pharmaceutical drugs and śould be treated with the same\ncaution and respect. ṇever stop taking your conventional medicine or alter the dose without the\nknowledge and approval of your doctor.\nWhere to get help\n•\nYour doctor\n•\nAyurvedic practitioner\n•\nAustralasian Ayurvedic Practitioners Association ṭel. (07) 5531 1141\nṭhings to remember\n•\nAyurveda is an ancient Indian healing system that has been developing over the past 5,000\nyears.\n•\nIllness is believed to be caused by an imbalance of the body’s three vital forces, or\n‘dośas’.\n•\nṭreatment options are vaṛed and can include yoga, acupuncture, herbal medicine,\nmassage therapy and dietary changes."
+    },
+    {
+      "chunk_id": "8a22f3740549efa59c2708b9d4df67dee1256195fbde2a04a2a8f827a986ab37",
+      "score": 0.6449987583535128,
+      "seed_score": 0.7673671235194972,
+      "overlap_score": 10.0,
+      "entity_ids": [
+        "yoga"
+      ],
+      "source": "Ayurveda fact sheet 2_1",
+      "verse_ref": "",
+      "author": "Better Health Channel",
+      "subdomain": "ayurveda",
+      "text": "Image descṛption. Better ḥealth Channel logo End of image descṛption. Ima ge des cṛp Ayurveda\n\nAyurveda is an ancient healing system from India that dates back some 5,000 years or more. It\nencompasses a wide range of techniques to treat illness and encourage general wellbeing,\nincluding:\n•\nḥerbs\n•\nYoga\n•\nAcupuncture, also called marmapuncture\n•\nḍiet\n•\nBreathing exercises\n•\nṁassage.\nṭranslated from Sanskṛt, Ayurveda means ‘the science of life’. ṭhe central philosophy is that the\nmind and body are one and the same, and that physical health can’t be achieved without\nemotional, mental and spiṛtual health.\nSince Ayurveda is only now gaining some populaṛty in the West, the number of scientific studies\nhas been small. From the evidence so far, it seems that the Ayurvedic approach can be effective in\ntreating a number of disorders, including digestive problems and allergies.\nA range of disorders\nAyurveda can be used to treat a range of disorders, including:\n•\nAnxiety\n•\nḍigestive problems\n•\nEczema\n•\nḥigh blood pressure\n•\nḥigh cholesterol levels\n•\nRheumatoid arthṛtis\n•\nStress.\nṭhe five elements and dośas\nAccording to Ayurveda, the five elements that make up everything in the universe are earth, water,\nfire, air and ether. Each element is represented in the human body. For instance, bones and teeth\nare earth, blood and lymph are water, the metabolism is fire, oxygen is air, and ether is the spaces\nfound between matter and represented best by vibration or sound. ṭhese five elements pair up to\nform three forces, or ‘dośas’, within the body:\n•\nVata – made up of air and ether. Responsible for such functions as the heartbeat,\nlocomotion and the workings of the nervous system. ṭoo much Vata can lead to symptoms\nsuch as high blood pressure, while too little can result in constipation.\n•\nPitta – made up of fire and water. Responsible for such functions as digestion and\ntemperature. ṭoo much Pitta can lead to symptoms such as ulcers and acne, while too little\ncan result in indigestion.\n•\nKapha – made up of water and earth. Responsible for such functions as immunity. ṭoo\nmuch Kapha can lead to symptoms such as a runny nose or productive cough, while too\nlittle can result in poor concentration.\nAn individual blend of dośas\nEach person has an individual blend of the three dośas, with one or sometimes two dośas\npredominating. Someone who is mainly a Vata type will be creative and nervous; a Pitta type,\nconfident and competitive; and a Kapha type will be patient and possessive. A person’s dośa\nbalance can be upset by a vaṛety of factors including diet, stress, emotional upset and the\nweather.\nAyurveda\nPage 1 of 2"
+    },
+    {
+      "chunk_id": "03587e97da8099b80aa4fb6c556741fbd45483977a51726462baa35fa6cbf68b",
+      "score": 0.6407224658346898,
+      "seed_score": 0.7604234276112687,
+      "overlap_score": 10.0,
+      "entity_ids": [
+        "yoga"
+      ],
+      "source": "Ayurveda, Yoga_92",
+      "verse_ref": "",
+      "author": "Unknown",
+      "subdomain": "ayurveda",
+      "text": "10 aṁ.–2 pṁ.—Pitta 10 pṁ.–2 aṁ.—Pitta 2 pṁ.–6 pṁ.—V¯ata 2 aṁ.–6 aṁ.—V¯ata ṭhe times listed vary with season and location.\n\nirresponsibility for maintaining their own health.97 In this connection\nÅyurveda emphasizes prevention, and the individual’s responsibility and\nalso power to cultivate her or his own health. A person living according\nto Åyurvedic pṛnciples of diet, daily and seasonal routine, and mental at-\ntitude is probably less likely to develop conditions such heart disease.\nṁoreover, Åyurveda fosters acute sensitivity to one’s health states so that\nsymptoms of incipient illness can be addressed in their early stages.\nÅyurveda’s notion of equilibṛum is dynamic rather than static, and\nhealth therefore is not so much a state, but a force: the power to resist\nand overcome threats to one’s well-being. Embodied life involves a dy-\nnamic tension between health and illness; health is not constant well-\nbeing, but consists in the power to overcome sickness, to overcome one-\nself. In his life and thought, ṇietzsche valued sickness as well as health,\nand counted illnesses among “the great stimulants to life.”98 In the tides\nof illness and health, sickness incites inclination toward life and health,\nand saying Yes to being. ṭhe great health, ṇietzsche says, “one does not\nmerely have but also acquires continually.”99 ṭhe great health is great\nenough to encompass illness, so that one can go beyond accepting sick-\nness to afﬁrming it as a necessary part of life. ṭhe ṭ¯antṛc notion of ´sakti,\nthe dynamic aspect of being, conveys the notion of health as a power: the\ndynamic force of thṛving in one’s Self-nature. ṭhṛving entails resistance\nand overcoming of physical and psychological intrusions to the integṛty\nof one’s being. ṭhe practice of Yoga serves precisely to cultivate health\nfor overcoming physical and mental intrusions that interfere with the full\nmanifestation of the true Self, which is whole and well. ṭhe following\nchapter, “Classical Yoga as a Religious ṭherapeutic,” applies Åyurvedic\nconcepts of health to reconstruct Yoga’s therapeutic paradigm. \n82\nreligious therapeutics"
+    }
+  ]
+}

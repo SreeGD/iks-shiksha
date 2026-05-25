@@ -1,0 +1,56 @@
+---
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { loadGlossary, type GlossaryTerm } from '../../utils/glossary';
+
+export async function getStaticPaths() {
+  const terms = loadGlossary();
+  return terms.map((t) => ({ params: { slug: t.slug }, props: { term: t } }));
+}
+
+interface Props { term: GlossaryTerm; }
+const { term } = Astro.props;
+---
+
+<BaseLayout title={term.term} description={term.definition || term.literal || ''}>
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <nav class="text-sm text-text-muted mb-4">
+      <a href={withBase("/")} class="text-accent-2">Home</a> ›
+      <a href={withBase("/glossary/")} class="text-accent-2">Glossary</a> ›
+      {term.term}
+    </nav>
+
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">{term.section}</p>
+    <h1 class="text-4xl font-display font-bold mb-2 border-b-2 border-accent-2 pb-2">
+      <em>{term.term}</em>
+      {term.devanagari && (
+        <span class="ml-3 font-devanagari font-normal text-text-muted text-3xl">{term.devanagari}</span>
+      )}
+    </h1>
+
+    {term.literal && (
+      <p class="text-lg italic text-text-muted mt-3">"{term.literal}"</p>
+    )}
+
+    {term.definition && (
+      <p class="text-lg mt-3">{term.definition}</p>
+    )}
+
+    {term.alternates.length > 0 && (
+      <div class="mt-6 p-4 bg-surface border border-border rounded-lg">
+        <p class="text-xs uppercase tracking-widest text-text-muted font-bold m-0">Alternate spellings</p>
+        <p class="text-sm m-0 mt-1">{term.alternates.join(', ')}</p>
+      </div>
+    )}
+
+    <nav class="mt-10 pt-6 border-t border-border text-sm">
+      ← <a href={withBase("/glossary/")} class="text-accent hover:underline">Back to glossary</a>
+    </nav>
+  </main>
+
+  <Footer />
+</BaseLayout>

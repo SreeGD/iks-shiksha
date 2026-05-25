@@ -1,0 +1,93 @@
+---
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { loadGlossary } from '../../utils/glossary';
+
+const terms = loadGlossary();
+
+// Group by section
+const sections: Record<string, typeof terms> = {};
+for (const t of terms) {
+  if (!sections[t.section]) sections[t.section] = [];
+  sections[t.section].push(t);
+}
+---
+
+<BaseLayout title="Sanskrit Glossary" description="Sanskrit terms used in the IKS curriculum, with IAST + meaning.">
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">Reference</p>
+    <h1 class="text-4xl font-display font-bold mb-3 border-b-2 border-accent-2 pb-2">
+      Sanskrit Glossary
+    </h1>
+    <p class="text-text-muted text-lg mb-6">
+      {terms.length} terms from across the curriculum. Click a term to see its full definition.
+    </p>
+
+    <div class="mb-6">
+      <input
+        id="glossary-filter"
+        type="search"
+        placeholder="Filter terms (try 'pṛthvī' or 'panch')…"
+        class="w-full px-4 py-2 border border-border rounded-lg bg-surface focus:border-accent outline-none"
+      />
+    </div>
+
+    {Object.entries(sections).map(([sect, sectTerms]) => (
+      <section class="glossary-section mb-8" data-section={sect}>
+        <h2 class="text-xl font-display text-accent mb-3 mt-6">{sect}</h2>
+        <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 list-none p-0">
+          {sectTerms.map((t) => (
+            <li class="glossary-item"
+              data-term={t.term.toLowerCase()}
+              data-alternates={t.alternates.join(' ').toLowerCase()}>
+              <a
+                href={withBase(`/glossary/${t.slug}/`)}
+                class="block bg-surface border border-border rounded p-3 hover:border-accent no-underline text-text"
+              >
+                <div class="font-bold">
+                  <em>{t.term}</em>
+                  {t.devanagari && <span class="ml-2 font-devanagari font-normal text-text-muted">{t.devanagari}</span>}
+                </div>
+                {t.literal && (
+                  <div class="text-xs text-text-muted italic mt-0.5">"{t.literal}"</div>
+                )}
+                {t.definition && (
+                  <div class="text-sm mt-1">{t.definition}</div>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+
+  <Footer />
+
+  <script is:inline>
+    // Filter terms as the user types
+    const input = document.getElementById('glossary-filter');
+    if (input) {
+      input.addEventListener('input', () => {
+        const q = input.value.toLowerCase().trim();
+        let visibleCount = 0;
+        document.querySelectorAll('.glossary-item').forEach((item) => {
+          const term = item.dataset.term || '';
+          const alts = item.dataset.alternates || '';
+          const matches = !q || term.includes(q) || alts.includes(q) || item.textContent.toLowerCase().includes(q);
+          item.style.display = matches ? '' : 'none';
+          if (matches) visibleCount++;
+        });
+        // Hide empty sections
+        document.querySelectorAll('.glossary-section').forEach((sect) => {
+          const visible = sect.querySelectorAll('.glossary-item:not([style*="display: none"])');
+          sect.style.display = visible.length > 0 ? '' : 'none';
+        });
+      });
+    }
+  </script>
+</BaseLayout>

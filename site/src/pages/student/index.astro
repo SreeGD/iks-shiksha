@@ -1,0 +1,90 @@
+---
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { BAND_LABELS, MODULE_TITLES } from '../../utils/labels';
+
+const docs = await getCollection('docs');
+const workbooks = docs.filter((d) => d.id.endsWith('/student-workbook')).sort((a, b) => a.id.localeCompare(b.id));
+---
+
+<BaseLayout title="Student home" description="Workbooks, vocabulary, project briefs for students.">
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">For Students</p>
+    <h1 class="text-4xl font-display font-bold mb-3 border-b-2 border-accent-2 pb-2">
+      Student home
+    </h1>
+    <p class="text-text-muted text-lg mb-8">
+      Find your grade band, open your workbook, and explore the lessons.
+    </p>
+
+    {/* Band picker — students are siloed to one */}
+    <h2 class="text-2xl font-display mt-8 mb-4">Pick your grade band</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mb-8">
+      <a href={withBase("/primary/")} class="bg-surface border border-border rounded-lg p-5 hover:border-accent transition-colors no-underline text-text">
+        <div class="text-2xl mb-1">🧒</div>
+        <div class="font-bold text-accent">Primary</div>
+        <div class="text-xs text-text-muted">Grades 3–5</div>
+      </a>
+      <a href={withBase("/middle/")} class="bg-surface border border-border rounded-lg p-5 hover:border-accent transition-colors no-underline text-text">
+        <div class="text-2xl mb-1">👧</div>
+        <div class="font-bold text-accent">Middle</div>
+        <div class="text-xs text-text-muted">Grades 6–8</div>
+      </a>
+      <a href={withBase("/senior/")} class="bg-surface border border-border rounded-lg p-5 hover:border-accent transition-colors no-underline text-text">
+        <div class="text-2xl mb-1">🧑‍🎓</div>
+        <div class="font-bold text-accent">Senior</div>
+        <div class="text-xs text-text-muted">Grades 9–12</div>
+      </a>
+    </div>
+
+    {/* Workbooks per band */}
+    <h2 class="text-2xl font-display mt-10 mb-4">📓 Your workbook</h2>
+    <p class="text-sm text-text-muted mb-4">Each module has a student workbook to fill in as you learn.</p>
+    {['primary', 'middle', 'senior'].map((band) => {
+      const bandBooks = workbooks.filter((w) => w.id.startsWith(`${band}/`));
+      return (
+        <div class="mb-6">
+          <h3 class="text-lg font-display text-accent mb-2">{BAND_LABELS[band]}</h3>
+          <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 list-none p-0">
+            {bandBooks.map((w) => {
+              const mod = w.id.split('/')[1];
+              return (
+                <li>
+                  <a href={withBase(`/${band}/${mod}/student-workbook/`)} class="block text-sm bg-surface border border-border rounded px-3 py-2 hover:border-accent no-underline text-text">
+                    📓 {MODULE_TITLES[mod] ?? mod}
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      );
+    })}
+
+    {/* Vocabulary flashcards — placeholder */}
+    <h2 class="text-2xl font-display mt-10 mb-4">📚 Vocabulary practice</h2>
+    <div class="bg-surface border-l-4 border-accent-2 rounded-r-lg p-5">
+      <p class="font-bold m-0">Sanskrit flashcards (coming soon)</p>
+      <p class="text-sm text-text-muted m-0 mt-1">
+        Interactive flashcards for all the Sanskrit terms you've met. Ships in Phase 5.
+      </p>
+      <p class="text-sm m-0 mt-2">
+        For now, you can browse the full glossary →
+        <a href={withBase("/glossary/")} class="text-accent font-bold no-underline hover:underline">Sanskrit Glossary</a>
+      </p>
+    </div>
+  </main>
+
+  <Footer />
+
+  <script is:inline>
+    try { localStorage.setItem('iks-audience', 'student'); } catch (e) {}
+    document.documentElement.setAttribute('data-audience', 'student');
+    document.dispatchEvent(new CustomEvent('iks-audience-change', { detail: 'student' }));
+  </script>
+</BaseLayout>

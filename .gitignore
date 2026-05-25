@@ -1,0 +1,32 @@
+# node / pnpm
+node_modules/
+**/node_modules/
+.pnpm-store/
+pnpm-debug.log
+npm-debug.log
+yarn-error.log
+
+# Astro build output
+site/dist/
+site/.astro/
+
+# Generated work-in-progress folders
+.build-tmp/
+
+# Old v1 site (kept previously as fallback — replaced by Astro v2)
+exports/site/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# User-specific
+.claude/
+
+# Environment
+.env
+.env.*
+!.env.example

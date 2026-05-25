@@ -1,0 +1,105 @@
+---
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { BAND_LABELS, MODULE_TITLES } from '../../utils/labels';
+
+const docs = await getCollection('docs');
+const parentGuides = docs.filter((d) => d.id.endsWith('/parent-guide')).sort((a, b) => a.id.localeCompare(b.id));
+---
+
+<BaseLayout title="Parent home" description="What your child is learning, how to support at home.">
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">For Parents</p>
+    <h1 class="text-4xl font-display font-bold mb-3 border-b-2 border-accent-2 pb-2">
+      Parent home
+    </h1>
+    <p class="text-text-muted text-lg mb-8">
+      Your child is learning about the intellectual traditions of the Indian subcontinent.
+      Here is what to expect, how to support, and what to look for.
+    </p>
+
+    {/* Parent guides for every pack — link directly */}
+    <h2 class="text-2xl font-display mt-8 mb-4">Pick your child's band</h2>
+    <p class="text-sm text-text-muted mb-4">Each band has parent guides for all 5 modules.</p>
+    {['primary', 'middle', 'senior'].map((band) => {
+      const bandGuides = parentGuides.filter((g) => g.id.startsWith(`${band}/`));
+      return (
+        <div class="mb-8">
+          <h3 class="text-lg font-display text-accent mb-2">
+            <a href={withBase(`/${band}/`)} class="no-underline hover:underline">{BAND_LABELS[band]}</a>
+          </h3>
+          <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 list-none p-0">
+            {bandGuides.map((g) => {
+              const mod = g.id.split('/')[1];
+              return (
+                <li>
+                  <a href={withBase(`/${band}/${mod}/parent-guide/`)} class="block text-sm bg-surface border border-border rounded px-3 py-2 hover:border-accent no-underline text-text">
+                    👪 {MODULE_TITLES[mod] ?? mod}
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      );
+    })}
+
+    {/* FAQ */}
+    <h2 class="text-2xl font-display mt-10 mb-4">Frequently asked</h2>
+    <div class="space-y-3">
+      <details class="bg-surface border border-border rounded-lg p-4">
+        <summary class="cursor-pointer font-bold text-accent">Is this religious teaching?</summary>
+        <p class="mt-2 text-sm text-text">
+          No. The curriculum teaches Indian intellectual traditions — mathematics, astronomy,
+          philosophy, medicine, yoga — using a secular framing that leads with observation and
+          science. Religious dimensions of the source texts are acknowledged and respected,
+          not centred. Sanskrit terms appear with English meaning, not as devotional formulas.
+        </p>
+      </details>
+      <details class="bg-surface border border-border rounded-lg p-4">
+        <summary class="cursor-pointer font-bold text-accent">My child is doing Module 8 Yoga. Is it safe?</summary>
+        <p class="mt-2 text-sm text-text">
+          Yes. At every band the safety floor is firm: no inversions (headstand etc.), no advanced
+          backbends, no breath-retention practices. The school collects a medical opt-out form before
+          Day 1. Inversions are only allowed at Senior band with a qualified teacher present.
+          See the Yoga module's parent guide for the full safety policy.
+        </p>
+      </details>
+      <details class="bg-surface border border-border rounded-lg p-4">
+        <summary class="cursor-pointer font-bold text-accent">How much time per day does this take?</summary>
+        <p class="mt-2 text-sm text-text">
+          About 30–45 minutes of class time (depending on band) and 10–25 minutes of homework
+          per day. Each module runs across 10 sessions (~2 school weeks).
+        </p>
+      </details>
+      <details class="bg-surface border border-border rounded-lg p-4">
+        <summary class="cursor-pointer font-bold text-accent">Will my child be tested?</summary>
+        <p class="mt-2 text-sm text-text">
+          Primary band: oral checks + stickers, no paper grades. Middle band: formative + summative
+          quizzes (25 marks) plus a 3-min project (15 marks). Senior band: summative quiz + a 5–6 page
+          research paper. Full rubrics are in each module's pack page.
+        </p>
+      </details>
+    </div>
+
+    <div class="mt-10 p-4 bg-surface border-l-4 border-accent rounded-r-lg">
+      <p class="text-sm text-text m-0">
+        💡 <strong>Tip:</strong> ask your child at dinner: <em>"What was today's module about, and which gift / element / friend / pose / sūtra did you meet?"</em>
+        That single question goes a long way.
+      </p>
+    </div>
+  </main>
+
+  <Footer />
+
+  <script is:inline>
+    try { localStorage.setItem('iks-audience', 'parent'); } catch (e) {}
+    document.documentElement.setAttribute('data-audience', 'parent');
+    document.dispatchEvent(new CustomEvent('iks-audience-change', { detail: 'parent' }));
+  </script>
+</BaseLayout>

@@ -1,0 +1,105 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { loadGlossary } from '../../utils/glossary';
+
+const terms = loadGlossary();
+const cards = terms.filter((t) => t.definition || t.literal);
+---
+
+<BaseLayout title="Sanskrit Flashcards" description="Practice Sanskrit vocabulary with self-paced flashcards.">
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">Vocabulary practice</p>
+    <h1 class="text-4xl font-display font-bold mb-3 border-b-2 border-accent-2 pb-2">
+      Sanskrit Flashcards
+    </h1>
+    <p class="text-text-muted mb-6">
+      {cards.length} terms · click the card to flip · arrow keys / J K to move
+    </p>
+
+    <div id="flashcard-stage" class="mt-8" data-total={cards.length}>
+      {cards.map((c, i) => (
+        <div
+          class="flashcard hidden bg-surface border-2 border-border rounded-xl p-10 min-h-[260px] flex flex-col items-center justify-center cursor-pointer select-none transition-transform hover:scale-[1.01]"
+          data-index={i}
+          tabindex="0"
+        >
+          <div class="card-front text-center">
+            <p class="text-xs uppercase tracking-widest text-accent-2 font-bold m-0">{c.section}</p>
+            <p class="font-display font-bold text-5xl text-accent mt-3 italic">{c.term}</p>
+            {c.devanagari && (
+              <p class="font-devanagari text-2xl text-text-muted mt-2">{c.devanagari}</p>
+            )}
+            <p class="text-xs text-text-muted mt-6">Click to reveal</p>
+          </div>
+          <div class="card-back hidden text-center">
+            <p class="text-xs uppercase tracking-widest text-accent-2 font-bold m-0">{c.term} {c.devanagari}</p>
+            {c.literal && (
+              <p class="italic text-text-muted mt-3">"{c.literal}"</p>
+            )}
+            <p class="text-lg mt-3">{c.definition}</p>
+            <p class="text-xs text-text-muted mt-6">Click to flip back</p>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-6 flex items-center justify-between">
+      <button id="card-prev" class="px-4 py-2 border border-border rounded hover:border-accent">← Previous</button>
+      <span id="card-counter" class="text-text-muted">1 / {cards.length}</span>
+      <button id="card-next" class="px-4 py-2 border border-border rounded hover:border-accent">Next →</button>
+    </div>
+
+    <div class="mt-4 text-center text-xs text-text-muted">
+      Keyboard: <kbd>←</kbd> <kbd>→</kbd> to navigate · <kbd>Space</kbd> or click to flip
+    </div>
+  </main>
+
+  <Footer />
+
+  <script is:inline>
+    const cards = document.querySelectorAll('.flashcard');
+    const counter = document.getElementById('card-counter');
+    const total = cards.length;
+    let current = 0;
+
+    function show(i) {
+      cards.forEach((c, idx) => {
+        c.classList.toggle('hidden', idx !== i);
+        c.querySelector('.card-front').classList.remove('hidden');
+        c.querySelector('.card-back').classList.add('hidden');
+      });
+      counter.textContent = `${i + 1} / ${total}`;
+      try { localStorage.setItem('iks-flashcard-idx', String(i)); } catch (e) {}
+    }
+    function next() { current = (current + 1) % total; show(current); }
+    function prev() { current = (current - 1 + total) % total; show(current); }
+    function flip(card) {
+      const front = card.querySelector('.card-front');
+      const back = card.querySelector('.card-back');
+      front.classList.toggle('hidden');
+      back.classList.toggle('hidden');
+    }
+
+    cards.forEach((c) => c.addEventListener('click', () => flip(c)));
+    document.getElementById('card-next').addEventListener('click', next);
+    document.getElementById('card-prev').addEventListener('click', prev);
+
+    document.addEventListener('keydown', (e) => {
+      if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+      if (e.key === 'ArrowRight' || e.key === 'j') { e.preventDefault(); next(); }
+      else if (e.key === 'ArrowLeft' || e.key === 'k') { e.preventDefault(); prev(); }
+      else if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(cards[current]); }
+    });
+
+    // Restore last position
+    try {
+      const last = parseInt(localStorage.getItem('iks-flashcard-idx') || '0', 10);
+      if (last >= 0 && last < total) current = last;
+    } catch (e) {}
+    show(current);
+  </script>
+</BaseLayout>

@@ -1,0 +1,192 @@
+{
+  "query": "How does the Bhagavatam describe the five gross elements pancha mahabhuta and their qualities?",
+  "mode": "kg_augmented",
+  "top_k": 8,
+  "max_hops": 2,
+  "fetched_at": "2026-05-24T23:39:33.491286+00:00",
+  "chunks": [
+    {
+      "chunk_id": "5e8dabf29380433233892d371a49cd18e8618be5c9a88897e71fc5b7aec770dc",
+      "score": 0.9651569158881083,
+      "seed_score": 0.7012612173390236,
+      "overlap_score": 163.0,
+      "entity_ids": [
+        "anahankarah",
+        "bhakti",
+        "dana",
+        "guna",
+        "guru_bhakti",
+        "hrih",
+        "nishkama_karma",
+        "prabhupada",
+        "purusha",
+        "sb-2-10-3",
+        "seva",
+        "srimad-bhagavatam",
+        "yoga"
+      ],
+      "source": "folio-verse-SB-2.10.3",
+      "verse_ref": "SB 2.10.3",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 2.10.3]\n\nभूतमात्रेन्द्रियधियां जन्म सर्ग उदाहृत: ।\nब्रह्मणो गुणवैषम्याद्विसर्ग: पौरुष: स्मृत: ॥ ३ ॥\n\nbhūta-mātrendṛya-dhiyāṁ\njanma sarga udāhṛtaḥ\nbrahmaṇo guṇa-vaiṣamyād\nvisargaḥ pauruṣaḥ smṛtaḥ\n\nSynonyms: bhūta - the five gross elements (the sky, etc.); mātrā - objects perceived by the senses; indṛya - the senses; dhiyām - of the mind; janma - creation; sargaḥ - manifestation; udāhṛtaḥ - is called the creation; brahmaṇaḥ - of Brahmā, the first puruṣa; guṇa-vaiṣamyāt - by interaction of the three modes of nature; visargaḥ - re-creation; pauruṣaḥ - resultant activities; smṛtaḥ - it is so known.\n\n[Translation]\nThe elementary creation of sixteen items of matter — namely the five elements [fire, water, land, air and sky], sound, form, taste, smell, touch, and the eyes, ears, nose, tongue, skin and mind — is known as sarga, whereas subsequent resultant interaction of the modes of material nature is called visarga.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nSarga refers to the manifestation of the gross material elements, the tan-mātrās, the senses, the false ego and mahat-tattva, caused when the Lord transforms the guṇas. Visarga is the creation of bodies for the jīvas carried out by Brahmā.\n\n[Purport]\nIn order to explain the ten divisional symptoms of the Śrīmad-Bhāgavatam, there are seven continuous verses. The first of these under reference pertains to the sixteen elementary manifestations of earth, water, etc., with material ego composed of material intelligence and mind. The subsequent creation is a result of the reactions of the above-mentioned sixteen energies of the first puruṣa, the Mahā-Viṣṇu incarnation of Govinda, as later explained by Brahmā in his treatise Brahma-saṁhitā (5.47) as follows:\n\nyaḥ kāraṇārṇava-jale bhajati sma yoga- nidrām ananta-jagadaṇḍa-saroma-kūpaḥ ādhāra-śaktim avalambya parāṁ sva-mūrtiṁ govindam ādi-puruṣaṁ tam ahaṁ bhajāmi\n\nThe first puruṣa incarnation of Govinda, Lord Kṛṣṇa, known as the Mahā-Viṣṇu, goes into a yoga-nidrā mystic sleep, and the innumerable universes are situated in potency in each and every hair hole of His transcendental body.\n\nAs mentioned in the previous verse, śrutena (or with reference to the Vedic conclusions), the creation is made possible from the Supreme Personality of Godhead directly by manifestation of His particular energies. Without such a Vedic reference, the creation appears to be a product of material nature. This conclusion comes from a poor fund of knowledge. From Vedic reference it is concluded that the origin of all energies (namely internal, external and marginal) is the Supreme Personality of Godhead. And as explained hereinbefore, the illusory conclusion is that creation is made by the inert material nature. The Vedic conclusion is transcendental light, whereas the non-Vedic conclusion is material darkness. The internal potency of the Supreme Lord is identical with the Supreme Lord, and the external potency is enlivened in contact with the internal potency. The parts and parcels of the internal potency which react in contact with the external potency are called the marginal potency, or the living entities.\n\nThus the original creation is directly from the Supreme Personality of Godhead, or Parambrahman, and the secondary creation, as a reactionary result of the original ingredients, is made by Brahmā. Thus the activities of the whole universe are started.\n\n[Commentary (Visvanatha Cakravarti Thakura)]\nEach topic is described. Sarga means the manifestation of elements, tan-mātrās, senses, ahaṅkāra and mahat-tattva (dhiyām) and as well their description in the universal form, caused when the Lord (brahmaṇaḥ) creates transformation of the guṇas. Paurusaḥ refers to Brahmā. Visarga refers to the creation of moving and non-moving entities by Brahmā. “Creation of the jīvas” means giving jīvas forms with  intelligence, senses and body for engaging in material enjoyment, pursuing liberation or practicing bhakti according to their qualification. ."
+    },
+    {
+      "chunk_id": "b9e299d6ea95baeea0c04622319dd7467b58667e3f4a71a29e4dd435a8b25db5",
+      "score": 0.9056513650985185,
+      "seed_score": 0.6901679747753168,
+      "overlap_score": 146.0,
+      "entity_ids": [
+        "anahankarah",
+        "bhakti",
+        "brahmacharya",
+        "brahman",
+        "guru_bhakti",
+        "hrih",
+        "ishvara_pranidhana",
+        "karma",
+        "nishkama_karma",
+        "prabhupada",
+        "satya",
+        "seva",
+        "yoga"
+      ],
+      "source": "Sri Isopanisad - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_57",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "Arjuna, 10, 13, 13, 17 Asuras, 3, 3, 4 Atharva Veda, Introduction, 13 Atheists, 5, 6, 12 Avyakta defined, 14\n\nBakāsura, 8, 15 \nBaladeva Vidyābhūṣaṇa, Introduction \nBalarāma, Lord, 8 \nBali ṁahārāja, 17 \nBhagavad-gītā \nimportance of, 6 \nKṛṣṇa focus of, 13 \nmisinterpretation of, 13, 14 \nŚaṅkarācārya’s commentary on, Introduction \nunderstanding, 13 \nBhagavad-gītā As It Is, Introduction \nBhagavad-gītā cited \nSee also: Bhagavad-gītā quoted \non action, 2 \non asuras, 3 \non Brahmā’s life span, 11 \non demigod worśip, 12, 12, 13 \non devotional service, 2 \non disciplic succession, Introduction \non fallen transcendentalist, 3, 18 \non impersonalists, 17 \non intelligence, mateṛal, 8 \non karma-yoga, 2 \non knowledge, culture of, 10 \non Kṛṣṇa as supreme truth, 15 \non liberated soul, 6 \non living entities, 7, 17 \non Lord \nability to know, 4 \ndeṛsion of, 5, 8, 13 \ndescent of, 5 \nenergy of, 1, 14 \nknowledge of, 13 \npervasiveness of, 15 \nas propṛetor, 1 \nreciprocation by, 5, 13 \nsurrender to, 7, 13, 17, 18 \non misguided educators, 9 \non offeṛngs from devotee, 1 \non pseudo religionists, 12 \non sense gratifiers, 9 \non spiṛtual sky, 5 \non transcendentalists, types of, 15 \non Vedas’ goal, 9 \non work, 2 \non worśip, results of, 13 \nBhagavad-gītā quoted \nSee also: Bhagavad-gītā cited \non Brahman effulgence, 15 \non death, remembrance at, 17 \non devotional service, 17 \non disciplic succession, 12, 13 \non Lord \nabode of, attainment of, 12 \ndemigods and sages &, 12 \nas maintainer, 15 \nas source, 13 \nsurrender to, 14 \non mateṛal world, 12 \non spiṛtual world, 14 \non varṇāśrama, Introduction \non Vedas’ goal, Introduction \nBhagavān defined, 16 \nBhāgavat-sandarbha, 16 \nBhakti-rasāmṛta-sindhu, 2, 11 \nBhaktivinoda Ṭhākura, 10, 17 \nBirth-death cycle, 11, 14, 14 \nSee also: ṭransmigration of soul \nBody, mateṛal \nbirth and death &, 11 \ncreation of, 17 \nculture of spiṛtual knowledge &, 11 \ndestiny of, 17, 17 \ndhīra &, 10 \nidentifying with, Introduction, 10 \nliving entities’ desires &, 17 \nliving entities exist beyond, 17 \nLord’s form compared with, 5 \nmaintenance of, 11, 17 \nmiseṛes of, 10 \nBrahmā, Lord \ndisciplic succession &, Introduction, 1, 6 \nḥiraṇyakaśipu &, 11 \nKṛṣṇa source of, 13 \nlife span of, 14, 14 \nmortality of, 14 \nnight of, 14 \ntime structure of universe &, 14 \nuniversal devastation &, 14, 14 \nBrahmacarya, 10 \nBrahma-jyotir. See: Brahman, impersonal \nBrahmaloka, 12, 14 \nBrāhmaṇa(s), Introduction, 3, 13, 17, 18 \nBrahman, impersonal \ncharacteṛstics of, 15 \ndemigods & sages &, 12 \neffulgence of, 15 \nfalldown from, 17 \nGoloka &, 16 \nliving entities come from, 16 \nliving entities in, 17 \nLord covered by, 15, 16, 18 \nLord source of, 5, 15, 17, 17, 18 \npervasiveness of, 17 \nplanets &, 12 \nprocess of negation &, 12 \npure devotee &, 15, 16 \nrealization of, Introduction, 15, 16, 16 \nworśip of, 12 \nBrahma-randhra, 17 \nBrahma-saṁhitā \ncited on Lord \nas cause of all causes, 13 \nform(s) of, Introduction, 8 \npervasiveness of, 4, 5 \nsensual power of, 8 \nspeculative approach to, 4 \ncited on mind, Introduction \nquoted \non Brahman effulgence, 15 \non Lord’s abode, 16"
+    },
+    {
+      "chunk_id": "a7e8268774fa3a219feda6194df159876a50876f21e7ec3085740536c0b9da9d",
+      "score": 0.8864654521437338,
+      "seed_score": 0.7167374167145781,
+      "overlap_score": 134.0,
+      "entity_ids": [
+        "anahankarah",
+        "bhakti",
+        "caitanya-caritamrta",
+        "guru_bhakti",
+        "ishvara_pranidhana",
+        "jiva",
+        "maya",
+        "prabhupada",
+        "satya",
+        "seva"
+      ],
+      "source": "Sri Caitanya-caritamrta, Adi-lila - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_1085",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "",
+      "text": "passage from the Bhagavad-gītā (7.5). ṭext 7.118 apareyam itas tv anyāṁ prakṛtiṁ viddhi me parām jīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat\n\naparā – infeṛor energy; iyam – this mateṛal world; itaḥ – beyond this; tu – but; anyām – another; prakṛtim – energy; viddhi – you must know; me – of ṁe; parām – which is supeṛor energy; jīva-bhūtām – they are the living entities; mahā-bāho – O mighty-armed; yayā – by which; idam – this mateṛal world; dhāryate – is being conducted; jagat – the cosmic manifestation. \n“ ‘Besides these infeṛor energies, O mighty-armed Arjuna, there is another, supeṛor energy of ṁine, which compṛses the living entities who are exploiting the resources of this mateṛal, infeṛor nature.’ \nPURPORṭ: In the Bhagavad-gītā it is explained that the five elements earth, water, fire, air and ether constitute the gross energy of the Absolute ṭruth and that there are also three subtle energies, namely, the mind, intelligence and false ego, or identification with the phenomenal world. ṭhus the entire cosmic manifestation is divided into eight energies, all of which are infeṛor. As explained in the Bhagavad-gītā (mama māyā duratyayā), the infeṛor energy, known as māyā, is so strong that although the living entity does not belong to this energy, due to the supeṛor strength of the infeṛor energy the living entity (jīva-bhūta) forgets his real position and identifies with it. Kṛṣṇa says distinctly that beyond the mateṛal energy there is a supeṛor energy which is known as the jīva-bhūta, or living entities. When in contact with the mateṛal energy, this supeṛor energy conducts all the activities of the entire mateṛal, phenomenal world. \nṭhe supreme cause is Kṛṣṇa (janmādy asya yataḥ), who is the oṛgin of all energies, which work vaṛously. ṭhe Supreme Personality of Godhead has both infeṛor and supeṛor energies, and the difference between them is that the supeṛor energy is factual whereas the infeṛor energy is a reflection of the supeṛor. A reflection of the sun in a mirror or on water appears to be the sun but is not. Similarly, the mateṛal world is but a reflection of the spiṛtual world. Although it appears to be factual, it is not; it is only a temporary reflection, whereas the spiṛtual world is a factual reality. ṭhe mateṛal world, with its gross and subtle forms, is merely a reflection of the spiṛtual world. \nṭhe living entity is not a product of the mateṛal energy; he is spiṛtual energy, but in contact with matter he forgets his identity. ṭhus the living entity identifies himself with matter and enthusiastically engages in mateṛal activities in the guises of a technologist, scientist, philosopher, etc. ḥe does not know that he is not at all a mateṛal product but is spiṛtual. ḥis real identity thus being lost, he struggles very hard in the mateṛal world, and the ḥare Kṛṣṇa movement, or Kṛṣṇa consciousness movement, is trying to revive his oṛginal consciousness. ḥis activities in manufactuṛng big skyscrapers are evidence of intelligence, but this kind of intelligence is not at all advanced. ḥe śould know that his only real concern is how to get free from mateṛal contact, for by absorbing his mind in mateṛal activities he takes mateṛal bodies again and again, and although he falsely claims to be very intelligent, in mateṛal consciousness he is not at all intelligent. When we speak about the Kṛṣṇa consciousness movement, which is meant to make people intelligent, the conditioned living entity therefore misunderstands it. ḥe is so engrossed in the mateṛal concept of life that he does not think there can be any activities that are actually based on intelligence beyond the construction of skyscrapers and big roads and the manufactuṛng of cars. ṭhis is proof of māyayāpahṛta-jñāna, or loss of all intelligence due to the influence of māyā. When a living entity is freed from such misconceptions, he is called liberated. When one is actually liberated he no longer identifies with the mateṛal world. ṭhe symptom of mukti (liberation) is that one engages in spiṛtual activities instead of falsely engaging in mateṛal activities. \nṭranscendental loving devotional service is the spiṛtual activity of the spiṛt soul. ṁāyāvādī philosophers confuse such spiṛtual activity with mateṛal activity, but the Bhagavad-gītā (14.26) confirms: \nmāṁ ca yo ’vyabhicāreṇa\n bhakti-yogena sevate\nsa guṇān samatītyaitān\n brahma-bhūyāya kalpate \nOne who engages in the spiṛtual activities of unalloyed devotional service (avyabhicāṛṇī-bhakti) is immediately elevated to the transcendental platform, and he is to be considered brahma-bhūta, which indicates that he is no longer in the mateṛal world but is in the spiṛtual world. ḍevotional service is enlightenment, or awakening. When the living entity perfectly performs spiṛtual activities under the direction of the spiṛtual master, he becomes perfect in knowledge and understands that he is not God but a servant of God. As explained by Caitanya ṁahāprabhu, jīvera ‘svarūpa’ haya – kṛṣṇera ‘nitya-dāsa’: the real identity of the living entity is that he is an eternal servant of the Supreme (Cc. ṁadhya 20.108). As long as one does not come to this conclusion, he must be in ignorance. ṭhis is also confirmed by the Lord in the Bhagavad-gītā (7.19): bahūnāṁ janmanām ante jñānavān māṁ prapadyate . . . sa mahātmā su-durlabhaḥ. “After many births of struggling for existence and cultivating knowledge, when one comes to the point of real knowledge he surrenders unto ṁe. Such an advanced mahātmā, or great soul, is very rarely to be seen.” ṭhus although the ṁāyāvādī philosophers appear to be very much advanced in knowledge, they are not yet perfect. ṭo come to the point of perfection they must voluntaṛly surrender to Kṛṣṇa. \nṭext 7.119"
+    },
+    {
+      "chunk_id": "12dabec8b4bbd5d0643262a824dadad540fc4f8c5c0ffa1247b3eedb83320086",
+      "score": 0.8772288651798335,
+      "seed_score": 0.6935635674016505,
+      "overlap_score": 136.0,
+      "entity_ids": [
+        "anahankarah",
+        "chit",
+        "hrih",
+        "jiva",
+        "maya",
+        "prabhupada",
+        "rasa",
+        "sattva",
+        "satya",
+        "satya-concept",
+        "sb-1-2-25",
+        "seva",
+        "srimad-bhagavatam",
+        "yajna"
+      ],
+      "source": "folio-verse-SB-1.2.25",
+      "verse_ref": "SB 1.2.25",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 1.2.25]\n\nभेजिरे मुनयोऽथाग्रे भगवन्तमधोक्षजम् ।\nसत्त्वं विशुद्धं क्षेमाय कल्पन्ते येऽनु तानिह ॥ २५ ॥\n\nbhejire munayo ’thāgre\nbhagavantam adhokṣajam\nsattvaṁ viśuddhaṁ kṣemāya\nkalpante ye ’nu tān iha\n\nSynonyms: bhejire - rendered service unto; munayaḥ - the sages; atha - thus; agre - previously; bhagavantam - unto the Personality of Godhead; adhokṣajam - the ṭranscendence; sattvam - existence; viśuddham - above the three modes of nature; kṣemāya - to deṛve the ultimate benefit; kalpante - deserve; ye - those; anu - follow; tān - those; iha - in this mateṛal world.\n\n[Translation]\nPreviously all the great sages rendered service unto the Personality of Godhead due to His existence above the three modes of material nature. They worshiped Him to become free from material conditions and thus derive the ultimate benefit. Whoever follows such great authorities is also eligible for liberation from the material world.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nTherefore the ancient sages worshipped Supreme Lord, beyond the material senses, composed of viśuddha-sattva. Those who follow the sages attain liberation in this world.\n\n[Purport]\nThe purpose of performing religion is neither to profit by material gain nor to get the simple knowledge of discerning matter from spirit. The ultimate aim of religious performances is to release oneself from material bondage and regain the life of freedom in the transcendental world, where the Personality of Godhead is the Supreme Person. Laws of religion, therefore, are directly enacted by the Personality of Godhead, and except for the mahājanas, or the authorized agents of the Lord, no one knows the purpose of religion. There are twelve particular agents of the Lord who know the purpose of religion, and all of them render transcendental service unto Him. Persons who desire their own good may follow these mahājanas and thus attain the supreme benefit.\n\n[Commentary (Visvanatha Cakravarti Thakura)]\nThus (ataḥ), the sages in ancient times worshipped the Supreme Lord, who is viśuddha-sattva. Viśuddha-sattva means having a body composed of the cit-śakti arising from his svarūpa (not material sattva), because the śruti says vidyāvidyābhyāṁ bhinnam: the Lord is neither material knowledge (sattva) nor ignorance. (Gopāla-tāpanī Upaniṣad 2.20)  Furthermore the smṛti says chāyātapau yatra na gṛdhra-pakṣau: in the Lord there is no ignorance or knowledge which causes prejudice towards the jīva. (SB 8.5.27) satya-jṣānānantānanda-mātraika-rasa-mūrtayaḥ: the viṣṇu-mūrtis all had eternal, unlimited forms, full of knowledge and bliss and existing beyond the influence of time. (SB 10.13.54) Because the body of Viṣṇu is beyond māyā, one cannot say that viśuddha-sattva means the vidyā arising from māyā-śakti. The persons who follow after (anu) these sages are qualified for liberation (kṣemāya) in this world (iha)."
+    },
+    {
+      "chunk_id": "62f78c9446816056a30e4fa420f641372529f421b622030b154d89e6d0505473",
+      "score": 0.8201391652806431,
+      "seed_score": 0.6999858477592731,
+      "overlap_score": 116.0,
+      "entity_ids": [
+        "anahankarah",
+        "ananda",
+        "bhakti",
+        "prabhupada",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 06 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_797",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "the Supreme Personality of Godhead and in this way gave up his gross mateṛal body made of five elements. PURPORṭ\n\nAs indicated by the words pare bhagavati brahmaṇy ātmānaṁ sannayan, ḍadhīci placed himself, as spiṛt soul, at the lotus feet of the Supreme Personality of Godhead. In this regard, one may refer to the incident of ḍhṛtarāṣṭra’s leaving his body, as descṛbed in the First Canto of Śrīmad-Bhāgavatam (1.13.55). ḍhṛtarāṣṭra analytically divided his gross mateṛal body into the five different elements of which it was made – earth, water, fire, air and ether – and distṛbuted them to the different reservoirs of these elements; in other words, he merged these five elements into the oṛginal mahat-tattva. By identifying his mateṛal conception of life, he gradually separated his spiṛt soul from mateṛal connections and placed himself at the lotus feet of the Supreme Personality of Godhead. ṭhe example given in this connection is that when an earthen pot is broken, the small portion of the sky within the pot is united with the large sky outside the pot. ṁāyāvādī philosophers misunderstand this descṛption of Śrīmad-Bhāgavatam. ṭherefore Śrī Rāmānuja Svāmī, in his book Vedānta-tattva-sāra, has descṛbed that this merging of the soul means that after separating himself from the mateṛal body made of eight elements – earth, water, fire, air, ether, false ego, mind and intelligence – the individual soul engages himself in devotional service to the Supreme Personality of Godhead in ḥis eternal form (īśvaraḥ paramaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ/ anādir ādir govindaḥ sarva-kāraṇa-kāraṇam). ṭhe mateṛal cause of the mateṛal elements absorbs the mateṛal body, and the spiṛtual soul assumes its oṛginal position. As descṛbed by Śrī Caitanya ṁahāprabhu, jīvera ‘svarūpa’ haya-kṛṣṇera ‘nitya-dāsa’: the constitutional position of the living entity is that he is the eternal servant of Kṛṣṇa. When one overcomes the mateṛal body through cultivation of spiṛtual knowledge and devotional service, one can revive his own position and thus engage in the service of the Lord. \nṭEXṭ 10.12"
+    },
+    {
+      "chunk_id": "cd52ff68e6daac5955543b26fff005b3f891e38e75f0303fb7a59a061b5c33a8",
+      "score": 0.7872341215906975,
+      "seed_score": 0.6873746910397681,
+      "overlap_score": 108.0,
+      "entity_ids": [
+        "anahankarah",
+        "ananda",
+        "hrih",
+        "jiva",
+        "karma",
+        "maya",
+        "nishkama_karma",
+        "prabhupada",
+        "prakriti",
+        "purusha",
+        "satya",
+        "sb-10-40-2",
+        "srimad-bhagavatam"
+      ],
+      "source": "folio-verse-SB-10.40.2",
+      "verse_ref": "SB 10.40.2",
+      "author": "A.C. Bhaktivedanta Swami Prabhupada",
+      "subdomain": "",
+      "text": "[SB 10.40.2]\n\nभूस्तोयमग्नि: पवनं खमादि-\nर्महानजादिर्मन इन्द्रियाणि ।\nसर्वेन्द्रियार्था विबुधाश्च सर्वे\nये हेतवस्ते जगतोऽङ्गभूता: ॥ २ ॥\n\nbhūs toyam agniḥ pavanaṁ kham ādir\nmahān ajādir mana indṛyāṇi\nsarvendṛyārthā vibudhāś ca sarve\nye hetavas te jagato ’ṅga-bhūtāḥ\n\nSynonyms: bhūḥ - earth; toyam - water; agniḥ - fire; pavanam - air; kham - ether; ādiḥ - and its source, false ego; mahān - the mahat-tattva; ajā - the total mateṛal nature; ādiḥ - her source, the Supreme Lord; manaḥ - the mind; indṛyāṇi - the senses; sarva-indṛya - of all the senses; arthāḥ - the objects; vibudhāḥ - the demigods; ca - and; sarve - all; ye - which; hetavaḥ - causes; te - Your; jagataḥ - of the universe; aṅga - from the body; bhūtāḥ - generated.\n\n[Translation]\nEarth; water; fire; air; ether and its source, false ego; the mahat-tattva; the total material nature and her source, the Supreme Lord’s puruṣa expansion; the mind; the senses; the sense objects; and the senses’ presiding deities — all these causes of the cosmic manifestation are born from Your transcendental body.\n\n[Translation (Visvanatha Cakravarti Thakura)]\nEarth; water; fire; air; ether and its source, false ego; the mahat-tattva, the total material nature and her source, the Supreme Lord's puruṣa expansion; the mind; the senses; the sense objects; and the senses' presiding deities—all these causes of the cosmic manifestation are born from Your transcendental body.\n\n[Krisna Book (10.40.2)]\n“The elements of this cosmic manifestation—earth, water, fire, air, ether, ego and the total material energy, as well as nature, the marginal energy (the living entities), the mind, the senses, the sense objects and the demigods who control the affairs of the cosmos—are all produced from Your body.\n\n[Purport (Visvanatha Cakravarti Thakura)]\nAll things in existence such as earth are expansions from the cid ananda purusa. All things of this universe, such as earth, water, fire air, ether and its origin, false ego (kham adi), mahat tattva, maya (aja), and pradhana, jiva, time, karma (adi), senses and sense objects, arise from this purusa.\n\n[Purport (Jiva Goswami)]\nĀdiḥ refers to ahaṅkāra, since ether’s origin (ādi) is ahaṅkāra. Similarly before māyā (ajā) there is the pure jīva (ādi). All of the causes of the universe arise from the limbs of your beautiful form. This means the jīva is the Lord’s amśa (not that he is created). The statement concludes that the form of the Lord is the highest truth. Since there is no transformation of him as the cause because of the acintya śakti, his birth takes place for the purpose of destroying illusion. This is the later purpose of this statement.\n\n[Purport (Sanatana Goswami)]\nĀdiḥ refers to ahaṅkāra, since ether’s origin (ādi) is ahaṅkāra. Similarly before māyā (ajā) there is the pure jīva (ādi). Thus ahaṅkāra, mahattattva, prakṛti and jīva are four. Buddhi, and citta are included in manas. There are ten senses and five objects of the senses. Thus there are twenty-five in all. Vibudha refers to the devatās of the senses starting with the dik devatās including Vāyu, and then Candra (manas), Brahmā (buddhi), Rudra (ahaṅkāra) and Viṣnu (citta). Thus there are fourteen devatās. There are other causes of the universe: time, karma, svabhāva and their devatās as well.\n Or “There are many other causes.” Yes, but these arise from you. Then the list is given.\n They arise as vibhūtis of the Lord (aṅga-bhūtāḥ). Or O lord (aṅga)! They arise (bhūtāḥ) from you (te)."
+    },
+    {
+      "chunk_id": "6453df7a4c8cab3c174199e35181451af71787136e75ed2beda8dd5f9125ed5d",
+      "score": 0.7564989679663161,
+      "seed_score": 0.6965327298703823,
+      "overlap_score": 96.0,
+      "entity_ids": [
+        "bhakti",
+        "prabhupada",
+        "purusha",
+        "seva",
+        "srimad-bhagavatam"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 04 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_897",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "Lord’s loving service, the devotee is immediately situated on the transcendental platform, and he enjoys unlimited blissful life. ṭEXṭ 11.15\n\nbhūtaiḥ pañcabhir ārabdhair\n yoṣit puruṣa eva hi\ntayor vyavāyāt sambhūtir\n yoṣit-puruṣayor iha\n\nbhūtaiḥ – by the mateṛal elements; pañcabhiḥ – five; ārabdhaiḥ – developed; yoṣit – woman; puruṣaḥ – man; eva – just so; hi – certainly; tayoḥ – of them; vyavāyāt – by sexual life; sambhūtiḥ – the further creation; yoṣit – of women; puruṣayoḥ – and of men; iha – in this mateṛal world. \nṭRAṇSLAṭIOṇ\n\nṭhe creation of the mateṛal world begins with the five elements, and thus everything, including the body of a man or a woman, is created of these elements. By the sexual life of man and woman, the number of men and women in this mateṛal world is further increased. \nPURPORṭ"
+    },
+    {
+      "chunk_id": "738eee5648ae7105eff96740579e5f68eddf93b003a8ad05e44509ca27d4a8c0",
+      "score": 0.7535905896845934,
+      "seed_score": 0.7013970736771412,
+      "overlap_score": 94.0,
+      "entity_ids": [
+        "hrih",
+        "prabhupada",
+        "srimad-bhagavatam",
+        "tyaga",
+        "vairagya"
+      ],
+      "source": "Srimad-Bhagavatam, Canto 03 - His Divine Grace A. C. Bhaktivedanta Swami Prabhupada_2468",
+      "verse_ref": "",
+      "author": "Srila Prabhupada",
+      "subdomain": "srimad_bhagavatam",
+      "text": "all of them without attachment, for the purpose of satisfying the senses of Kṛṣṇa; that is actual renunciation. ṭEXṭ 31.30\n\nbhūtaiḥ pañcabhir ārabdhe\n dehe dehy abudho ’sakṛt\nahaṁ mamety asad-grāhaḥ\n karoti kumatir matim\n\nbhūtaiḥ – by mateṛal elements; pañcabhiḥ – five; ārabdhe – made; dehe – in the body; dehī – the living entity; abudhaḥ – ignorant; asakṛt – constantly; aham – I; mama – mine; iti – thus; asat – nonpermanent things; grāhaḥ – accepting; karoti – he does; ku-matiḥ – being fooliś; matim – thought. \nṭRAṇSLAṭIOṇ\n\nBy such ignorance the living entity accepts the mateṛal body, which is made of five elements, as himself. With this misunderstanding, he accepts nonpermanent things as his own and increases his ignorance in the darkest region. \nPURPORṭ"
+    }
+  ]
+}
