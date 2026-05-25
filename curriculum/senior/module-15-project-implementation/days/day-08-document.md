@@ -26,11 +26,20 @@ By the end of this lesson, students will: write up process, sources, reflections
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Documentation phase.** Today: write up your project.
+
+2. **The structure (Senior — ~500 words).**
+   - **Problem & motivation** (~100 words): what did you set out to do?
+   - **Sources used** (~100 words): which Modules, which texts, which observations?
+   - **Process** (~150 words): what did you actually do? Day by day?
+   - **Findings / outcomes** (~100 words): what did you produce / observe?
+   - **Reflection** (~50 words): what surprised you? What would you do differently?
+
+3. **Honest reflection rule.** Include at least ONE thing that didn't work. Real research has failures. Including yours is intellectually honest — and pedagogically valuable.
+
+4. **Citations.** Use the format: *Author, Title, Year.* See pilot modules' `sources.md` for examples.
+
+5. **Drafting time.** 35 minutes silent writing. Teacher available for questions.
 
 ### Activity (15 min)
 

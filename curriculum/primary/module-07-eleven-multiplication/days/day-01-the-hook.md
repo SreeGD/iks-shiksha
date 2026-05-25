@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Ekādhikena Pūrveṇa* (IAST: Ekādhikena Pūrveṇa; lit. ""by one more than the previous" — sūtra 1 in Tirthaji")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **The Hook — What Is the Trick?**. Keep sentences short.
+- Watch this trick! 23 × 11 = ?
+
+Show on the board: "2 _ 3" with a gap. Whisper: "What's 2 + 3?" (Wait for "5".) Fill in: "2 5 3 → 253!"
+
+Each child practices: 12 × 11 = 132. 34 × 11 = 374. 25 × 11 = 275. Try 5 more.
+
+Magic chant: *"Split, add, put in middle!"* (Children chant 3 times.)
 
 ### Activity (8 min)
 

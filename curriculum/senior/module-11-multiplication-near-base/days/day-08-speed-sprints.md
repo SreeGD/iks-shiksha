@@ -26,11 +26,15 @@ By the end of this lesson, students will: race traditional vs nikhilam on 30 pro
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Sprint A (Nikhilam-favourable, 10 problems, 4 min).** All factors within 5 of 100 or 1000.
+
+2. **Sprint B (mixed, 10 problems, 4 min).** Mix of near-base and far-from-base.
+
+3. **Sprint C (long-mult-favourable, 10 problems, 4 min).** All factors far from base.
+
+4. **Analysis.** Each student records times. Most: A < B < C dramatically. The CONCRETE evidence that Nikhilam works for ONE class.
+
+5. **Discussion.** *"What's your strategy choice now? When will you use Nikhilam in real life?"* Each student writes 2 sentences.
 
 ### Activity (15 min)
 

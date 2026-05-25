@@ -26,11 +26,22 @@ By the end of this lesson, students will: pairs swap plans; offer one strength +
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Critique circle structure.** Pairs swap project plans + sketches. 5 minutes silent reading. Then each gives:
+   - One strength (sticky note).
+   - One concern (sticky note).
+   - One question (verbal).
+
+2. **Pairs rotate twice.** Each student gets feedback from 3 different partners.
+
+3. **Synthesise.** Each student writes a 100-word "what I'm changing" note based on critique. May include:
+   - Narrowing scope
+   - Adding a source
+   - Clarifying deliverable
+   - Revising timeline
+
+4. **Honest about limits.** *"What's still hard? What might fail? What's your Plan B?"* Real projects always have unknowns. Acknowledge them.
+
+5. **Submit revised plan.** Teacher reviews tonight. Day 6 = build phase begins.
 
 ### Activity (15 min)
 

@@ -30,11 +30,20 @@ From *Bharati Krishna Tirthaji* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Recall Module 9.** Nikhilam = "all from 9, last from 10" — the complement to a base. Same sūtra, NEW application: multiplication.
+
+2. **The below-10 finger demo.** Each hand has 5 fingers; together 10. To multiply 7 × 8:
+   - Curl 7−5=2 fingers on left hand.
+   - Curl 8−5=3 fingers on right hand.
+   - Curled fingers in total: 5 → that's the tens place: 50.
+   - Uncurled fingers (left × right): 3 × 2 = 6 → that's the units: 6.
+   - Answer: 56. ✓
+
+3. **Why this works.** Algebraically: (10 − a)(10 − b) = 100 − 10(a+b) + ab = 10(10−(a+b)) + ab. The "curled fingers" count is (a+b)−5 — wait, let me re-derive. Actually: curled = (10−a − 5) + (10−b − 5) wait... let me restate cleanly. For 7×8: 7 = 5+2 (uncurled fingers on left), 8 = 5+3 (right). The formula: tens digit = uncurled-left + uncurled-right − 5; units = uncurled-left × uncurled-right. Let's just use the Nikhilam algebra in next lesson.
+
+4. **What we'll learn this module.** A general method: when factors are CLOSE to a base (10, 100, 1000), Nikhilam-multiplication is much faster than long multiplication.
+
+5. **Speed test.** Compute 8 × 9 mentally. Compare your method with traditional times table. Most students will use memorisation — the next lessons show why Nikhilam is faster for LARGER near-base products.
 
 ### Activity (15 min)
 

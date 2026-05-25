@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pratiyogi (modern coinage)* (IAST: pratiyogi (modern coinage); lit. "the number that adds to a base")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Final Assessment**. Keep sentences short.
+- Final day! We celebrate the subtraction trick.
+
+Each child shows one favourite trick problem to a partner. Cheer for each.
+
+Take the small quiz with stickers. Every child gets a "Subtraction Sleuth" sticker.
+
+End: chant — *"All from nine, last from ten!"*
 
 ### Activity (8 min)
 

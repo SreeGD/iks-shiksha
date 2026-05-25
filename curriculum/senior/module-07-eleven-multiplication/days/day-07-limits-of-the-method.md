@@ -26,11 +26,20 @@ By the end of this lesson, students will: recognise when traditional long multip
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Pose the question.** *"When IS the ×11 (or near-base) method genuinely faster than traditional long multiplication? When is it the SAME or SLOWER?"*
+
+2. **Categorise problem types.**
+   - 2-digit × 11 — much faster.
+   - 3-digit × 11 — somewhat faster.
+   - 2-digit × 12–19 — comparable.
+   - 2-digit × 23 (far from base) — long multiplication is faster.
+   - Long multi-digit products — long multiplication or scientific notation is best.
+
+3. **Honest framing.** Tirthaji's sūtras are not a universal speed-up. They are a *toolbox of mental shortcuts for specific patterns*. The skill is recognising when to use which tool.
+
+4. **Reference.** Modern mathematicians (S.G. Dani, 1993; Kim Plofker, *Mathematics in India*, 2009) have written critically about the "Vedic" claim and pedagogically about the methods. Read Dani's *Frontline* article excerpt aloud (one paragraph).
+
+5. **Reflection.** Each student writes 3 sentences: which method-types are useful, what limits are, and where standard arithmetic remains best.
 
 ### Activity (15 min)
 

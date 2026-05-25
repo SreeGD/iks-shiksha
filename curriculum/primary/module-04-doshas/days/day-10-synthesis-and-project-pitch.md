@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *kapha* (IAST: kapha; lit. "structure principle (cohesion, ap+pṛthvī)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Synthesis and Project Pitch**. Keep sentences short.
+- Today we say goodbye to the three friends — but they will stay with us!
+
+Each child shares one favourite friend and one thing they learned about that friend. Make a class wall: three big drawings (Wiggle, Spark, Cozy) with each child's small drawing of them stuck around the big one.
+
+Sing the friends-song together: *"Wiggle, Spark, Cozy — three friends inside, three friends inside, three friends inside me!"*
 
 ### Activity (8 min)
 

@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *auṣadhi* (IAST: auṣadhi; lit. "medicinal plant / herb")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Herbs and the Doṣas**. Keep sentences short.
+- Each herb has a "temperature" inside us:
+  - **Warm herbs:** ginger, ajwain (good when we feel cold/sick)
+  - **Cool herbs:** mint, sometimes turmeric (good when we feel hot)
+
+Match game: show pictures of the 6 herbs. Children sort into "warm" pile and "cool" pile.
+
+*"Warm herbs help in winter. Cool herbs help in summer."*
 
 ### Activity (8 min)
 

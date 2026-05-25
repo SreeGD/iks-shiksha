@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *doṣa* (IAST: doṣa; lit. "humour / functional principle")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Doṣa Rhythms in a Day**. Keep sentences short.
+- The day has three parts where each friend takes the lead:
+  - **Morning (Cozy time):** slow start, good for breakfast, gentle movement
+  - **Middle of day (Spark time):** sharp focus, biggest meal, schoolwork
+  - **Evening (Wiggle time):** creative play, light dinner, getting ready for bed
+
+Draw a sun arc on paper. Mark "C" near the morning, "S" near noon, "W" near sunset. Children colour each section with a different colour and add one activity to each.
 
 ### Activity (8 min)
 

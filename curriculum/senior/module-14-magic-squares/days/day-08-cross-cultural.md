@@ -26,11 +26,17 @@ By the end of this lesson, students will: compare indian, chinese (lo shu), and 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The Lo Shu (Chinese).** Legendary: a turtle emerging from the River Lo bore the 3×3 magic square on its shell. Used in Chinese geomancy (*feng shui*). Earliest definite attestation: ~5th c. BCE (though legend places it ~2000 BCE).
+
+2. **Indian — Khajuraho (10th c. CE).** As yesterday. Pan-diagonal 4×4 with "most-perfect" property.
+
+3. **Indian — Nārāyaṇa Paṇḍita (1356 CE).** Systematic algorithms for any odd n.
+
+4. **European — Dürer's Melencolia I (1514).** A 4×4 with year-encoding.
+
+5. **Class exercise.** Students draw a timeline (~−500 to ~+1600) marking each tradition's main contributions. Then write one sentence: *"What does this timeline tell us about mathematical universality?"*
+
+   Critical-thinking caveat: *"Some claims of priority are unprovable. The TURTLE-LEGEND for Lo Shu is just that — a legend. We can only date things by extant manuscripts and inscriptions."*
 
 ### Activity (15 min)
 

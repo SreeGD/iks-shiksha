@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pratiyogi (modern coinage)* (IAST: pratiyogi (modern coinage); lit. "the number that adds to a base")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Bar Model Proof**. Keep sentences short.
+- Let's see the trick with bars (or paper strips)!
+
+Cut a strip 100 cm long. Now cut off 37 cm. *"How long is the rest?"* (63 cm.)
+
+Now cut a strip 99 cm. Cut off 37 cm. *"How long?"* (62 cm — easy! 9-3=6, 9-7=2.) Add 1 cm — 63 cm.
+
+*"Same answer! Easier with 99!"*
 
 ### Activity (8 min)
 

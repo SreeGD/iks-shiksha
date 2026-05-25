@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *vinkulam* (IAST: vinkulam; lit. "deficit (number below base)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Why It Works — The Algebra**. Keep sentences short.
+- Why does the trick work? Let's see with small numbers!
+
+Show 9 × 8 using the rule:
+- 9 is 10−1 (deficit 1).
+- 8 is 10−2 (deficit 2).
+- Left: 9 − 2 = 7. Right: 1 × 2 = 2. Combined: **72**.
+- Check: 9 × 8 = 72. ✓
+
+*"Same answer as tables! The trick is just another way."*
 
 ### Activity (8 min)
 

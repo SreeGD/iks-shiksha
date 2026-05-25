@@ -26,11 +26,15 @@ By the end of this lesson, students will: name the 12 rāśis in sanskrit and pa
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define rāśi.** 1/12th of the ecliptic = 30° each. The Sun spends roughly one month in each rāśi.
+
+2. **The 12 Sanskrit names.** *Meṣa, Vṛṣabha, Mithuna, Karka, Siṁha, Kanyā, Tulā, Vṛścika, Dhanus, Makara, Kumbha, Mīna.*
+
+3. **Map to Greek/Western zodiac.** *Meṣa* = Aries, *Vṛṣabha* = Taurus, ... *Mīna* = Pisces. The 12-fold division of the ecliptic is widespread across cultures (Babylonian, Greek, Indian, possibly via cultural contact).
+
+4. **Source.** *Bṛhat Saṁhitā* of Varāhamihira (6th c. CE) systematises the 12 rāśis. Earlier references in Garga Saṁhitā.
+
+5. **Map current month to current rāśi.** Looking at a sidereal pañcāṅga, identify which rāśi the Sun is in this month. Note the difference from Western (tropical) zodiac dates — we'll resolve this on Day 7.
 
 ### Activity (15 min)
 

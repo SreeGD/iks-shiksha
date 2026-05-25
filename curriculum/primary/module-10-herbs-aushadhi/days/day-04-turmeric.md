@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *haridrā* (IAST: haridrā; lit. "turmeric — *Curcuma longa*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Turmeric — Golden Root**. Keep sentences short.
+- Today: meet Turmeric (Haldī)! 🌿
+
+Show fresh turmeric root (or powder). *"It stains everything yellow!"* Drop a tiny amount on paper. Children watch the colour spread.
+
+*"Golden milk = turmeric + warm milk + a bit of honey. People drink it when they feel poorly."*
+
+Children draw a yellow circle for the powder and write "haridrā" beside it.
 
 ### Activity (8 min)
 

@@ -26,11 +26,15 @@ By the end of this lesson, students will: continue building; daily journal entry
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Continue building.** Focus on completing the major deliverable.
+
+2. **Journal entry today:** *"What progress? What's slowed me down? What do I still need to do tomorrow?"*
+
+3. **Mid-build review.** Teacher checks each student's progress. Flags students who may need help in time-management or scope.
+
+4. **Honest scope adjustment.** If you realise you can't finish in time, narrow the scope NOW (not on Day 9). Better to do less, well, than more, poorly.
+
+5. **Independent work-time.** 40 minutes. Quiet, focused.
 
 ### Activity (15 min)
 

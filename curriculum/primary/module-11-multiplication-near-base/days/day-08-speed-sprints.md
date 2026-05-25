@@ -25,7 +25,17 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Ūrdhva-tiryagbhyāṁ* (IAST: Ūrdhva-tiryagbhyāṁ; lit. ""vertically and crosswise" — the general-purpose sūtra")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Speed Sprints**. Keep sentences short.
+- Speed game! 5 problems with the trick, 3 minutes.
+
+97 × 96 = ?
+98 × 97 = ?
+99 × 99 = ?
+95 × 95 = ?
+103 × 104 = ?
+
+(Teacher does these together with kids — they don't need to do them solo yet.)
+
+Cheer at the end. *"Maths magic!"*
 
 ### Activity (8 min)
 

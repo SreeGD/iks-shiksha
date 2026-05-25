@@ -26,11 +26,15 @@ By the end of this lesson, students will: explain solar/lunar eclipses using orb
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Geometric setup.** Solar eclipse — Moon between Sun and Earth (occurs at *amāvasyā*). Lunar eclipse — Earth between Sun and Moon (occurs at *pūrṇimā*).
+
+2. **Why not every new/full moon?** The Moon's orbital plane is tilted ~5.14° from the ecliptic. Eclipses happen only when the Moon is near a *node* (intersection of orbital planes) during new or full moon. This is the *Rāhu/Ketu* node geometry of classical Indian astronomy.
+
+3. **Source.** Āryabhaṭīya, *Gola-pāda* — gives a heliocentric-leaning model and correctly predicts eclipses 1000+ years before modern astronomy.
+
+4. **Show a recent eclipse path map** (any annular or total eclipse from the last 5 years). *"Why does the path strike only a thin ribbon, not the whole hemisphere?"* (Geometric umbra/penumbra.)
+
+5. **Safety rule.** Solar eclipse — NEVER look at the Sun directly. Use projection or eclipse-rated filters only. Lunar eclipse is always safe. State this rule on the board and have students repeat.
 
 ### Activity (15 min)
 

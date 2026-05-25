@@ -26,11 +26,17 @@ By the end of this lesson, students will: complete a 50-problem mental-math spri
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Setup.** 50-problem mental-math sprint. Mixed 2- and 3-digit × 11. Half no-carry, half carry. Five minutes on the clock.
+
+2. **Solo run.** Silence. Pen-on-paper. Five minutes.
+
+3. **Pair-mark.** Swap with partner; mark in two minutes.
+
+4. **Analyse errors.** *"Most common error?"* (Forgetting to carry; transposing digits.) *"Fastest sub-strategy?"* Discuss.
+
+5. **Standards comparison.** Equivalent traditional long-multiplication sprint would take ~15 minutes. Time-saving on this problem class: ~3×. State the limit: this is for ×11 specifically. Tomorrow we extend to ×12 through ×19.
+
+6. **Personal best.** Each student records their score and target for next week.
 
 ### Activity (15 min)
 

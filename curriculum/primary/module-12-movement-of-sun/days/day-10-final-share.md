@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Dakṣiṇāyana* (IAST: Dakṣiṇāyana; lit. "southward solar course (June 21 – Dec 21)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Final Share and Assessment**. Keep sentences short.
+- Final day! We celebrate the Sun's yearly journey.
+
+Each child shows their year-wheel. Cheer for each.
+
+Sing the 12 rāśi names together one more time.
+
+Quiz with stickers — everyone gets a "Sun Watcher" sticker. *"Never look at the Sun! Use eyes-down only."*
 
 ### Activity (8 min)
 

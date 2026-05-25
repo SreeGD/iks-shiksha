@@ -30,11 +30,15 @@ From *Sūrya-siddhānta (c. 5th–10th c. CE)* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The observation.** Project a year-long animation of sunrise direction (or show a static composite of 12 sunrise photos taken from the same spot, one per month). *"The Sun rises in roughly the east — but the EXACT direction shifts north and south through the year."*
+
+2. **Define the ecliptic.** The Sun's apparent path against the background stars over one year. A great circle on the celestial sphere, tilted ~23.5° from the celestial equator.
+
+3. **Why does it shift?** Earth's rotational axis is tilted ~23.5° relative to its orbital plane. As Earth orbits the Sun, this tilt projects onto our sky as the Sun rising/setting north of due-east in summer (NH), south in winter.
+
+4. **Source.** Sūrya-siddhānta ch. 2 — *"sūryasya gatiḥ"* — gives a mean and true solar motion model. Specifies daily and annual displacement on the ecliptic.
+
+5. **Independent task.** Each student looks up their city's sunrise direction today vs 6 months from today (web). Note the difference in compass bearing.
 
 ### Activity (15 min)
 

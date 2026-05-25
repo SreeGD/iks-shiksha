@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *siddhāṅka (modern coinage)* (IAST: siddhāṅka (modern coinage); lit. "the common sum of all rows/columns/diagonals")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Practice — 5×5 and 7×7**. Keep sentences short.
+- Today: try a BIGGER magic square — 5×5!
+
+Place 1 in the top-middle. Step up-right. Wrap when needed. Keep going to 25.
+
+It looks confusing at first, but the rule is the same. The magic number for 5×5 is **65** (all rows, columns, diagonals add to 65).
+
+Children try with the teacher's help. Most won't finish — that's OK! Just enjoy the start.
 
 ### Activity (8 min)
 

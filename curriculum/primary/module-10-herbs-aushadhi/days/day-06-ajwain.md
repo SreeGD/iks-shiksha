@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *yavānī* (IAST: yavānī; lit. "ajwain — *Trachyspermum ammi*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Ajwain — Carom Seed**. Keep sentences short.
+- Today: meet Ajwain (Yavānī)! 🌿
+
+Show ajwain seeds. *"Tiny, like baby caraway."* Smell them — strong! sharp!
+
+*"People chew a few seeds after a big meal to help their tummy."*
+
+Children draw the seeds (small dots) and write "yavānī" beside.
 
 ### Activity (8 min)
 

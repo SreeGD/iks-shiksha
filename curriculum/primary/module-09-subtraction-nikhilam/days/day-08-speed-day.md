@@ -25,7 +25,17 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pratiyogi (modern coinage)* (IAST: pratiyogi (modern coinage); lit. "the number that adds to a base")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Speed Day**. Keep sentences short.
+- Sprint day! 10 problems in 3 minutes.
+
+Each child gets a worksheet:
+1. 10 − 4
+2. 100 − 37
+3. 100 − 62
+4. 1000 − 250
+5. 100 − 88
+...
+
+Cheer for everyone who finishes. *"Speed isn't everything — accuracy matters more!"*
 
 ### Activity (8 min)
 

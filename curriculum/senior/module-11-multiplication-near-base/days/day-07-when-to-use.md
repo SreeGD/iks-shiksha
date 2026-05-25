@@ -26,11 +26,19 @@ By the end of this lesson, students will: identify problems where nikhilam is fa
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The decision tree.**
+   - Both factors within ~5 of the same base → Nikhilam is fast.
+   - One factor close to base, other far → traditional multiplication often faster.
+   - Both factors far from any base (e.g. 47 × 63) → traditional.
+   - Both factors near DIFFERENT bases (e.g. 98 × 1005) → tricky; pick a common base and scale.
+
+2. **Speed comparison.** Time 97 × 96 vs 47 × 63 mentally. Most students will find Nikhilam dominates the first; long multiplication dominates the second.
+
+3. **Pedagogical limit.** Nikhilam multiplication is NOT a universal speed-up. It's a tool for ONE problem class. Recognising when to use it is the skill.
+
+4. **Practice with strategic choice.** 10 problems, mixed. Each student picks the best method and notes it next to the answer.
+
+5. **Reflection.** *"What pattern of problems makes Nikhilam shine? What pattern defeats it?"* Each student writes 3 sentences.
 
 ### Activity (15 min)
 

@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Anurūpyena* (IAST: Anurūpyena; lit. ""proportionately" — sūtra used for ×12, ×13 extensions")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Anurūpyena — ×12 to ×19**. Keep sentences short.
+- We can do ×12 too! Just split into ×10 + ×2.
+- 15 × 12 = (15 × 10) + (15 × 2) = 150 + 30 = **180**.
+
+Practice in pairs: one says a number, the other doubles it for ×2, then adds a zero for ×10, then adds the two together for ×12.
+
+Try ×13, ×14 only if time. Most children stick to ×12 today.
 
 ### Activity (8 min)
 

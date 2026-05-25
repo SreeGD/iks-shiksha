@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Nikhilaṁ Navataścaramaṁ Daśataḥ* (IAST: Nikhilaṁ Navataścaramaṁ Daśataḥ; lit. ""all from 9, the last from 10"")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Two's Complement in Computers**. Keep sentences short.
+- Computers use the same trick! In computers, numbers are 0s and 1s. They use "all from 1, last from 1+1" — same idea but with 1 instead of 9.
+
+Show a calculator. *"When you press 100 − 37, the computer secretly uses our trick to find the answer fast."*
+
+Children share: *"What's the coolest computer thing they know?"*
 
 ### Activity (8 min)
 

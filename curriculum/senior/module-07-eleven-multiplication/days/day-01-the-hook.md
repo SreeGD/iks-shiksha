@@ -30,11 +30,15 @@ From *Bharati Krishna Tirthaji* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Compute 23 × 11 silently in your head.** Pause. Show of hands for who got 253. Then write 23 × 11 = 253 on the board.
+
+2. **Reveal the trick.** Split the digits of 23 (gap in the middle): **2 _ 3**. Add the digits in the middle: 2 + 3 = 5. Fill the gap: **2 5 3** = 253. Done.
+
+3. **Try together.** 35 × 11 = 3_(3+5)_5 = 385. 24 × 11 = 264. 71 × 11 = 781. 52 × 11 = 572. 80 × 11 = 880. Pace: 4 problems in 2 minutes.
+
+4. **Tirthaji's framing.** This method appears as an application of the sūtra *Ekādhikena Pūrveṇa* ("by one more than the previous") in Bharati Krishna Tirthaji's *Vedic Mathematics* (1965). Honest historical note: the manuscript was written 1911–1918; some scholars (Dani 1993) consider it a 20th-century mental-arithmetic system rather than strictly ancient mathematics.
+
+5. **Independent practice (5 min).** Worksheet: 20 two-digit × 11 problems, no carry case. Pairs compete.
 
 ### Activity (15 min)
 

@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *tulasī* (IAST: tulasī; lit. "holy basil — *Ocimum tenuiflorum*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Build the Class Deck**. Keep sentences short.
+- Today we make our class herb book!
+
+Each child picks one favourite herb. They make a card:
+- Big drawing of the plant
+- Sanskrit name (the teacher helps write it)
+- One thing it does
+
+Cards are taped together to make a class book. *"This is OUR herb book!"*
 
 ### Activity (8 min)
 

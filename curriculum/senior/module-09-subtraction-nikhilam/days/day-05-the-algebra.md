@@ -26,11 +26,20 @@ By the end of this lesson, students will: derive the place-value identity that m
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **State the identity.** For N with k digits, 10^k − N can be computed as ((10^k − 1) − N) + 1.
+
+2. **Why "all from 9 last from 10" works.**
+   - (10^k − 1) is a number with k nines: 9, 99, 999, 9999, ...
+   - (10^k − 1) − N: each digit of N is subtracted from 9. The result has no borrows because each digit of (10^k − 1) is 9.
+   - Adding 1 to that bumps the last digit by 1, which is equivalent to "the last digit from 10" rather than "from 9."
+
+3. **Worked algebraic example.** N = 437, k = 3.
+   - 999 − 437 = 562 (digit-wise: 9-4, 9-3, 9-7)
+   - 562 + 1 = 563 = 1000 − 437. ✓
+
+4. **The general formula.** 10^k − N = (10^k − 1) − N + 1 — a foundational identity in modular arithmetic and binary computer arithmetic.
+
+5. **Senior bridge.** This is the same identity that underlies *two's complement* in binary computer arithmetic — tomorrow's topic.
 
 ### Activity (15 min)
 

@@ -26,11 +26,18 @@ By the end of this lesson, students will: construct a tithi calendar for the cur
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Pull up a current pañcāṅga** (online or printed). Display the next 14 days with tithi, pakṣa, day-of-week.
+
+2. **Manual construction.** Without looking at the pañcāṅga, students attempt to predict the tithi 7 days from today using:
+   - Today's tithi (e.g. *śukla pañcamī*).
+   - Approximate rule: ~1 tithi per 24h.
+   - Note: actual tithi may be off by ±1 due to varying lunar speed.
+
+3. **Source.** Modern Drik pañcāṅga uses Sūrya-siddhānta-derived corrections plus modern astronomical constants (NASA JPL ephemerides). Show the students that traditional and modern computation agree to within minutes.
+
+4. **The intercalation challenge.** Adhika māsa (added month) occurs roughly every 32 months when no Sun-saṁkrānti happens within a lunar month. The 2026–2030 adhika māsa calendar is published; pull it up. *"Why is this needed? What would happen without it?"*
+
+5. **Project artefact.** Each student produces a one-month tithi calendar for the CURRENT month, side-by-side with the Gregorian dates. This will be assessed as part of the summative project.
 
 ### Activity (15 min)
 

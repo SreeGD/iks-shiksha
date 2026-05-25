@@ -26,11 +26,15 @@ By the end of this lesson, students will: present project pitches; summative qui
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Project pitches (3 min each).** Each student presents their environmental-action project: problem identified, principle anchored, plan, expected outcome, measurement.
+
+2. **Q&A and feedback (1 min each).** Peers ask one question and offer one suggestion.
+
+3. **Voting.** Class votes on 3 favourite projects. These will be amplified (school-wide, parent-day presentations).
+
+4. **Summative quiz (20 min).** See `quizzes/summative.md`.
+
+5. **Module close.** *"Of all the texts and ideas in this module, which one will stay with you the longest? Why?"* Each student writes 2 sentences.
 
 ### Activity (15 min)
 

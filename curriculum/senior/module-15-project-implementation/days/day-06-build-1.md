@@ -26,11 +26,20 @@ By the end of this lesson, students will: start building the artefact (model, po
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Build phase begins.** Materials should be ready (announced last week). If not, today is also a "gather materials" day.
+
+2. **Project-specific guidance per option.**
+   - Magic-square art → grid + colours + calligraphy.
+   - Herb deck → photographs / drawings + card layout + lamination.
+   - Yoga sequence → flow design + safety check + pose drawings.
+   - Sustainability audit → measurement instruments + spreadsheet.
+   - And so on.
+
+3. **Daily journal.** Today's entry: *"What did I build today? What worked? What didn't?"*
+
+4. **Work-time.** 35 minutes of focused making.
+
+5. **End-of-day share (5 min).** Three students share progress.
 
 ### Activity (15 min)
 

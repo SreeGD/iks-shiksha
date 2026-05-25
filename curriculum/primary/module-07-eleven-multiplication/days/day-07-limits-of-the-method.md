@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Ekādhikena Pūrveṇa* (IAST: Ekādhikena Pūrveṇa; lit. ""by one more than the previous" — sūtra 1 in Tirthaji")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Limits of the Method**. Keep sentences short.
+- The trick is special! It works best for ×11 (and ×12).
+- For things like ×23 or ×47, the trick is hard. Then we use the regular way.
+
+Show: 23 × 47. *"Would the trick work?"* (No — 47 is too far from 10.) *"So we do it the long way."*
+
+Children practice both methods on 24 × 11 vs 24 × 23 to feel the difference.
 
 ### Activity (8 min)
 

@@ -26,11 +26,15 @@ By the end of this lesson, students will: use a worksheet to estimate own domina
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Distinguish prakṛti from vikṛti.** *Prakṛti* = innate constitution (birth ratio of doṣas, stable through life). *Vikṛti* = current state (today's ratio, fluctuates). This distinction is *critical* — it stops students treating self-assessment as labelling.
+
+2. **Self-assessment worksheet.** Distribute a 30-question checklist (sleep, digestion, body frame, temperament, energy patterns). Students mark each on a 1–5 scale for *"how true is this for me usually."*
+
+3. **Score and discuss.** Tally for each doṣa. *Most students will be mixed.* That's the expected result. Mono-doṣic types are rare; *dvi-doṣa* (dual) is common.
+
+4. **The rule of the day, said three times:** This is a self-observation exercise. NOT a diagnosis. NOT a prediction. Refer any health concern to a doctor.
+
+5. **Caraka cite.** Caraka Saṁhitā, *Vimāna* 8.95–117 outlines the constitutional assessment method — historical context, NOT a clinical tool for school use.
 
 ### Activity (15 min)
 

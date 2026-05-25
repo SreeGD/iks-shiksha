@@ -26,11 +26,15 @@ By the end of this lesson, students will: present the class herb deck; take summ
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Class herb-deck presentation (20 min).** Each student shows their card and gives a 1-minute talk on their herb.
+
+2. **Q&A (10 min).** *"Which herb would you most want in your home garden? Why?"* *"Which one surprised you?"*
+
+3. **Summative quiz (20 min).** Vocabulary, identification, doṣa-pairing, safety. See `quizzes/summative.md`.
+
+4. **Critical-thinking close.** *"The doṣa-herb framework is ancient. Modern science can test specific claims. Where does each work best? Where does each fall short?"* Each student writes 3 sentences.
+
+5. **Linkage.** Module 13 (Indic Ecology) will revisit this through the *vasudhaiva kuṭumbakam* lens — herbs as part of the larger ecology.
 
 ### Activity (15 min)
 

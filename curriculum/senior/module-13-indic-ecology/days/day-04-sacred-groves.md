@@ -26,11 +26,19 @@ By the end of this lesson, students will: identify devarakāḍu and similar gro
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define sacred grove.** Patches of native forest preserved by community tradition, often associated with a deity, sage, or ancestor. Hunting, cutting, and even firewood collection are prohibited.
+
+2. **Indian examples.**
+   - *Devarakāḍu* (Karnataka)
+   - *Kāvu* (Kerala)
+   - *Devarakad* (Maharashtra)
+   - *Sarna* (Jharkhand, Odisha, Bihar — tribal areas)
+
+3. **Ecological function.** Despite covering <0.1% of India's forest area, sacred groves preserve disproportionate biodiversity: endemic species, medicinal plants, water-table recharge zones. Madhav Gadgil's research (1992 and onward) documented this.
+
+4. **Source.** *Pṛthivī Sūkta* (Atharva Veda 12.1) — particularly verses 11–13 on forests. Modern source: Gadgil & Guha, *This Fissured Land* (1992).
+
+5. **Activity.** Each student researches one sacred grove (or biodiversity site) in their region and prepares a 1-page report. Map the grove, list flora/fauna, document traditional protection rules.
 
 ### Activity (15 min)
 

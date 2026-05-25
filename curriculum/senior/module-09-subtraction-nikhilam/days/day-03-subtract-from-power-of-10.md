@@ -26,11 +26,19 @@ By the end of this lesson, students will: compute 1000−567 and similar instant
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The clean application.** Whenever we're subtracting from 10^k (10, 100, 1000, 10000, ...), Nikhilam gives the answer directly. No borrowing, no carries.
+
+2. **Speed examples.**
+   - 10 − 4 = 6 (4 from 10)
+   - 100 − 37 = 63 (3 from 9, 7 from 10)
+   - 1000 − 268 = 732
+   - 10000 − 1547 = 8453
+
+3. **Practical use case.** Computing change at a shop. *"You paid ₹1000 for an item costing ₹427. How much change?"* Nikhilam: 9-4=5, 9-2=7, 10-7=3 → **₹573**. Mental math, no paper.
+
+4. **Verify with traditional subtraction.** Have students cross-check 2 problems by the borrowing method. Same answer. The Nikhilam is just a smarter procedure for the same arithmetic.
+
+5. **Class discussion.** *"When IS Nikhilam genuinely faster than borrowing? When does borrowing keep up?"* (Borrowing keeps up for small numbers like 10−4. Nikhilam dominates for larger powers.)
 
 ### Activity (15 min)
 

@@ -30,11 +30,21 @@ From *Nārāyaṇa Paṇḍita* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The challenge.** *"Place the numbers 1 through 9 in a 3×3 grid so that every row, every column, and both main diagonals sum to the same number."* Hand out blank grids. 8 minutes of trial.
+
+2. **Most students will find the same answer.**
+   ```
+   2 7 6
+   9 5 1
+   4 3 8
+   ```
+   (Or one of its 7 symmetric variants — rotations and reflections.)
+
+3. **The magic constant.** Each row, column, and diagonal sums to **15**. Verify on the board.
+
+4. **Why 15?** Sum of 1+2+...+9 = 45. Divided across 3 rows = 15. The magic constant is forced by the digit sum.
+
+5. **Source.** This 3×3 square appears in *Gaṇita-kaumudī* of Nārāyaṇa Paṇḍita (1356 CE), but is also found in the Chinese *Lo Shu* tradition (~5th–10th c. BCE attestation, legends earlier). The 3×3 is one of the most studied combinatorial objects in mathematics.
 
 ### Activity (15 min)
 

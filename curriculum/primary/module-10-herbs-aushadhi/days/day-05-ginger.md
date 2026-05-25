@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *ārdraka* (IAST: ārdraka; lit. "ginger — *Zingiber officinale*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Ginger — Warming Root**. Keep sentences short.
+- Today: meet Ginger (Adraka)! 🌿
+
+Show fresh ginger root. *"It's bumpy, like a knobbly hand!"*
+
+Smell it (mild). Then smell dried ginger powder (strong). *"Drying makes it stronger!"*
+
+Ginger tea = ginger + warm water + a tiny bit of honey. People drink it when their tummy hurts.
+
+Children draw ginger root with knobbly bumps.
 
 ### Activity (8 min)
 

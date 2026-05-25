@@ -26,11 +26,18 @@ By the end of this lesson, students will: draw a visual proof using bar models a
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Draw a bar of length 100.** Cut a section of length 37 from the right end. Label the remaining bar.
+
+2. **Decompose using 99.** Show that the bar of 100 = bar of 99 + bar of 1. The bar of 99 is easy to subtract from (every digit is 9).
+
+3. **Visual mapping to digits.**
+   - Top row: 99 partitioned into a section of 37 and a section of (99−37) = 62.
+   - Bottom row: add the unit 1, splitting it into the rightmost cell.
+   - Result: (99−37)+1 = 100−37 = 63.
+
+4. **Generalise visually.** Show the same bar-decomposition for 1000−437. The leading 9s allow digit-wise subtraction without borrow; the +1 at the end bumps the last digit.
+
+5. **Independent task.** Each student draws their own bar-model proof for 1000 − 248 = 752 and submits as proof of understanding.
 
 ### Activity (15 min)
 

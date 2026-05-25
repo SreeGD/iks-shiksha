@@ -26,11 +26,20 @@ By the end of this lesson, students will: compute 997 × 996 mentally.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Extension to base 1000.** Same rule, base now 1000.
+   - 997 → deficit 3.
+   - 996 → deficit 4.
+   - Left: 997 − 4 = 993.
+   - Right: 3 × 4 = 12. Must be 3 digits (because base has 3 zeros). Pad: **012**.
+   - Combine: **993012**.
+
+2. **Above 1000.** 1003 × 1004 = 1007 | 012 = **1007012**.
+
+3. **Mixed case.** 1003 × 997 = (1000+3)(1000−3) = 10⁶ − 9 = 999991. (Difference of squares.)
+
+4. **Pattern recognition.** The base extends naturally: 10, 100, 1000, 10000... Each next-decade-base just shifts everything. The CORE rule (cross-subtract + product-of-deficits) is identical.
+
+5. **Independent practice.** 5 near-1000 problems. The challenge: keeping the right-part digit count correct.
 
 ### Activity (15 min)
 

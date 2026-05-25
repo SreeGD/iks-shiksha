@@ -26,11 +26,15 @@ By the end of this lesson, students will: recognise several mentha varieties; id
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Botanical identification.** *Mentha* genus — many species: *M. arvensis* (corn mint, *pudīnā*), *M. spicata* (spearmint), *M. piperita* (peppermint). Distinguish by leaf shape, smell.
+
+2. **Active compound.** Menthol (peppermint), carvone (spearmint). Both terpenoids, both "cooling" perceptually (menthol activates cold-sensing TRPM8 receptors in the mouth).
+
+3. **Traditional uses.** Less prominent in classical Caraka/Suśruta (mint was a later introduction to Indian materia medica). Modern Āyurveda uses for: cooling drinks, digestive aid, breath freshener.
+
+4. **Modern research.** Peppermint oil — well-studied for IBS symptom relief (*BMJ*, multiple trials). Cooling sensation is a TRPM8 channel effect, NOT actual cooling of tissue.
+
+5. **Activity.** Cooling-sensation test: students suck on a peppermint and report on tongue temperature. *"Is the mint actually cool? Or does it just feel cool?"* (It's the TRPM8 receptor activation — the same nerve that signals real cold.)
 
 ### Activity (15 min)
 

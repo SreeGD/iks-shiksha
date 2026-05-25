@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *amāvasyā* (IAST: amāvasyā; lit. "new moon")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Panchanga — Five Limbs**. Keep sentences short.
+- The pañcāṅga has 5 parts — like 5 fingers on a hand!
+  1. *tithi* — moon-day
+  2. *vāra* — weekday (Mon, Tue, ...)
+  3. *nakṣatra* — star-house the moon is visiting
+  4. *yoga* — Sun-Moon meeting
+  5. *karaṇa* — half-moon-day
+
+Show today's pañcāṅga on the board. Children copy the 5 names into their workbook with one word each.
 
 ### Activity (8 min)
 

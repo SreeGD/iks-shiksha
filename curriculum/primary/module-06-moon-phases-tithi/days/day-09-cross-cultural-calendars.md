@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *candra* (IAST: candra; lit. "Moon")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Cross-cultural Calendars**. Keep sentences short.
+- People all over the world watch the Moon, but each tradition counts months a bit differently.
+- Some use only Moon (Islamic Hijri). Some use Sun + Moon (Indian, Chinese, Hebrew). Some use only Sun (modern Gregorian — like the school year).
+
+Show 4 calendar pictures and chant: *"India and China — Moon plus Sun! Islam — Moon alone! Modern world — Sun alone!"*
+
+Each child colours a small "moon flag" with the calendar they think they use most.
 
 ### Activity (8 min)
 

@@ -26,11 +26,18 @@ By the end of this lesson, students will: summarise key ipcc findings; what is c
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The science.** Project 3 key IPCC AR6 graphs:
+   - Global temperature anomaly since 1850 (~+1.2°C and rising).
+   - CO2 atmospheric concentration since 1900 (290 → 420+ ppm).
+   - Sea-level rise (~20 cm since 1900).
+
+2. **The agreement.** 99%+ of climate scientists agree: warming is human-caused, primarily fossil-fuel emissions. The IPCC reports synthesise thousands of studies.
+
+3. **What's at stake for India.** Higher monsoon variability, glacier retreat in the Himalayas, sea-level rise threatening coastal cities, heat-stress in agriculture. NDCs (Nationally Determined Contributions) target net-zero by 2070.
+
+4. **Source.** IPCC Sixth Assessment Report (Working Groups I, II, III; 2021–2023). NCERT Geography XI ch. 11.
+
+5. **Bridge to Indic frameworks.** *"What does vasudhaiva kuṭumbakam say about climate change? What does yajña-cycle suggest about our daily responses? What does īśopaniṣad teach about consumption?"* Each student writes one paragraph connecting one ancient text to one modern climate response.
 
 ### Activity (15 min)
 

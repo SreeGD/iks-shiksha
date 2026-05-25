@@ -26,11 +26,15 @@ By the end of this lesson, students will: explain why indian and western zodiac 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The phenomenon.** Earth's axis wobbles like a slow top, completing one full circle every ~25,800 years. Rate: ~50.3 arcseconds per year. Discovered by Hipparchus ~130 BCE.
+
+2. **Indian computation.** Āryabhaṭīya (499 CE) implicitly includes precession in its longitude calculations. Later Indian astronomers (Bhāskara II, Nīlakaṇṭha) refine the value.
+
+3. **Modern value.** ~50.27"/year — very close to traditional Indian estimates.
+
+4. **Consequence for the zodiac.** The Vernal Equinox point shifts westward through the sidereal zodiac over time. ~2000 years ago, the Vernal Equinox was in Aries (which is why Aries is the "first" zodiac sign in Western astrology). Today, the Vernal Equinox is in Pisces.
+
+5. **Modern source.** NASA / IAU references. Discussion: *"How long until the Sun is in Aquarius at the Vernal Equinox?"* (~600 years.)
 
 ### Activity (15 min)
 

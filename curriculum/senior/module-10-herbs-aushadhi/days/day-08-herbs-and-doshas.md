@@ -26,11 +26,19 @@ By the end of this lesson, students will: categorise the six herbs by heating/co
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Recall doṣa framework (Module 4).** Vāta = motion, Pitta = transformation, Kapha = structure.
+
+2. **Herb classification by doṣa effect.** From Caraka *Sūtrasthāna* 26:
+   - **Heating / Pitta-aggravating** (use with care if pitta-dominant): ginger, ajwain, hot pepper.
+   - **Cooling / Pitta-pacifying** (good for hot conditions): mint, fennel.
+   - **Drying / Kapha-pacifying** (good for congestion): turmeric, neem.
+   - **Lubricating / Vāta-pacifying** (good for dryness): ghee-based preparations.
+
+3. **Maps onto modern thermoregulation.** Heating herbs (ginger, ajwain) often increase metabolic rate slightly. Cooling herbs (mint via TRPM8) provide perceptual cooling. The mapping is empirically observed, not purely conceptual.
+
+4. **Worked example.** *"If someone has a vāta imbalance — dry skin, restless sleep — which of our six herbs would Āyurveda recommend?"* (Avoid the very dry/cold ones. Ginger in moderate amounts; ghee-based ginger tea.)
+
+5. **Safety reminder.** This is wellness lens, NOT diagnosis. Don't prescribe based on doṣa lens; consult a qualified practitioner.
 
 ### Activity (15 min)
 

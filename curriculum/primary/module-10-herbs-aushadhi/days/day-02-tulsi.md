@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *tulasī* (IAST: tulasī; lit. "holy basil — *Ocimum tenuiflorum*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Tulsī — Holy Basil**. Keep sentences short.
+- Today: meet Tulsī! 🌿
+
+Show a tulsī plant (or picture + dried leaf).
+- Smell it. *"What does it remind you of?"* (Spice. Mint. Tea.)
+- Tulsī tea is sometimes used when people feel a cold coming.
+
+Children draw a tulsī leaf and write "tulasī" beside it.
 
 ### Activity (8 min)
 

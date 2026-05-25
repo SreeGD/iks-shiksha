@@ -26,11 +26,18 @@ By the end of this lesson, students will: read bg 3.10–14; map yajña to natur
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The Gītā passage.** Bhagavad Gītā 3.10–14. Read the key verses:
+   > *annād bhavanti bhūtāni parjanyād anna-sambhavaḥ /
+   > yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ //*
+   > "From food beings come, from rain food comes, from yajña rain comes, yajña comes from action." (3.14)
+
+2. **Decode the cycle.** Yajña → rain → food → beings → action (work) → yajña (giving back). A closed loop where each takes AND gives. This is the ecological cycle in Sanskrit terms.
+
+3. **Modern parallel.** Carbon cycle: plants take CO2 → animals eat plants → animals exhale CO2 → plants take CO2. Water cycle: evaporation → condensation → rain → soil → evaporation. The Gītā verse abstracts this into a yajña frame.
+
+4. **Source check.** Multiple Upaniṣads also discuss the give-and-receive principle. Cite verifiable references in `sources.md`.
+
+5. **Modern relevance.** Climate ethics. *"If we take from nature without giving back, the yajña is broken. What does 'giving back' look like in 2026?"* (Plant trees, reduce waste, restore water bodies, etc.)
 
 ### Activity (15 min)
 

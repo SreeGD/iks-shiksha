@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Vasudhaiva Kuṭumbakam* (IAST: Vasudhaiva Kuṭumbakam; lit. ""the world is one family" — Mahā Upaniṣad 6.71")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Pṛthivī Sūkta (AV 12.1)**. Keep sentences short.
+- An old, old song says: *"The Earth is my Mother!"*
+
+Show the words on the board: *"mātā bhūmiḥ putro ahaṁ pṛthivyāḥ"*
+
+*"Long ago, people sang to the Earth like she was a mother. They asked: please give us food. And they said: I will care for you."*
+
+Children draw the Earth with a smiling face. Around the edge, they draw what the Earth gives us (trees, water, food). Inside their drawing, they write one promise: "I will _______."
 
 ### Activity (8 min)
 

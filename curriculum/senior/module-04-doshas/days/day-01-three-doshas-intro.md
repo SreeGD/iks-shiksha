@@ -30,11 +30,21 @@ From *Caraka Saṁhitā* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Open with observation.** Project on the board: *"Describe three students you know — without naming them — in one sentence each, focusing on their energy, pace, and style."* Pair discussion for 2 minutes; harvest descriptions on the board.
+
+2. **From observation to category.** Most descriptions cluster around three patterns: quick / changeable / dry (motion); focused / sharp / warm (transformation); steady / slow / cool (structure). Classical Āyurveda calls these three patterns *vāta*, *pitta*, *kapha* — the three *doṣas*.
+
+3. **Define each precisely.** Map to Module 2 elements:
+   - *vāta* — wind-like, motion; from *ākāśa* + *vāyu*
+   - *pitta* — fire-like, transformation; from *tejas* + *ap*
+   - *kapha* — earth-like, structure; from *ap* + *pṛthvī*
+
+4. **Source check.** Read aloud:
+   > *vāyuḥ pittaṁ kaphaścoktaḥ śārīro doṣa-saṅgrahaḥ*
+   > "Wind, bile, phlegm — the summary of the bodily doṣas."
+   > — Caraka Saṁhitā, Sūtrasthāna 1.57
+
+5. **Critical clarification, repeated:** Doṣas are NOT diseases. They are patterns of internal rhythm. Every person has all three — the ratio differs. This is a *wellness lens, NOT diagnosis.* Refer any health concern to a doctor.
 
 ### Activity (15 min)
 

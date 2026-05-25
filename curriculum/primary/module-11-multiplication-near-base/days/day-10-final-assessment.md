@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *vinkulam* (IAST: vinkulam; lit. "deficit (number below base)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Final Assessment**. Keep sentences short.
+- Final day! We celebrate the new trick.
+
+Each child shows their best near-100 multiplication. Cheer.
+
+Quiz with stickers — everyone gets a "Number Wizard" sticker.
+
+End chant: *"Cross-subtract, multiply, put together!"*
 
 ### Activity (8 min)
 

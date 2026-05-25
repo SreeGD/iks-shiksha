@@ -25,7 +25,16 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *siddhāṅka (modern coinage)* (IAST: siddhāṅka (modern coinage); lit. "the common sum of all rows/columns/diagonals")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **The Magic Constant**. Keep sentences short.
+- The MAGIC NUMBER for 3×3 is 15. Why 15?
+
+Add all the numbers from 1 to 9: 1+2+3+4+5+6+7+8+9 = 45.
+
+Spread 45 across 3 rows: 45 / 3 = **15**. So each row must equal 15!
+
+For a 4×4 magic square (using 1 to 16), what's the magic number?
+- 1+2+...+16 = 136. / 4 rows = **34**.
+
+*"There's a pattern!"*
 
 ### Activity (8 min)
 

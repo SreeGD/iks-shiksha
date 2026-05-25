@@ -26,11 +26,19 @@ By the end of this lesson, students will: translate *īśāvāsyam idaṁ sarvam
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The text.** *Iśāvāsya Upaniṣad* (a short Upaniṣad, 18 verses), mantra 1:
+   > *īśāvāsyam idaṁ sarvaṁ yat kiñca jagatyāṁ jagat /
+   > tena tyaktena bhuñjīthā mā gṛdhaḥ kasya svid dhanam* //
+
+   Translation: *"All this — whatever moves in this moving world — is enveloped by the Lord. Enjoy through renunciation. Do not covet anyone's wealth."*
+
+2. **The ecological reading.** *Tyaktena bhuñjīthā* — "enjoy by renouncing." Use the world, but with restraint. Take only what you need; leave the rest. This is one of the strongest non-greed ethics in any wisdom tradition.
+
+3. **Modern parallel.** Steady-state economics (Herman Daly). Voluntary simplicity. Donut economics (Kate Raworth). The principle: don't grow beyond ecological limits.
+
+4. **Source.** Iśāvāsya Upaniṣad is part of the Yajurveda. Translations: Eknath Easwaran, Stephen Phillips academic editions.
+
+5. **Discussion.** *"How does 'enjoy by renouncing' apply to your own life? Phone usage? Food? Clothes? Travel?"* Each student writes 3 sentences. NO right answer — the point is HONEST self-reflection.
 
 ### Activity (15 min)
 

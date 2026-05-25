@@ -25,7 +25,17 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *sthāvara-jaṅgama* (IAST: sthāvara-jaṅgama; lit. "immobile (plants, rocks) and mobile (animals) life")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Yajña — The Ecological Cycle**. Keep sentences short.
+- *Yajña* (say "yug-nyah") means giving back — a circle of taking and giving.
+
+Show the cycle:
+- 🌧️ Rain feeds 🌾 plants
+- 🌾 Plants feed 🐮 animals (and us!)
+- 🐮 Animals + us give back to soil
+- Soil grows more plants
+
+*"If we take but don't give back, the circle breaks!"*
+
+Children draw the circle with arrows.
 
 ### Activity (8 min)
 

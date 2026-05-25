@@ -25,7 +25,17 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *bhadra-gaṇita* (IAST: bhadra-gaṇita; lit. ""auspicious arithmetic" — the Indian term for magic squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Stair-Step Method (Nārāyaṇa)**. Keep sentences short.
+- Big-kid trick! Nārāyaṇa (an Indian mathematician 700 years ago) taught how to BUILD a magic square step-by-step.
+
+Show on the board:
+1. Put **1** in the top-middle.
+2. From 1, jump UP-and-RIGHT to put 2... but you fall off the top!
+3. Wrap to the bottom row (same column).
+4. Keep going!
+
+The pattern looks like a horse jumping. *"That's why he called it the horse-step!"*
+
+Children watch the teacher build a 3×3 step-by-step.
 
 ### Activity (8 min)
 

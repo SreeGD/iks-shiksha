@@ -30,11 +30,18 @@ From *Bharati Krishna Tirthaji* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Pose the question.** *"What's 100 − 47?"* Most students compute 53 by borrowing. Ask: *"What's 1000 − 437?"* Trickier — the borrowing chains. Today's method removes the chain entirely.
+
+2. **State the sūtra.** *Nikhilaṁ Navataścaramaṁ Daśataḥ* — "all from 9, the last from 10." Write the Sanskrit and IAST on the board.
+
+3. **Apply to 100 − 47.** Subtract each digit of 47 from 9, except the last which is from 10:
+   - 4 from 9 = 5
+   - 7 from 10 = 3
+   - Answer: **53**. No borrowing.
+
+4. **Pattern recognition.** For 1000 − 437: 9-4=5, 9-3=6, 10-7=3 → **563**. Verify: 437 + 563 = 1000. ✓
+
+5. **Source note.** Tirthaji's *Vedic Mathematics* (1965), sūtra #2. Honest history: this is one of the more solidly-rooted methods in older Indian and Arabic arithmetic traditions (decimal complement was widely used pre-modern). Independent practice: 10 problems on the worksheet.
 
 ### Activity (15 min)
 

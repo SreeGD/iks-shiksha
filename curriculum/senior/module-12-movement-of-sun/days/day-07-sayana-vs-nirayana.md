@@ -26,11 +26,17 @@ By the end of this lesson, students will: distinguish tropical and sidereal zodi
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Set up the conflict.** Indian astronomy distinguishes two reference frames:
+   - *Sāyana* (with-ayana, "tropical") — measured from the Vernal Equinox.
+   - *Nirayana* (without-ayana, "sidereal") — measured from a fixed point in the sky (a star, typically near Citrā/Spica).
+
+2. **The drift.** Earth's axis wobbles (precession of equinoxes), causing the Vernal Equinox point to shift slowly westward against the fixed stars at ~50 arcseconds per year. Over ~2000 years, the cumulative drift is ~28°. *That* is the ~24° gap between Dec 21 (solstice in sāyana) and Jan 14 (when the Sun enters Makara in nirayana).
+
+3. **Source.** Āryabhaṭīya documents the precession concept; Bhāskara II refines it. Indian jyotiṣa preserves the *nirayana* convention; modern astronomy uses *sāyana*.
+
+4. **Why does this matter?** Festival dates anchored to nirayana drift slowly relative to the seasons. Over thousands of years, *Makara Saṅkrānti* will shift even further from the December solstice unless re-anchored.
+
+5. **Critical thinking.** *"Should jyotiṣa update its zodiac to sāyana? Or preserve the nirayana convention for cultural continuity?"* Both views have advocates. There's no single right answer.
 
 ### Activity (15 min)
 

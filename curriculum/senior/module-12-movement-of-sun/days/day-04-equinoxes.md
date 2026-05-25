@@ -26,11 +26,15 @@ By the end of this lesson, students will: identify spring and autumn equinoxes (
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define equinox.** *Viṣuva* in Sanskrit. The two days each year (Mar 21 ± 1 and Sep 22 ± 1) when day length equals night length everywhere on Earth.
+
+2. **Why?** At equinox, Earth's axis is perpendicular to the Sun-Earth line. Sunlight falls equally on both hemispheres. The Sun rises due-east and sets due-west.
+
+3. **Source.** Sūrya-siddhānta names the *viṣuva* points. Varāhamihira (*Bṛhat Saṁhitā*) discusses them in calendar context. The Vernal Equinox is the traditional anchor of the *sāyana* (tropical) zodiac.
+
+4. **Cross-cultural.** The Roman / Gregorian calendar implicitly aligns to the equinoxes. Easter is computed by lunar-solar reckoning anchored to the Vernal Equinox. Many cultures celebrate the equinoxes — Holi (~Phālguna pūrṇimā, near Vernal Equinox), Mabon (NH autumn).
+
+5. **Observation activity.** Each student notes the sunrise direction this week (or projects a stellarium app). Compare to expected (near-due-east if we're near an equinox).
 
 ### Activity (15 min)
 

@@ -26,11 +26,20 @@ By the end of this lesson, students will: place *gaṇita-kaumudī* in 14th c. i
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Nārāyaṇa Paṇḍita (b. 1340 CE).** Mathematician of the Mādhava school period. His *Gaṇita-kaumudī* ("Moonlight of Computation") is a major mathematical compendium. Book 14 (*Bhadra-gaṇita*) is dedicated to magic squares.
+
+2. **Earlier Indian references.** Garga Saṁhitā (~1st c. BCE) mentions magic squares for ritual. The Khajuraho inscription (~10th c. CE) predates Nārāyaṇa by 4 centuries.
+
+3. **Pre-Nārāyaṇa global timeline.**
+   - Lo Shu legend (Chinese, attested ~5th–10th c. BCE): a 3×3 magic square.
+   - Ibn Khaldūn and earlier Arab mathematicians: 9th–14th c. CE work on magic squares.
+   - Khajuraho (~10th c. CE): pan-diagonal 4×4.
+   - Nārāyaṇa (1356 CE): systematic algorithms for any odd n.
+   - Dürer (1514 CE): Melencolia I.
+
+4. **Source.** Kim Plofker, *Mathematics in India* (Princeton, 2009), ch. 5 — best modern academic overview.
+
+5. **Critical-thinking close.** *"Magic squares appear independently in many cultures. What does this tell us about (a) mathematical universality and (b) cultural transmission? Nārāyaṇa's contribution: ALGORITHMS for any odd n — a systematisation. Khajuraho's contribution: ART + math at temple scale."*
 
 ### Activity (15 min)
 

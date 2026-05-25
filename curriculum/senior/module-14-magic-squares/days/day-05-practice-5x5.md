@@ -26,11 +26,23 @@ By the end of this lesson, students will: use the method on multiple odd-order s
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **5×5 construction.** Place 1 in cell (1, 3) [top-middle]. Apply the stair-step rule. Resulting square (one variant):
+   ```
+   17 24  1  8 15
+   23  5  7 14 16
+    4  6 13 20 22
+   10 12 19 21  3
+   11 18 25  2  9
+   ```
+   Magic constant: 5 × 26 / 2 = **65**. Verify any row, column, or diagonal.
+
+2. **7×7 construction (challenge).** Same algorithm, larger grid. Magic constant: 7 × 50 / 2 = **175**.
+
+3. **Common mistakes.** Forgetting the "if cell occupied, drop down" rule. Wrong wrap direction. Off-by-one starting position.
+
+4. **Source check.** Nārāyaṇa's text gives this algorithm for any odd n. Modern translations: T. Hayashi, J. Pereira's edition of Gaṇita-kaumudī.
+
+5. **Independent practice.** Each student builds a 5×5 unaided. Pair-check. Then a 7×7 if time permits.
 
 ### Activity (15 min)
 

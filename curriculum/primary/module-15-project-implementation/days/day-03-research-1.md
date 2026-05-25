@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *siddhānta* (IAST: siddhānta; lit. "concluded principle or doctrine")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Research — Day 1**. Keep sentences short.
+- Find out MORE about your project!
+
+If you're doing a herb project, look at Module 10. If a moon calendar, Module 6.
+
+Read 2 things about your project. Write 3 things you learned (with the teacher's help).
+
+Show a "research card" with 3 facts.
 
 ### Activity (8 min)
 

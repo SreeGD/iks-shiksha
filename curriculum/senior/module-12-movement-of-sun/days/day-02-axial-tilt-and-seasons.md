@@ -26,11 +26,15 @@ By the end of this lesson, students will: demonstrate with torch+globe why we ha
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Torch + globe demo.** Hold a globe with the axis tilted ~23.5° (mark the North Pole with tape). Shine a strong torch from one direction (the Sun). Slowly rotate the globe and observe which hemispheres get more direct light.
+
+2. **Key observation.** When the Northern Hemisphere tilts TOWARD the Sun (June solstice), it gets more direct sunlight, longer days. Southern Hemisphere experiences the opposite (winter).
+
+3. **Source.** Sūrya-siddhānta and Āryabhaṭīya both note Earth's globe-shape (*gola*) and the tilt. Āryabhaṭa correctly identifies the rotation cause of day-night ~499 CE.
+
+4. **Modern bridge.** NCERT Physics XI ch. 8 gives the modern derivation: Earth's axial tilt + orbital geometry → annual solar declination → seasons.
+
+5. **Discussion.** *"Why are January and July temperatures so different — even though Earth is at almost the same distance from the Sun?"* (Answer: tilt, not distance.)
 
 ### Activity (15 min)
 

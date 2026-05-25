@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *devarakāḍu* (IAST: devarakāḍu; lit. "sacred grove (Karnataka, S. India)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **From Ancient to Action**. Keep sentences short.
+- Time to PICK a project!
+- Some ideas:
+  1. **Plant trees** in our school garden
+  2. **Save water** — turn off the tap when brushing
+  3. **Sort waste** — separate paper, plastic, food
+  4. **Make a poster** about saving Earth
+
+Each child picks one project. Draws what they'll do. Names one Indian principle (Vasudhaiva Kuṭumbakam, Yajña, take-only-what-you-need).
 
 ### Activity (8 min)
 

@@ -26,11 +26,21 @@ By the end of this lesson, students will: derive (b−a)(b−b) = b(b−a−b) +
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Derive the formula.** Let B = the base (10, 100, 1000). Factor 1 = B − a, Factor 2 = B − b.
+
+   (B − a)(B − b) = B² − Ba − Bb + ab
+                  = B(B − a − b) + ab
+                  = B · (left part) + (right part)
+
+   So the left part is B − a − b = (B − a) − b = (B − b) − a = either factor minus the OTHER's deficit. The right part is just ab.
+
+2. **Why "cross-subtract"?** B − a − b = first factor − (B − second factor) = first factor − second's deficit. The cross-subtraction is just rearranging the algebra into a mental-math procedure.
+
+3. **Above-base proof.** (B + a)(B + b) = B² + Ba + Bb + ab = B(B + a + b) + ab. Cross-add, product of excesses.
+
+4. **Mixed case proof.** (B + a)(B − b) = B² − Bb + Ba − ab = B(B + a − b) − ab. The "−ab" in the right slot is what causes the sign issue.
+
+5. **Connecting the dots.** This is just basic high-school algebra — no mystery. Tirthaji's sūtra system gives the procedure a memorable name; the algebra gives it the proof.
 
 ### Activity (15 min)
 

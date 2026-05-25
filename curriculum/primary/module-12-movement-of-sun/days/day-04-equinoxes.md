@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *saṁkrānti* (IAST: saṁkrānti; lit. "Sun's crossing from one Rāśi to the next")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Equinoxes — Viṣuva**. Keep sentences short.
+- Two special days each year: day and night are EXACTLY the same length!
+
+These are called **equinoxes** (or *viṣuva*).
+- **Spring equinox** (around March 21): days getting longer.
+- **Autumn equinox** (around September 22): days getting shorter.
+
+Children stand still with arms balanced equally. *"Day equals night!"*
+
+Draw two suns on a year-circle, one in March, one in September. Label "equinox."
 
 ### Activity (8 min)
 

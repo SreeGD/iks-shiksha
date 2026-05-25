@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *kothumi vidhi* (IAST: kothumi vidhi; lit. "Nārāyaṇa's algorithm for odd-order squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Design Your Own**. Keep sentences short.
+- Make YOUR OWN magic square as art!
+
+Choose ANY 9 numbers (or use 1-9). Make a 3×3 grid where all rows add to the same. Decorate it!
+
+Show example: a magic square shaped like a flower, with colours on each number. *"Math + art = magic!"*
+
+Children draw, colour, and write their magic number at the top.
 
 ### Activity (8 min)
 

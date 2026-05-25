@@ -26,11 +26,17 @@ By the end of this lesson, students will: read the earth-mother hymn and discuss
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The text.** Atharva Veda 12.1 — *Pṛthivī Sūkta* (Hymn to the Earth). 63 verses. Most extensive ancient ecological text in the Vedic corpus.
+
+2. **Key verses.** Read aloud (in IAST + English):
+   > *mātā bhūmiḥ putro ahaṁ pṛthivyāḥ* — "Earth is my mother, I am her son." (12.1.12)
+   > *yat te bhūme vikhanāmi kṣipraṁ tad api rohatu* — "What I dig from the Earth, may it grow back swiftly." (12.1.35)
+
+3. **The framing.** Earth as mother. Resource extraction as legitimate but bounded by replenishment. Cleanliness, beauty, biodiversity as goods to preserve.
+
+4. **Cross-cultural.** Earth-mother concept appears in many cultures: Pachamama (Andean), Gaia (Greek). The Atharva Veda articulation is older than most extant references.
+
+5. **Critical reading.** The hymn is a religious text. It articulates an ETHIC, not an empirical claim. *"Does treating Earth as mother make us better stewards? Or does it sometimes lead to passive acceptance of destructive practices ('Earth will heal')?"* Both views exist.
 
 ### Activity (15 min)
 

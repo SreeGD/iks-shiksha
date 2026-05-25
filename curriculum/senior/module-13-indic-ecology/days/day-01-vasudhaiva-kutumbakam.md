@@ -30,11 +30,19 @@ From *Mahā Upaniṣad 6.71–73 — vasudhaiva kuṭumbakam* — see `sources.m
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The verse.** From *Mahā Upaniṣad* 6.71–73:
+   > *ayaṁ nijaḥ paro veti gaṇanā laghu-cetasām /
+   > udāra-caritānāṁ tu vasudhaiva kuṭumbakam* //
+
+   Translation: *"'This is mine, that is another's' — such reckoning is for the narrow-minded. For the great-hearted, the entire earth is one family."*
+
+2. **Etymology.** *Vasudhā* — earth (literally "wealth-holder"). *Eva* — indeed. *Kuṭumbakam* — diminutive of *kuṭumba* (family), so "little family" or "the dear family."
+
+3. **Source clarification.** Also widely cited as appearing in the *Pañcatantra* and in *Hitopadeśa*. The *Mahā Upaniṣad* attestation is most commonly cited in academic contexts.
+
+4. **The ecological reading.** Not just a humanist statement — it's a principle of moral inclusion that extends to all life, all of nature. Read with the modern climate crisis in view, it becomes a foundational text for Indian environmental ethics.
+
+5. **Critical caveat.** Pre-modern India was NOT universally eco-friendly. Forest clearance, soil degradation, and over-hunting also occurred. The TEXT articulates an ideal; the PRACTICE varied. Distinguish ethical framework from historical record.
 
 ### Activity (15 min)
 

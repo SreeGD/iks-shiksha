@@ -26,11 +26,19 @@ By the end of this lesson, students will: solve a mixed problem set using best-f
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Mixed-method practice set.** 25 problems, 15 minutes. Each problem is either:
+   - Easy ×11 (no carry)
+   - Tricky ×11 (with carry)
+   - ×12 or ×13 (Anurūpyena)
+   - Standard 2-digit × 2-digit (use any method)
+
+2. **Self-routing.** Students decide WHICH method to apply per problem, justified silently. Speed and accuracy both matter.
+
+3. **Pair-mark + discuss.** Two minutes per pair to compare strategies. *"Did you both pick the same method? When did you disagree?"*
+
+4. **Whole-class harvest.** Two students share one problem each where method choice mattered.
+
+5. **Reflection (3 sentences).** Each student writes which method-type they're confident in, which they want more practice on, which they avoid.
 
 ### Activity (15 min)
 

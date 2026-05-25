@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Sūrya* (IAST: Sūrya; lit. "the Sun")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **The Sun's Yearly Path**. Keep sentences short.
+- The Sun rises in different places through the year!
+
+Stand at a window facing east. Mark where the Sun comes up TODAY. (Just outside the window — point with arms.)
+
+In summer, the Sun rises a bit more to the LEFT. In winter, more to the RIGHT (in northern places).
+
+Children draw a window with the Sun in 3 spots: summer (left), middle (spring/autumn), winter (right). One drawing.
 
 ### Activity (8 min)
 

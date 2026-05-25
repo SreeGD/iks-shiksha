@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *nirayana* (IAST: nirayana; lit. "sidereal zodiac (linked to fixed stars)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Sāyana vs Nirayana**. Keep sentences short.
+- There are TWO ways to measure the Sun's path:
+  - **Sāyana** (modern science): starts at the Vernal Equinox (Mar 21).
+  - **Nirayana** (Indian tradition): starts at a fixed star.
+
+These two ways DRIFT apart slowly — about 1° every 70 years. Over many centuries, they're now ~24 days apart.
+
+Children draw two suns: one labelled "tradition" and one labelled "modern." They're at slightly different spots.
 
 ### Activity (8 min)
 

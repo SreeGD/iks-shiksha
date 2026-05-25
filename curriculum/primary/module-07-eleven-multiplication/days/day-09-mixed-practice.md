@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Anurūpyena* (IAST: Anurūpyena; lit. ""proportionately" — sūtra used for ×12, ×13 extensions")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Mixed Practice**. Keep sentences short.
+- Today we play a sorting game!
+
+Show 10 problems on cards. For each, children hold up a sign:
+- "Trick!" (for ×11 problems)
+- "Long!" (for harder problems)
+
+Then solve 5 ×11 problems for practice. End with applause.
 
 ### Activity (8 min)
 

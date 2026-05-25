@@ -26,11 +26,21 @@ By the end of this lesson, students will: compute 87×11, 65×11 correctly using
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Try 87 × 11.** Apply the rule: 8 _ (8+7) _ 7 = 8 _ 15 _ 7. But 15 doesn't fit in one slot. So *carry*: keep the 5 in the middle, add the 1 to the 8 → 9 5 7 = **957**.
+
+2. **General rule extension.** When the middle sum ≥ 10:
+   - Write the units of the sum in the middle.
+   - Carry the tens digit to the left, adding it to the existing left digit.
+
+3. **Practice progression.**
+   - 65 × 11 = 6_(11)_5 → 715
+   - 49 × 11 = 4_(13)_9 → 539
+   - 99 × 11 = 9_(18)_9 → 1089
+   - 84 × 11 = 9_(12)_4 → 924
+
+4. **Cross-check with standard long multiplication.** Have students verify two of the answers using the traditional algorithm. *"Same answer? Good. The Vedic method is just a different procedure for the same arithmetic."*
+
+5. **Limit recognition.** *"When might this be slower than long multiplication?"* For numbers with three or more digits where carries cascade, the saving shrinks. Tomorrow we extend to 3-digit and meet the algebraic proof.
 
 ### Activity (15 min)
 

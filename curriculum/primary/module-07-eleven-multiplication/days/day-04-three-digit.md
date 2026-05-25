@@ -25,7 +25,16 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Ekādhikena Pūrveṇa* (IAST: Ekādhikena Pūrveṇa; lit. ""by one more than the previous" — sūtra 1 in Tirthaji")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **3-Digit × 11**. Keep sentences short.
+- For 3-digit numbers: split with TWO gaps!
+
+234 × 11 = ?
+- Write "2 _ _ 4" with two gaps.
+- Fill: 2+3 = 5 (first gap), 3+4 = 7 (second gap).
+- Answer: **2574**.
+
+Practice: 123 × 11 = 1 (1+2) (2+3) 3 = 1353. 456 × 11 = 5016 (with carries — hard).
+
+Most children stick to no-carry cases this day.
 
 ### Activity (8 min)
 

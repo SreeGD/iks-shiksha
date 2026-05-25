@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *bhadra-gaṇita* (IAST: bhadra-gaṇita; lit. ""auspicious arithmetic" — the Indian term for magic squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Historical Context — Nārāyaṇa and Predecessors**. Keep sentences short.
+- Nārāyaṇa Paṇḍita lived in India about 700 years ago. He wrote a book about magic squares!
+
+His book is called *Gaṇita-kaumudī* ("Moonlight of Math"). Book 14 is all about magic squares.
+
+Show a (drawn) picture of Nārāyaṇa with a manuscript. *"Maths heroes from long ago!"*
+
+Children draw a magic square inside a "book" outline.
 
 ### Activity (8 min)
 

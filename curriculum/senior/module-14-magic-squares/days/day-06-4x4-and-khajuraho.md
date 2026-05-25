@@ -26,11 +26,30 @@ By the end of this lesson, students will: examine the khajuraho inscription and 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The 4×4 (even-order) case.** Stair-step doesn't directly work for even n. Different methods exist (Strachey method, Conway's LUX). Magic constant for 4×4 with 1–16: **34**.
+
+2. **The Dürer 4×4 (1514).** Famous engraving "Melencolia I" includes a 4×4 magic square:
+   ```
+   16  3  2 13
+    5 10 11  8
+    9  6  7 12
+    4 15 14  1
+   ```
+   All rows, columns, diagonals = 34. The bottom-middle two cells contain "15 14" — the year of the engraving (1514). Famous detail.
+
+3. **The Khajuraho square (~10th c. CE).** Inscribed on a panel at the Khajuraho temple complex (Madhya Pradesh, India). 4×4 grid. ALL rows, columns, diagonals AND many 2×2 subblocks sum to **34**. This is a *pan-diagonal* (or *most-perfect*) magic square — a stronger condition than ordinary magic.
+
+   ```
+    7 12  1 14
+    2 13  8 11
+   16  3 10  5
+    9  6 15  4
+   ```
+   Compute: row 1 = 7+12+1+14 = 34. Column 1 = 7+2+16+9 = 34. Etc. Also 2×2 block top-left = 7+12+2+13 = 34.
+
+4. **Source.** The Khajuraho inscription is real and dateable (~10th–11th c. CE). Discussion: this PRECEDES Dürer by ~500 years. The temple inscription is one of the oldest extant magic squares with this "most-perfect" property.
+
+5. **Honest framing.** Magic squares appear in many cultures. The KHAJURAHO square's "most-perfect" property is distinctive. Not all Indian magic squares are this advanced; not all advanced ones are Indian. Cross-cultural mathematics flourishes.
 
 ### Activity (15 min)
 

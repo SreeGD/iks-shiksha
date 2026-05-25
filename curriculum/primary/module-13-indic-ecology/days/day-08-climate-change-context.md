@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *ahiṁsā* (IAST: ahiṁsā; lit. "non-violence; extended to non-human life")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Climate Change — The Crisis**. Keep sentences short.
+- The Earth is getting warmer because we burn too much fuel.
+- Ice is melting. Some animals lose their homes. Some farms have trouble.
+
+Show simple graphics: a thermometer going up, an ice cube melting, a tree being planted.
+
+*"What can WE do?"* Children brainstorm: walk instead of drive, plant trees, save water, don't waste food. Pick one to try this week.
 
 ### Activity (8 min)
 

@@ -26,11 +26,17 @@ By the end of this lesson, students will: pair feedback on final presentation; r
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Pair-rehearsal.** Pairs swap presentations. Time the 5-minute talk. Friend gives:
+   - One strength (clear, well-organised, engaging).
+   - One specific suggestion (slow down, add an example, more eye contact).
+
+2. **Refine.** Each student adjusts their presentation based on feedback. 10 minutes solo refinement.
+
+3. **Group-rehearsal (5 students share with class).** Selected by teacher (varied projects). Class gives 2 minutes of feedback each.
+
+4. **Logistics check.** Materials ready for tomorrow? Backup plan if something breaks?
+
+5. **Self-assessment.** Each student rates themselves on the rubric (`assessments/rubric.md`). They submit this PRE-presentation; the teacher will compare with their own scoring after the share.
 
 ### Activity (15 min)
 

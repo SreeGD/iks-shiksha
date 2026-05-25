@@ -26,11 +26,19 @@ By the end of this lesson, students will: map the 12 lunar months (caitra, vaiś
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Twelve lunar months.** *Caitra, Vaiśākha, Jyaiṣṭha, Āṣāḍha, Śrāvaṇa, Bhādrapada, Āśvina, Kārtika, Mārgaśīrṣa (Agrahāyaṇa), Pauṣa, Māgha, Phālguna.* Each begins on a new moon (*pūrṇimānta* tradition — North India) OR the day after the previous full moon (*amānta* tradition — South India). Both reference the same lunar month with a 15-day phase difference.
+
+2. **Source.** Varāhamihira's *Bṛhat Saṁhitā* discusses both reckonings; the Sūrya-siddhānta uses *amānta*.
+
+3. **Festivals by tithi.** Examples:
+   - *Diwali* — *Kṛṣṇa amāvasyā* of Kārtika
+   - *Holi* — *Pūrṇimā* of Phālguna (followed by *Vasantotsava*)
+   - *Janmāṣṭamī* — *Kṛṣṇa aṣṭamī* of Śrāvaṇa
+   - *Mahā-Śivarātri* — *Kṛṣṇa caturdaśī* of Māgha
+
+4. **Class mapping.** Hand out cards with festival names. Students place each on a 12-month wheel, noting tithi + pakṣa. Compare two regions' festival calendars.
+
+5. **Honest history.** Not all festivals are pan-Indian. Some are regional (Onam — Malayalam solar calendar; Pongal — Tamil solar calendar). Distinguish lunisolar tradition from purely solar reckonings.
 
 ### Activity (15 min)
 

@@ -26,11 +26,20 @@ By the end of this lesson, students will: identify the five components: tithi, v
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define pañcāṅga.** Five (*pañca*) limbs (*aṅga*) of the Indian calendar:
+   - *tithi* — lunar day (Module focus so far)
+   - *vāra* — weekday (7-day cycle, *ravivāra*–*śanivāra*)
+   - *nakṣatra* — lunar mansion (27 divisions of ecliptic)
+   - *yoga* — Sun-Moon longitudinal sum (27 named yogas)
+   - *karaṇa* — half-tithi (11 named karaṇas)
+
+2. **Source.** Sūrya-siddhānta, *Pañcāṅga-prakaraṇa* sections.
+
+3. **Read a published pañcāṅga together.** Show today's row. *"Identify each of the five aṅgas."* Note that the pañcāṅga also lists *muhūrta* (auspicious hours), *rāhu-kāla*, *yamagaṇḍa* — derivative computations.
+
+4. **Modern parallel.** Astronomical observational data (NASA / IMCCE) provide the *raw inputs* (Sun-Moon longitudes); the pañcāṅga *interprets* these through the 5-limb framework. The astronomy is universal; the framework is Indian.
+
+5. **Critical-thinking discussion.** *"Pañcāṅga has been used for ritual timing for ~2000 years. What does that tell us about (a) the durability of the framework and (b) the limits of inferring causation from co-occurrence?"*
 
 ### Activity (15 min)
 

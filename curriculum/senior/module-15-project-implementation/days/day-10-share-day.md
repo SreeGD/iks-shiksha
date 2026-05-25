@@ -26,11 +26,17 @@ By the end of this lesson, students will: present project to peers + parents; co
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Project share day.** Each student presents their project (5 minutes including Q&A). Audience: peers, optionally parents, optionally other teachers.
+
+2. **Format.** Brief: what + why + how + what-I-learned. Show the artefact. Take 1-2 questions.
+
+3. **Audience role.** Each peer takes one note per project (1 sticky note, one observation or compliment). At the end, sticky notes go to each presenter.
+
+4. **Self + teacher assessment.** After the share, each student completes their final self-assessment on the rubric. The teacher fills the corresponding teacher-assessment. Within a week, the two are compared in a 1-1 conversation.
+
+5. **Module close (5 min).** Whole-class reflection: *"Looking back across all 15 modules — Modules 1-14 of curriculum, Module 15 of project — what's ONE thing that will stay with you?"* Each student says one sentence.
+
+6. **Curriculum close.** Brief teacher comment + final round of applause. The IKS curriculum is complete.
 
 ### Activity (15 min)
 

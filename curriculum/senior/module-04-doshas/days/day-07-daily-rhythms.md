@@ -26,11 +26,18 @@ By the end of this lesson, students will: map the kapha-pitta-vāta cycle across
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Project the doṣa clock.** On the board, draw a 24-hour ring divided into three two-period segments:
+   - **Kapha hours:** 6–10 am and 6–10 pm — heavy, slow start; calm wind-down.
+   - **Pitta hours:** 10 am–2 pm and 10 pm–2 am — sharp focus; metabolic peak.
+   - **Vāta hours:** 2–6 am and 2–6 pm — light, mobile, creative.
+
+2. **Source.** Aṣṭāṅga Hṛdaya, *Sūtrasthāna* 1.8 on *kāla-prabhāva* (time-of-day influence on doṣa).
+
+3. **Match observations to hours.** *"When is your sharpest study time? When do you feel heaviest? When are dreams most active?"* Pair this to the chart. Most students will recognise the pitta-noon peak and the kapha-morning slump.
+
+4. **Modern bridge.** Map onto circadian-rhythm research: cortisol peaks ~8 am (kapha-clearance), core body temperature peaks ~mid-afternoon (pitta), REM sleep dominates ~3–5 am (vāta).
+
+5. **Independent work.** Each student sketches their own 24-hour clock and annotates which hours they feel each doṣa dominate. Compare in pairs.
 
 ### Activity (15 min)
 

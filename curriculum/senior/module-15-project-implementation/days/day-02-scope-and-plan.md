@@ -26,11 +26,21 @@ By the end of this lesson, students will: write a 1-page project plan: problem, 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Each student commits to ONE project.** Show of hands per option to see distribution.
+
+2. **The one-page plan template.**
+   - Title (~10 words)
+   - Problem (~50 words): what question/need does this address?
+   - Sources (~5 listed): the modules + texts you'll draw from
+   - Deliverable (~50 words): what will exist at the end?
+   - Timeline (Day 3-10 broken down by phase)
+   - Success criteria (3 bullet points: what makes this excellent?)
+
+3. **Work-time.** 30 minutes of silent plan-writing.
+
+4. **Pair-share.** Pairs swap plans, give one strength + one concern (sticky notes).
+
+5. **Submit.** Plans go to the teacher tonight for sign-off. Tomorrow you begin research.
 
 ### Activity (15 min)
 

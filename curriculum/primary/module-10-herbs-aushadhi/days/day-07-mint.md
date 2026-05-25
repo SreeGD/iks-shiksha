@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pudīnā* (IAST: pudīnā; lit. "mint — *Mentha* spp.")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Mint — Cooling Leaf**. Keep sentences short.
+- Today: meet Mint (Pudīnā)! 🌿
+
+Show fresh mint leaves. Smell — fresh, cool! Crush a leaf — smell stronger.
+
+*"Mint makes our mouth feel cool, even when it's not cold!"*
+
+Mint chutney is yummy with food. Mint tea is good in summer.
+
+Children draw a mint leaf (small, oval, slightly bumpy) and write "pudīnā" beside.
 
 ### Activity (8 min)
 

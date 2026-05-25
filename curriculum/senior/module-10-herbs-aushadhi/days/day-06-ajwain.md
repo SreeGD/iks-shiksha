@@ -26,11 +26,15 @@ By the end of this lesson, students will: recognise seeds and leaves; identify t
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Botanical identification.** *Trachyspermum ammi*. Small seeds (closer to caraway than parsley). Distinctive sharp aroma. Leaves of the plant resemble parsley.
+
+2. **Active compound.** Thymol (35-60% of essential oil). Same compound as in thyme. Strong antimicrobial and digestive-stimulating actions.
+
+3. **Traditional uses.** Caraka cites *yavānī* primarily for digestive complaints: indigestion, gas, colic. The traditional remedy: a few seeds chewed after a heavy meal.
+
+4. **Modern research.** Thymol's antimicrobial effect is well-documented in food science (it's used as a natural preservative). Limited clinical research on traditional digestive claims, but the underlying chemistry is plausible.
+
+5. **Discussion.** *"Why is the same compound (thymol) found in ajwain and thyme — plants from very different families?"* This is *convergent evolution* in plant chemistry: distantly related plants evolving the same defensive compound. A great cross-cultural pharmacology insight.
 
 ### Activity (15 min)
 

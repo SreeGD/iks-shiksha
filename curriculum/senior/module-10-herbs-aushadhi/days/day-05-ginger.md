@@ -26,11 +26,15 @@ By the end of this lesson, students will: distinguish fresh vs dried; gingerol v
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Botanical identification.** *Zingiber officinale*. Rhizome (like turmeric, not a true root). Light tan skin. Fresh (*ārdraka*) vs dried (*śuṇṭhī*) — distinct Sanskrit names because the properties differ.
+
+2. **Active compounds.** Fresh ginger: gingerols. Dried ginger: shogaols (gingerols dehydrate during drying). Both are pungent / "hot."
+
+3. **Traditional vs modern uses.** Caraka cites ginger for: digestive fire, nausea, cold-induced cough. Modern clinical trials support: nausea (motion sickness, chemo-induced — *Cochrane Reviews*), and mild anti-inflammatory effect.
+
+4. **Two preparations, two effects.** *"Why does Āyurveda distinguish fresh from dried?"* Fresh ginger is heating but mild; dried ginger is more concentrated and warming. Modern: same compound family, different ratios.
+
+5. **Activity.** Smell-test: fresh ginger root vs dried ginger powder. Students rate intensity 1-5 and write one sentence on the difference.
 
 ### Activity (15 min)
 

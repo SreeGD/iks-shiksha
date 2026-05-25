@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *kṛṣṇa pakṣa* (IAST: kṛṣṇa pakṣa; lit. "waning fortnight (full → new)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Building a Tithi Calendar**. Keep sentences short.
+- Let's make a moon calendar for this month!
+
+Show a printed month calendar. Together, look up today's tithi. Mark it with a moon-sticker.
+
+Each child gets a worksheet with 28 boxes (one per day). They draw the moon shape they expect to see each evening, going from now to a month from now. Tomorrow we'll check and correct.
 
 ### Activity (8 min)
 

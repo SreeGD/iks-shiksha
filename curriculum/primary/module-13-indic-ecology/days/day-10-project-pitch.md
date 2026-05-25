@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *sthāvara-jaṅgama* (IAST: sthāvara-jaṅgama; lit. "immobile (plants, rocks) and mobile (animals) life")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Project Pitch and Assessment**. Keep sentences short.
+- Project share day! Each child shows their drawing and tells the class their plan.
+
+Cheer for each one. *"Every project counts!"*
+
+Quiz with stickers — everyone gets an "Earth Friend" sticker.
+
+End: hold hands in a big circle. Say together: *"Vasudhaiva Kuṭumbakam — one big family!"*
 
 ### Activity (8 min)
 

@@ -26,11 +26,19 @@ By the end of this lesson, students will: use add-the-complement trick for arbit
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Beyond powers of 10.** Most real subtractions aren't from a clean 10^k. So how does Nikhilam help with, say, 6347 − 2589?
+
+2. **The "add-the-complement" trick.** Rewrite: 6347 − 2589 = 6347 + (10000 − 2589) − 10000 = 6347 + (complement of 2589) − 10000.
+   - Complement of 2589 to 10000: 9-2=7, 9-5=4, 9-8=1, 10-9=1 → 7411.
+   - 6347 + 7411 = 13758.
+   - 13758 − 10000 = 3758.
+   - Check: 6347 − 2589 = 3758. ✓
+
+3. **When is this faster?** When the borrowing in standard subtraction would chain through many digits, the complement method skips it entirely. For simple subtractions, standard is fine.
+
+4. **Worksheet.** 8 problems, mixed: some clean Nikhilam, some general using add-the-complement.
+
+5. **Reflection.** *"Which method-type did you find genuinely faster? Which felt the same?"* Honest answers — Nikhilam is a tool, not a universal speed-up.
 
 ### Activity (15 min)
 

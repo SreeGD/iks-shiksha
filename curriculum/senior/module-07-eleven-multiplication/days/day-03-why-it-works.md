@@ -26,11 +26,28 @@ By the end of this lesson, students will: derive (10a+b)×11 = 100a + 10(a+b) + 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Write any 2-digit number as 10a + b.** Examples: 23 = 10·2 + 3 (a=2, b=3); 87 = 10·8 + 7.
+
+2. **Distribute multiplication.**
+   ```
+   (10a + b) × 11 = (10a + b)(10 + 1)
+                  = (10a + b)·10 + (10a + b)·1
+                  = 100a + 10b + 10a + b
+                  = 100a + 10(a + b) + b
+   ```
+
+3. **Read the final line in plain language.**
+   - 100a → hundreds digit is *a*
+   - 10(a+b) → tens digit is *a+b* (the digit sum!)
+   - +b → units digit is *b*
+
+   This IS the trick. The algebra spells out the procedure.
+
+4. **Verify on 23.** 100·2 + 10·(2+3) + 3 = 200 + 50 + 3 = 253. ✓
+
+5. **Connection to the carry case.** When a+b ≥ 10, 10(a+b) becomes 10(a+b) = 100 + 10·(a+b-10), pushing the overflow into the hundreds place. The algebra automatically handles the carry.
+
+6. **Independent task.** Each student writes the proof in their own words for a homework explainer to a younger student.
 
 ### Activity (15 min)
 

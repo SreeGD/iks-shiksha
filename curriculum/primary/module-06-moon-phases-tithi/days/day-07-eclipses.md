@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pūrṇimā* (IAST: pūrṇimā; lit. "full moon")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Why Eclipses Happen**. Keep sentences short.
+- Sometimes the Moon hides the Sun — that's a *solar eclipse*!
+- Sometimes the Earth's shadow falls on the Moon — that's a *lunar eclipse*!
+
+Use the torch + ball + child's head from earlier days. Show:
+- Ball blocks light → solar eclipse (child's face goes dark).
+- Child's head blocks light → lunar eclipse (ball goes dark).
+
+**SAFETY RULE:** Never look at the Sun with eyes! Children repeat 3 times.
 
 ### Activity (8 min)
 

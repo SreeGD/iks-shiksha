@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *anvayana* (IAST: anvayana; lit. "integration / following-through; capstone synthesis")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Project Share Day**. Keep sentences short.
+- BIG DAY! Show-and-tell time! 🎉
+
+Each child shows their project to the class.
+- Say one thing you made.
+- Say one thing you learned.
+
+Audience claps for each child.
+
+End: everyone gets a "Curriculum Champion" sticker. Whole class chants: *"WE DID IT!"*
 
 ### Activity (8 min)
 

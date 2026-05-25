@@ -26,11 +26,15 @@ By the end of this lesson, students will: compare with egyptian, roman, gregoria
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The Egyptian solar calendar.** 365 days, 12 months of 30 days + 5 epagomenal days. No leap year initially. Synchronised with the Nile flood.
+
+2. **The Roman / Julian / Gregorian.** Julian (45 BCE) — 365.25 days, leap year every 4. Gregorian (1582) — refined to 365.2425, leap years every 4 except centuries unless divisible by 400.
+
+3. **The Indian solar calendar.** *Saura māsa* = time Sun spends in one rāśi. ~30-31 days per month (varies because Sun moves faster near perihelion). Used in Tamil Nadu, Kerala, Bengal — these regions use sidereal solar months even when their festivals are lunar.
+
+4. **The Chinese solar calendar.** 24 *jiéqì* (solar terms) anchored to specific solar longitudes. Spring Equinox, Summer Solstice, etc. are explicit anchor points.
+
+5. **Comparison exercise.** Each student picks 2 traditions and draws a side-by-side year-circle, noting where their respective "new year" falls and what it celebrates.
 
 ### Activity (15 min)
 

@@ -30,11 +30,19 @@ From *Sūrya-siddhānta (c. 5th–10th c. CE)* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Geometric model.** Use a torch (Sun) + tennis ball (Moon) + a student's head (Earth). Walk the Moon around the Earth. *"Which part of the Moon does the Earth-observer see lit at each position?"* Demonstrate the four primary phases.
+
+2. **Define synodic month.** ~29.53 days from one *amāvasyā* to the next. *Synodic* = relative to the Sun (as seen from Earth). Distinct from sidereal month (~27.32 days) — relative to fixed stars.
+
+3. **Source.** Sūrya-siddhānta, ch. 2, vv. 1–10 — defines lunar motion with mean and true longitudes. Read 2 verses aloud in transliteration.
+
+4. **Four phases:**
+   - *amāvasyā* — new (Sun side)
+   - First quarter — half lit, waxing
+   - *pūrṇimā* — full (anti-Sun side)
+   - Last quarter — half lit, waning
+
+5. **Class observation assignment.** Each student notes the moon's shape this evening (or tomorrow morning) and writes one sentence describing it. We'll plot data tomorrow.
 
 ### Activity (15 min)
 

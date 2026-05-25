@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *kothumi vidhi* (IAST: kothumi vidhi; lit. "Nārāyaṇa's algorithm for odd-order squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **4×4 and the Khajuraho Square**. Keep sentences short.
+- 4×4 magic squares are also amazing! In INDIA, there's one carved on a temple wall — the Khajuraho square. About 1000 years old!
+
+Show the picture. *"All rows = 34, all columns = 34. Even small 2x2 boxes inside = 34!"*
+
+Children draw a 4×4 grid and copy the numbers. They check: do the rows add to 34? Try one!
 
 ### Activity (8 min)
 

@@ -26,11 +26,15 @@ By the end of this lesson, students will: phases as sun's illumination of moon; 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Phases re-explained.** Lunar phases = sunlight reflection from a 1737-km-radius sphere as the Earth-Moon-Sun angle changes. Synodic period of ~29.53 days. There is no "dark side" — only a *far side*, which receives the same sunlight, just not visible from Earth.
+
+2. **Libration.** Earth-observers see ~59% of the Moon's surface over time due to orbital eccentricity and axial tilt. Demo with rotating ball.
+
+3. **Tidal lock.** Same face always visible to Earth — rotation period = orbital period = ~27.32 days (sidereal). This is the result of tidal forces over billions of years.
+
+4. **Modern lunar exploration.** Mention briefly: Apollo missions (1969–72), Chandrayaan-1 (2008) discovered water-ice signatures, Chandrayaan-3 (2023) soft-landing near south pole, Artemis program (2024+).
+
+5. **Bridge back to tradition.** Sūrya-siddhānta computes Moon's distance and diameter approximately (Earth-Moon ~38000 yojanas ≈ 380000 km — close to modern 384400 km). The empirical precision is striking; the cosmological framework around it is what differs.
 
 ### Activity (15 min)
 

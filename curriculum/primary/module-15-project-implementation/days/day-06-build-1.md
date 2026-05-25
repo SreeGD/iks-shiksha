@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *siddhānta* (IAST: siddhānta; lit. "concluded principle or doctrine")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Build / Make — Day 1**. Keep sentences short.
+- TIME TO BUILD! 🛠️
+
+Each child gets out their materials (paper, paint, plants, etc.) and starts.
+
+Teacher walks around helping. Children share with their neighbour: *"What are you making?"*
+
+End: hold up what you've started. *"Tomorrow we keep going!"*
 
 ### Activity (8 min)
 

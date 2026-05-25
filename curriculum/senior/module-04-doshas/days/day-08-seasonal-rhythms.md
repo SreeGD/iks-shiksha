@@ -26,11 +26,18 @@ By the end of this lesson, students will: map doṣa cycles to monsoon/summer/wi
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The annual doṣa cycle.** Three seasonal phases dominate (varies by region):
+   - **Vasanta (spring) — kapha season:** snowmelt, congestion, allergies; kapha accumulates over winter and is released now.
+   - **Grīṣma + Varṣā (summer / monsoon) — pitta season:** heat, inflammation, digestive fire dips.
+   - **Śarad + Hemanta + Śiśira (autumn / winter) — vāta season:** dryness, cold, wind; circulatory and joint stiffness.
+
+2. **Source.** Caraka Saṁhitā, *Sūtrasthāna* 6 — *ṛtucaryā* (seasonal regimen).
+
+3. **Map to your region.** Indian classical descriptions correspond to North Indian climates. *"How do these doṣa-seasons map to YOUR local climate?"* Coastal, hill, and desert students will adapt differently.
+
+4. **Modern bridge.** Hay-fever in spring (immune activation matching kapha-release), heat-stroke risk in summer (pitta), dry-skin and joint pain in winter (vāta) — all empirically documented in Indian medical literature.
+
+5. **Discussion.** *"What seasonal adjustment would you make to your routine — sleep, food, exercise — based on today's doṣa-season?"* Each student writes one specific adjustment.
 
 ### Activity (15 min)
 

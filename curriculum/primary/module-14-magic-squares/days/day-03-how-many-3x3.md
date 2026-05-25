@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *kothumi vidhi* (IAST: kothumi vidhi; lit. "Nārāyaṇa's algorithm for odd-order squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **How Many 3×3 Magic Squares?**. Keep sentences short.
+- How many ways can we make a 3×3 magic square?
+
+Show the 2-7-6 / 9-5-1 / 4-3-8 square. Rotate the paper 90° — STILL magic! Rotate again — still! Reflect (mirror) — still!
+
+*"That's 8 ways! But they're all REALLY the same square — just turned around."*
+
+Children try rotating their own magic square paper. They count the rotations.
 
 ### Activity (8 min)
 

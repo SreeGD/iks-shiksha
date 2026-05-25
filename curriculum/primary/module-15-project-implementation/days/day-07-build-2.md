@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *anvayana* (IAST: anvayana; lit. "integration / following-through; capstone synthesis")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Build / Make — Day 2**. Keep sentences short.
+- More building today! Keep going on your project.
+
+Children work for 25 minutes. Teacher helps when stuck.
+
+If you finish early — make it BETTER (add colour, add words).
+If you're slow — keep going! Tomorrow we document.
+
+End: high-five with a friend.
 
 ### Activity (8 min)
 

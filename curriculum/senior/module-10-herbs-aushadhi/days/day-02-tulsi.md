@@ -26,11 +26,15 @@ By the end of this lesson, students will: identify tulasī by leaf and smell; na
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Botanical identification.** *Ocimum tenuiflorum* (also *O. sanctum*). Square stem, opposite leaves with serrated edges, distinctive aromatic oil glands. Multiple cultivars: *Rama tulasī* (green), *Kṛṣṇa tulasī* (purple), *Vana tulasī* (wild).
+
+2. **Active compound.** Eugenol (60-70% of essential oil), ursolic acid, rosmarinic acid. Some research on adaptogenic / anti-inflammatory effects (Cohen, 2014 — *Journal of Ayurveda and Integrative Medicine*).
+
+3. **Traditional uses.** Caraka and Suśruta cite *tulasī* for: cough, cold, low-grade fever, indigestion (in tea form), as a bedside plant for air quality.
+
+4. **Source.** Atharva Veda 10.97 — Auṣadhi Sūkta — though not naming tulasī specifically, the framing of "herbs as healing beings" begins here. Caraka *Sūtrasthāna* 26 lists tulasī formally.
+
+5. **Smell-test demo.** Crush a leaf; pass around. Note clove-like aroma (eugenol). Modern aroma-chemistry: same compound (eugenol) gives cloves their scent.
 
 ### Activity (15 min)
 

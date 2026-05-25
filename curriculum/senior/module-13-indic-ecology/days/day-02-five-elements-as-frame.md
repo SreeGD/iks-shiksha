@@ -26,11 +26,15 @@ By the end of this lesson, students will: link module 2 pañcabhūta to ecology 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Recall Module 2's pañcabhūta.** Earth, water, fire, air, space — the five elements seen as both physical and pervasive.
+
+2. **The interconnection principle.** No element exists alone. Earth needs water to support life. Water needs space to flow. Air needs warmth (fire) to circulate. Space contains all. This is the COSMOLOGICAL grounding for ecological ethics.
+
+3. **Modern translation.** Ecosystems = elemental cycles (carbon, nitrogen, water cycles). The pañcabhūta framework essentially names: matter (earth), water cycle (ap), energy (tejas), atmosphere (vāyu), and the systemic interconnection (ākāśa).
+
+4. **Source.** Bhagavad Gītā 13.5 lists *mahā-bhūtāni* — the gross elements — as one of the *kṣetra* (field) categories. The conceptual frame is in place by ~2nd century BCE.
+
+5. **Discussion.** *"If we damage one element — pollute air, contaminate water, deforest land — what happens to the others?"* Modern climate science answers concretely. *"Indic ecology says these aren't separate problems."*
 
 ### Activity (15 min)
 

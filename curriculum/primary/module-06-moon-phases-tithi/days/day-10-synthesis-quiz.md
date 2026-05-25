@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pakṣa* (IAST: pakṣa; lit. "fortnight (half-month)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Synthesis and Quiz**. Keep sentences short.
+- Today we celebrate everything we learned about the Moon!
+
+Each child shares ONE thing from their moon diary. *"Did the Moon look how you thought it would?"*
+
+Make a class moon-mural: a circle with all the children's moon drawings stuck around the outside. Sing the tithi rhyme one more time.
+
+Take the quiz with stickers (not stress) — every child gets a "Moon Watcher" sticker.
 
 ### Activity (8 min)
 

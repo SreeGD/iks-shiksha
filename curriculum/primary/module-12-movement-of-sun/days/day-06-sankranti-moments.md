@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *sāyana* (IAST: sāyana; lit. "tropical zodiac (linked to seasons)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Saṁkrānti Moments**. Keep sentences short.
+- When the Sun moves from one rāśi-house to the next, we call it *Saṅkrānti*.
+- The most famous: *Makara Saṅkrānti* — when the Sun enters Makara (Capricorn). Around January 14 in many years!
+
+Show a wheel with 12 houses. Children put a Sun-sticker on each rāśi, then circle the date when the Sun enters Makara.
+
+*"In Tamil Nadu, this is Pongal. In Punjab, Lohri. In many places, it's a happy festival!"*
 
 ### Activity (8 min)
 

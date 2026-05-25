@@ -26,11 +26,18 @@ By the end of this lesson, students will: complete a 30-problem mental subtracti
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **30-problem mental sprint.** Mix:
+   - Pure Nikhilam (subtract from 10, 100, 1000, 10000) — 15 problems
+   - Add-the-complement (general subtractions) — 10 problems
+   - Edge cases (trailing zeros, single-digit) — 5 problems
+
+2. **5-minute timer.** Silence. Pen on paper.
+
+3. **Pair-mark.** Swap and check.
+
+4. **Distribution analysis.** *"Where did errors cluster?"* Most likely: edge cases (trailing zeros), large complements (10000 case).
+
+5. **Personal best.** Record score; set target for next sprint.
 
 ### Activity (15 min)
 

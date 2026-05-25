@@ -26,11 +26,15 @@ By the end of this lesson, students will: explain who tirthaji was and why schol
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Who was Tirthaji?** Bharati Krishna Tirthaji (1884–1960), Śaṅkarācārya of Govardhana Maṭha, Puri. Composed the manuscript that became *Vedic Mathematics* during 1911–1918. Published posthumously 1965.
+
+2. **Tirthaji's claim.** The 16 sūtras + 13 sub-sūtras were "reconstructed" from the *Pariśiṣṭa of the Atharva Veda*. The original manuscript with sūtras has never been independently located.
+
+3. **Scholarly response.** S.G. Dani (Tata Institute of Fundamental Research), in *Frontline* (1993), examined the claim: the sūtras as published do NOT appear in extant Atharva Veda Pariśiṣṭa manuscripts. Most academic mathematicians treat Tirthaji's system as a 20th-century mental-arithmetic synthesis, drawing on traditional and modern sources, NOT strictly ancient mathematics.
+
+4. **Pedagogical value.** The methods themselves work and teach number sense effectively. The *historical claim* is separable from the *pedagogical method*. Many curricula in India today teach the methods while updating the historical claim.
+
+5. **Reading.** Hand out a one-page excerpt from Dani's article and Tirthaji's preface side-by-side. Pairs discuss: *"What does each author claim? What evidence does each provide?"*
 
 ### Activity (15 min)
 

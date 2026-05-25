@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *devarakāḍu* (IAST: devarakāḍu; lit. "sacred grove (Karnataka, S. India)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Sacred Groves**. Keep sentences short.
+- Sacred groves are special little forests that people DON'T cut.
+- Why? Because they believe a god, a sage, or an ancestor lives there.
+- Animals and plants live safely in these groves.
+
+Show a picture of a grove. *"This is a place where no one breaks a branch."*
+
+Children draw a tiny forest with animals: birds, butterflies, deer. Add a small temple or shrine.
 
 ### Activity (8 min)
 

@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Uttarāyaṇa* (IAST: Uttarāyaṇa; lit. "northward solar course (Dec 21 – June 21)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Axial Tilt and the Seasons**. Keep sentences short.
+- Why do we have seasons?
+
+Demo: hold a ball (Earth) tilted to one side. Shine a torch (Sun) at it. Move the ball around the torch.
+- Sometimes the TOP of the ball gets more light → summer.
+- Sometimes the BOTTOM gets more → other hemisphere's summer.
+
+*"Earth is TILTED. That's why we have seasons!"* Children draw a tilted Earth with the Sun.
 
 ### Activity (8 min)
 

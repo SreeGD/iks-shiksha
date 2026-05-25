@@ -26,11 +26,15 @@ By the end of this lesson, students will: project share + summative quiz.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Personal solar calendar share (10 min).** Each student shows their year-wheel with 2 solstices, 2 equinoxes, 12 saṅkrāntis, and their own birthday's rāśi marked.
+
+2. **Vocabulary lightning round (5 min).** Definitions taken from random students: *uttarāyaṇa, dakṣiṇāyana, viṣuva, rāśi, saṅkrānti, sāyana, nirayana, ayanāṁśa*.
+
+3. **Summative quiz (25 min).** See `quizzes/summative.md`.
+
+4. **Critical-thinking close.** *"Is the difference between sāyana and nirayana a 'wrong vs right' issue or a 'context-dependent convention' issue? Which framing is more scientifically honest?"*
+
+5. **Safety reminder.** Never look at the Sun directly. Reaffirm.
 
 ### Activity (15 min)
 

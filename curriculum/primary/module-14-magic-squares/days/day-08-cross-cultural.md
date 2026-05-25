@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *siddhāṅka (modern coinage)* (IAST: siddhāṅka (modern coinage); lit. "the common sum of all rows/columns/diagonals")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Cross-Cultural — Lo Shu and Dürer**. Keep sentences short.
+- Magic squares are found ALL OVER THE WORLD!
+
+- 🇨🇳 China: Lo Shu legend — a turtle's shell!
+- 🇮🇳 India: Khajuraho temple wall!
+- 🇩🇪 Germany: Dürer's painting!
+
+Show 4 small pictures. *"People everywhere love magic squares!"*
+
+Each child picks one tradition and draws a tiny picture (turtle, temple, painting).
 
 ### Activity (8 min)
 

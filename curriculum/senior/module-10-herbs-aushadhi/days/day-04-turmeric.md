@@ -26,11 +26,15 @@ By the end of this lesson, students will: distinguish fresh root vs powder; iden
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Botanical identification.** *Curcuma longa*. A rhizome (underground stem, not a root). Bright orange when cut. Fresh vs dried (turmeric powder).
+
+2. **Active compound.** Curcumin (~2-5% of dried rhizome). Bright yellow polyphenol. Other compounds: turmerones in the essential oil.
+
+3. **Traditional uses.** Caraka cites *haridrā* for: wound healing (topical paste), anti-inflammatory (golden milk), as a colouring + preservative agent in food. Centuries of culinary use.
+
+4. **Modern research.** Curcumin has been studied extensively for anti-inflammatory effects. Bioavailability is poor without piperine (black pepper) or fat — which is why *haldi doodh* (turmeric milk with ghee) is traditional. Modern preparations use liposomal or piperine-enhanced formulations.
+
+5. **Demo / activity.** Crush a small piece of fresh turmeric on paper. Note the staining (curcumin is a pH indicator — colour changes with vinegar/lemon vs baking soda). This is also chemistry, not just culinary.
 
 ### Activity (15 min)
 

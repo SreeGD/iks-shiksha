@@ -25,7 +25,10 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *sūtra* (IAST: sūtra; lit. "aphorism / formula")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Tirthaji and Historical Context**. Keep sentences short.
+- The trick comes from a book by Bharati Krishna Tirthaji, who lived about 100 years ago.
+- He named it after old Sanskrit ideas. Today, scholars are not sure if the methods are really thousands of years old. But the *trick still works* — and that's what matters for us!
+
+Show a photo (or drawing) of Tirthaji. Children put a thumbs-up if they like the trick.
 
 ### Activity (8 min)
 

@@ -26,11 +26,18 @@ By the end of this lesson, students will: connect each doṣa to its two constit
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Recall Module 2 *pañcabhūta*:** *ākāśa* (space), *vāyu* (air), *tejas* (fire), *ap* (water), *pṛthvī* (earth).
+
+2. **Map doṣas to element pairs.** Caraka's framework:
+   - *vāta* = *ākāśa* + *vāyu* (both light, mobile)
+   - *pitta* = *tejas* + *ap* (transformation + medium)
+   - *kapha* = *ap* + *pṛthvī* (cohesion + heaviness)
+
+3. **Why pairs, not single elements?** Each doṣa needs a quality AND a medium. *Vāyu* alone has no container; *tejas* alone burns without medium; *pṛthvī* alone is inert. The pair makes the doṣa functional.
+
+4. **Source.** Aṣṭāṅga Hṛdaya, *Sūtrasthāna* 1.7 — the *tridoṣa* are the gross outcome of the *pañcamahābhūta*.
+
+5. **Class exercise.** Pairs receive a list of 10 observations ("warm forehead," "dry skin," "feels heavy after lunch"). Classify each by likely doṣa AND the element pair that grounds the claim.
 
 ### Activity (15 min)
 

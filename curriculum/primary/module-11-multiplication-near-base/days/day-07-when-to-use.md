@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *ādhikya* (IAST: ādhikya; lit. "excess (number above base)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **When To Use It**. Keep sentences short.
+- The trick is special! It works best when numbers are CLOSE to 100 (or 10, or 1000).
+- For numbers far from 100 (like 47 × 63), we use the regular way.
+
+Show 97 × 96 (use trick) and 47 × 63 (use regular). *"Pick the right tool!"*
+
+Children practice sorting: which problems use the trick?
 
 ### Activity (8 min)
 

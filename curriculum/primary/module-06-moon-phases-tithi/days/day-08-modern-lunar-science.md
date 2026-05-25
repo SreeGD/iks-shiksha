@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pañcāṅga* (IAST: pañcāṅga; lit. "five-limbed Indian calendar (tithi, vāra, nakṣatra, yoga, karaṇa)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Modern Lunar Science**. Keep sentences short.
+- The Moon isn't really changing shape — the same ball is always there!
+- The Sun lights up half of it. We see *different parts of the lit half* as the Moon goes around Earth.
+
+Demo: hold a half-painted ball (one side bright, one side dark). Walk it around a child. The child describes what they see from each angle.
+
+*"The Moon is always whole. We only see the bright part."*
 
 ### Activity (8 min)
 

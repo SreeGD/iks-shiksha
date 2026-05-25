@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *auṣadhi* (IAST: auṣadhi; lit. "medicinal plant / herb")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **What is Auṣadhi?**. Keep sentences short.
+- *Auṣadhi* (say "OH-shudh-ee") = a plant that helps when we feel poorly.
+
+Show six small plant samples or pictures. Pass each one — children smell, touch (carefully).
+
+*"Many plants are helpers! Today we meet six new garden friends."* Each child draws one plant they liked best.
 
 ### Activity (8 min)
 

@@ -26,11 +26,17 @@ By the end of this lesson, students will: compare with hijri (islamic), chinese,
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Indian lunisolar.** Lunar months (~29.5d) + adhika māsa intercalation to track the solar year. Months named for the *nakṣatra* near the full moon.
+
+2. **Islamic Hijri.** Strictly lunar — 12 lunar months, no intercalation. ~354 days/year, drifts ~11 days/year relative to solar calendar. Reasons: religious lunar observation, no agricultural anchoring.
+
+3. **Chinese.** Lunisolar like Indian, with intercalation. 60-year cycle combining 12 animals × 10 stems. Confucian calendar reform 104 BCE refined it.
+
+4. **Hebrew.** Lunisolar with intercalation (Adar I/II in leap years). 19-year Metonic cycle.
+
+5. **Roman / Gregorian.** Purely solar (since Julian 45 BCE, refined 1582 CE). Months disconnected from lunar cycle. Most universal calendar today.
+
+6. **Source comparison.** Show a 2026 calendar in 4 traditions side-by-side. *"Which dates align? Which don't? Why?"*
 
 ### Activity (15 min)
 

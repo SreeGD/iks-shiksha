@@ -26,11 +26,21 @@ By the end of this lesson, students will: show how the same idea underlies binar
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Bridge to computing.** Modern computers don't have a subtraction circuit — they have an ADDER circuit. They subtract by adding the *two's complement* of the subtrahend. This is the same Nikhilam idea, in binary.
+
+2. **Binary Nikhilam.** For an 8-bit number:
+   - One's complement: flip every bit (= "all from 1," the binary analogue of "all from 9").
+   - Two's complement: one's complement + 1.
+
+3. **Worked example.** Compute 9 − 5 in 8-bit binary:
+   - 5 = 00000101
+   - Flip: 11111010 (one's complement)
+   - Add 1: 11111011 (two's complement)
+   - Add to 9 = 00001001: 00001001 + 11111011 = 100000100, drop the overflow bit → 00000100 = 4. ✓
+
+4. **Source.** D.E. Knuth, *The Art of Computer Programming*, vol. 2 — full treatment.
+
+5. **Critical-thinking close.** *"The Nikhilam sūtra (or its decimal-complement principle) and binary two's complement both date their origins to vastly different traditions and eras. What does this tell us about (a) the universality of certain algorithmic ideas and (b) the limits of cultural-priority claims?"*
 
 ### Activity (15 min)
 

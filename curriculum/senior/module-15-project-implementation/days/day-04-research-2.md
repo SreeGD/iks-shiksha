@@ -26,11 +26,15 @@ By the end of this lesson, students will: continue research; sketch initial desi
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Continued research.** Today's focus: sketches + design.
+
+2. **The design-thinking question.** *"What will this LOOK like when it's done?"* Draw it. Even a rough sketch helps you find missing pieces.
+
+3. **Source check.** Revisit yesterday's notes. Are there gaps? Look up one more source if needed.
+
+4. **Work-time.** 30 minutes of sketching + planning the build.
+
+5. **Pair-feedback.** Pairs discuss design. *"What's the strongest part of your design? What's still unclear?"*
 
 ### Activity (15 min)
 

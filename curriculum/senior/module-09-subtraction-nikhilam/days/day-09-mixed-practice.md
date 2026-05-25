@@ -26,11 +26,19 @@ By the end of this lesson, students will: solve a mixed problem set comparing co
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Mixed problem set.** 20 subtractions, classes mixed:
+   - Simple borrows (use borrow or Nikhilam, your choice)
+   - Multi-borrow (Nikhilam likely faster)
+   - Subtraction from powers of 10 (Nikhilam dominates)
+   - Add-the-complement (general)
+
+2. **Strategy choice.** Each student picks the method per problem and writes the chosen method beside the answer.
+
+3. **Cross-check.** Pairs swap; compare method choices. *"Did you both pick the same method? When did you disagree?"*
+
+4. **Discussion.** *"Is Nikhilam ALWAYS better? When is plain borrowing fine?"* (Single-digit, small subtractions.)
+
+5. **Method-comparison artefact.** Each student starts a "personal mental-math toolkit" page summarising when to use each method.
 
 ### Activity (15 min)
 

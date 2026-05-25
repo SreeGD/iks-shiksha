@@ -26,11 +26,15 @@ By the end of this lesson, students will: final quiz and 10-day moon-diary share
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Vocabulary lightning round.** Students take turns defining: *tithi, pakṣa, śukla, kṛṣṇa, pūrṇimā, amāvasyā, pañcāṅga, nakṣatra, adhika māsa.* Catch errors collectively.
+
+2. **Moon-diary review.** Each student shares one observation from their 10-day moon diary (Days 1–10 of homework). Identify discrepancies between prediction and observation.
+
+3. **Source recall.** *"Name one classical source and one modern source we cited for this module."* (Sūrya-siddhānta + NCERT / NASA.)
+
+4. **Critical-thinking close.** *"The Indian lunisolar calendar is ~2000+ years old and still in active use. The Gregorian calendar is ~450 years old. Why might multiple calendars coexist in modern India?"* (Cultural specificity + scientific universality.)
+
+5. **Summative quiz** (45 min, written) — see `quizzes/summative.md`.
 
 ### Activity (15 min)
 

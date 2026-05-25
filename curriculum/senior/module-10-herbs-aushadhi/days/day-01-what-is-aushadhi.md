@@ -30,11 +30,15 @@ From *Caraka Saṁhitā* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define *auṣadhi*.** Sanskrit for "medicinal plant" — broader than English "herb." Includes leaves, roots, barks, seeds, resins. Distinguish from *ahara* (food) and *rasāyana* (rejuvenative).
+
+2. **Six herbs we'll study.** Show samples: Tulsī, Neem, Turmeric, Ginger, Ajwain, Mint. Pass them around for sight + smell.
+
+3. **The traditional framework.** Each herb has *rasa* (taste), *vīrya* (potency — heating/cooling), *vipāka* (post-digestive effect), and *prabhāva* (specific action). This is the basic *dravyaguṇa* (pharmacology) of Āyurveda.
+
+4. **Source.** Caraka Saṁhitā, *Sūtrasthāna* 1: *"There is nothing in the world that, applied at the right time and place, is not medicine."* Read aloud.
+
+5. **The critical caveat, repeated three times.** This module teaches IDENTIFICATION and traditional uses. It does NOT teach therapeutic dosing. Therapeutic use requires a qualified practitioner. State this rule prominently in workbooks.
 
 ### Activity (15 min)
 

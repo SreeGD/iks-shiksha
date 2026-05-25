@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Vasudhaiva Kuṭumbakam* (IAST: Vasudhaiva Kuṭumbakam; lit. ""the world is one family" — Mahā Upaniṣad 6.71")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Vasudhaiva Kuṭumbakam**. Keep sentences short.
+- Today's BIG idea: *Vasudhaiva Kuṭumbakam* — "The whole world is one family."
+
+Show a globe. *"All of us — and all animals, all plants, all rivers — are part of ONE big family."*
+
+Children make a "family tree" with themselves at the centre, then add: parents, siblings, neighbours, then a pet, a tree, a river. Each gets a small drawing.
 
 ### Activity (8 min)
 

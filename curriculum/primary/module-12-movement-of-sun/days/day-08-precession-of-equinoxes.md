@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Sūrya* (IAST: Sūrya; lit. "the Sun")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Precession of the Equinoxes**. Keep sentences short.
+- The Earth wobbles slowly, like a spinning top.
+- One wobble takes about 26,000 years!
+
+Show a spinning top toy. Let it slow down — it wobbles. *"Earth does this too, just SUPER slowly."*
+
+Children draw Earth tilted, with a curved arrow showing the wobble. *"Astronomers from long ago noticed this!"*
 
 ### Activity (8 min)
 

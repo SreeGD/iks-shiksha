@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *rāśi* (IAST: rāśi; lit. "1/12th of the ecliptic; zodiacal sign")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Twelve Rāśis**. Keep sentences short.
+- The Sun visits 12 special "houses" each year!
+
+Names (sing-chant): *"Meṣa, Vṛṣabha, Mithuna, Karka, Siṁha, Kanyā, Tulā, Vṛścika, Dhanus, Makara, Kumbha, Mīna!"*
+
+Each "house" has a Sanskrit name AND a Greek name:
+- Meṣa = Aries (ram!), Vṛṣabha = Taurus (bull!), Mithuna = Gemini (twins!)...
+
+Children pick one rāśi to draw. Today's question: *"What's YOUR birth-month rāśi?"*
 
 ### Activity (8 min)
 

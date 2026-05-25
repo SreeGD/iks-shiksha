@@ -26,11 +26,20 @@ By the end of this lesson, students will: compute 234×11 = 2_5_7_4 using the ex
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Generalise to 3-digit.** For *abc* (= 100a + 10b + c) × 11:
+   (100a + 10b + c)(10 + 1) = 1000a + 100b + 10c + 100a + 10b + c
+                            = 1000a + 100(a+b) + 10(b+c) + c
+
+2. **Procedure.** Split *abc* with two gaps: **a _ b _ c**. Fill gaps with adjacent sums: a+b, then b+c. Result: **a (a+b) (b+c) c**. Carry where needed.
+
+3. **Worked examples.**
+   - 234 × 11 = 2_(2+3)_(3+4)_4 = 2574
+   - 567 × 11 = 5_(5+6)_(6+7)_7 = 6237 (carries: 11→ carry 1 to left; 13 → carry 1 to next left)
+   - 729 × 11 = 7_(7+2)_(2+9)_9 = 8019
+
+4. **Algebra check.** 234 = 100·2 + 10·3 + 4. × 11 = 1000·2 + 100·5 + 10·7 + 4 = 2574. ✓
+
+5. **Extension activity.** Each pair solves five 3-digit × 11 problems, then verifies by long multiplication. Time-budget 8 minutes; share fastest correct-answer time.
 
 ### Activity (15 min)
 

@@ -26,11 +26,15 @@ By the end of this lesson, students will: discuss the ecological function of riv
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The Indian river tradition.** *Gaṅgā, Yamunā, Sarasvatī, Narmadā, Kāverī, Godāvarī, Sindhu* — seven sacred rivers in Hindu tradition. Each has festival cycles, pilgrimage routes, ritual practices.
+
+2. **The ecological function of sacredness.** Treating a river as sacred → norms against pollution, against blocking the flow, against over-extraction. *In principle.* These norms are NOT always honoured today (Ganga, Yamuna are heavily polluted).
+
+3. **Modern parallel.** Ecuador and Bolivia have laws giving rivers legal personhood. Aotearoa/New Zealand granted legal personhood to the Whanganui River in 2017. India's Ganga and Yamuna were granted similar status briefly in 2017 (court ruling overturned). The legal innovation echoes the older sacred-river framing.
+
+4. **Source.** Atharva Veda Pṛthivī Sūkta 12.1 — multiple references to flowing waters. Vedic hymns to *āpaḥ* (waters). Bhāgavata Purāṇa discusses the seven rivers.
+
+5. **Critical look.** *"Why are sacred-river norms often violated in practice today? What changes in society have weakened the older protections? Can the framework be revived for the climate crisis?"*
 
 ### Activity (15 min)
 

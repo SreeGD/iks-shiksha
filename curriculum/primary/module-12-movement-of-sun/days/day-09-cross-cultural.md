@@ -25,7 +25,17 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Uttarāyaṇa* (IAST: Uttarāyaṇa; lit. "northward solar course (Dec 21 – June 21)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Cross-Cultural Solar Calendars**. Keep sentences short.
+- Many people use the Sun to make calendars!
+- Egypt: 365 days, like ours.
+- India: months named after the rāśis.
+- Roman/modern: January, February, ...
+
+Children write today's date in 3 ways:
+1. Modern (Jan 25, 2026)
+2. Tamil (rāśi-based)
+3. Just by season (winter/late winter)
+
+Discuss which they like.
 
 ### Activity (8 min)
 

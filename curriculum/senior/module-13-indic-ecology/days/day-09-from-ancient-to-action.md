@@ -26,11 +26,20 @@ By the end of this lesson, students will: design one local environmental project
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Project design phase.** Students apply Module 13's principles to design ONE local environmental project:
+   - Plant-a-tree drive (yajña reciprocity)
+   - Sacred-grove documentation (biodiversity preservation)
+   - Water audit at school / home (resource consciousness)
+   - Waste-sorting station (extending ahiṁsā to materials)
+   - Local-language climate-awareness poster (cultural communication)
+
+2. **Project criteria.** Must (a) be achievable in 4 weeks, (b) cite at least ONE classical Indic principle, (c) document baseline and outcome data, (d) include a community/family component.
+
+3. **Pair-brainstorm.** Pairs spend 10 minutes generating project ideas, then sketch one.
+
+4. **Source-anchoring.** Each project must reference a specific verse, hymn, or principle from Modules 13's source list.
+
+5. **Tomorrow's pitch.** Each student presents their project pitch in 3 minutes. Refine tonight.
 
 ### Activity (15 min)
 

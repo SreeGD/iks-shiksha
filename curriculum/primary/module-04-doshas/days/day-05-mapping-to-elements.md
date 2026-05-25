@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *prakṛti* (IAST: prakṛti; lit. "innate constitution")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Mapping to the Five Elements**. Keep sentences short.
+- Vāta = ākāśa (space) + vāyu (air) — both light, both move.
+- Pitta = tejas (fire) + ap (water) — fire that flows.
+- Kapha = ap (water) + pṛthvī (earth) — wet earth holds shape.
+
+Take the three friend drawings from earlier days. Beside each, draw the two elements that make that friend. Wiggle gets sky + wind. Spark gets fire + water. Cozy gets water + earth.
+
+Sing the rhyme: *"Wiggle is sky and wind. Spark is fire and water. Cozy is water and earth."*
 
 ### Activity (8 min)
 

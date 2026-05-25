@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *yajña* (IAST: yajña; lit. "cycle of giving and receiving (BG 3.10–14)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Iṣopaniṣad — Non-Greed Ethic**. Keep sentences short.
+- An old wise verse says: *"Take only what you need!"*
+
+The verse: *"īśāvāsyam idaṁ sarvam..."* — "All this is one big home."
+
+*"If you take TOO much, others don't have enough. If you waste, the Earth gets sad."*
+
+Children think of one thing they sometimes take too much of (food, water, time on screens). They draw it with a small heart, promising: *"I'll take just what I need."*
 
 ### Activity (8 min)
 

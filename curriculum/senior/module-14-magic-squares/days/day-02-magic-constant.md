@@ -26,11 +26,20 @@ By the end of this lesson, students will: derive why 3×3 with 1–9 must sum to
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **The formula.** For an n×n magic square using 1 through n², the magic constant is M = n(n² + 1) / 2.
+
+2. **Verify for 3×3.** M = 3 × 10 / 2 = 15. ✓
+
+3. **Derive.**
+   - Total sum of 1 through n² = n²(n² + 1) / 2.
+   - This sum spreads across n rows, so each row sums to (n²(n² + 1) / 2) / n = n(n² + 1) / 2.
+
+4. **Predict.** What's M for 4×4? 5×5? 7×7?
+   - 4×4: 4 × 17 / 2 = 34.
+   - 5×5: 5 × 26 / 2 = 65.
+   - 7×7: 7 × 50 / 2 = 175.
+
+5. **Source.** Nārāyaṇa Paṇḍita's *Gaṇita-kaumudī* (1356 CE), Book 14, derives the magic constant formula. Earlier references in Tibetan, Chinese, and Arab traditions also give the formula.
 
 ### Activity (15 min)
 

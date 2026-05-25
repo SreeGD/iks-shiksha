@@ -25,7 +25,16 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pañcagavya* (IAST: pañcagavya; lit. "five-cow-product preparation (substituted with fermented-foods study for school safety)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Document**. Keep sentences short.
+- Time to TELL the story of your project!
+
+Each child writes (with teacher help):
+- ONE sentence: what I made.
+- ONE sentence: how I made it.
+- ONE sentence: what I liked.
+
+Plus a final drawing of the FINISHED project.
+
+Cheer. *"Tomorrow we rehearse the show!"*
 
 ### Activity (8 min)
 

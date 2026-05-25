@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Ekādhikena Pūrveṇa* (IAST: Ekādhikena Pūrveṇa; lit. ""by one more than the previous" — sūtra 1 in Tirthaji")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Final Assessment**. Keep sentences short.
+- Final day! We celebrate the ×11 trick.
+
+Each child shows their best ×11 problem to a partner. Cheer for each one.
+
+Take the small quiz with stickers (every child gets a "Number Magician" sticker).
+
+End: class chant — *"Split! Add! Middle! Magic!"*
 
 ### Activity (8 min)
 

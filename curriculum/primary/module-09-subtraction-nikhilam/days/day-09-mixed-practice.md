@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Nikhilaṁ Navataścaramaṁ Daśataḥ* (IAST: Nikhilaṁ Navataścaramaṁ Daśataḥ; lit. ""all from 9, the last from 10"")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Mixed Practice**. Keep sentences short.
+- Today: pick the right tool!
+
+Show 10 problems on cards. For each, children hold up a sign:
+- "Trick!" (for subtracting from 10, 100, 1000)
+- "Regular!" (for harder cases)
+
+Then solve 5 trick-type problems together.
 
 ### Activity (8 min)
 

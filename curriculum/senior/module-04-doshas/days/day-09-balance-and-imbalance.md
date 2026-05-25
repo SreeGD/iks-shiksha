@@ -26,11 +26,18 @@ By the end of this lesson, students will: distinguish prakṛti (innate) from vi
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **State the distinction.** Balance (*sāmya*) = each doṣa at its individual baseline. Imbalance (*vaiṣamya*) = a doṣa deviates from baseline. *Vikṛti* is the language for the deviated state.
+
+2. **Recognise simple imbalance signs.** From Caraka, *Sūtrasthāna* 18:
+   - Vāta excess — dryness, irregularity, anxiety, joint cracking
+   - Pitta excess — heat, inflammation, irritability, acid reflux
+   - Kapha excess — congestion, lethargy, attachment, fluid retention
+
+3. **The five-stage progression (*samprāpti*).** Doṣa imbalance progresses: accumulation → aggravation → spread → localisation → manifestation → chronicity. The earlier you notice, the easier to redirect. This is the framework's preventive logic.
+
+4. **Critical limits.** What this module *does not* claim: that you can self-diagnose serious illness, that you should self-medicate, or that doṣa balance replaces medical care. Repeat: WELLNESS LENS, NOT DIAGNOSIS.
+
+5. **Reflection.** *"Identify one mild imbalance you experienced this week. Which doṣa? What likely drove it (diet, sleep, weather, stress)? What single adjustment might help?"*
 
 ### Activity (15 min)
 

@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *sūtra* (IAST: sūtra; lit. "aphorism / formula")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **The Carry Case**. Keep sentences short.
+- What if the middle sum is too big? Like 87 × 11.
+
+Show: "8 _ 7" with gap. 8 + 7 = 15. Whisper: "15 is two digits! Keep the 5, carry the 1."
+
+Result: 8 + 1 = 9, then 5, then 7 → **957**.
+
+Practice: 67 × 11 = 7 3 7. 95 × 11 = 1 0 4 5. *"Carry the tens, keep the ones!"* (Chant.)
 
 ### Activity (8 min)
 

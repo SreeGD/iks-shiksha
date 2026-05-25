@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *siddhānta* (IAST: siddhānta; lit. "concluded principle or doctrine")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Rehearse Presentation**. Keep sentences short.
+- Practice your show!
+
+Each child practices saying what they made — to a partner, then to a small group.
+
+Tips: *"Look up. Speak clearly. Smile!"*
+
+End: do a "warm-up cheer" together for tomorrow's big day.
 
 ### Activity (8 min)
 

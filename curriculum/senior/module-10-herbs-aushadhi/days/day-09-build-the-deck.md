@@ -26,11 +26,21 @@ By the end of this lesson, students will: each student contributes one identific
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Card-deck project assembly.** Each student claims one of the six herbs as their primary contribution. They produce one detailed identification card:
+   - Sanskrit + botanical name
+   - Leaf/seed/root drawing (large, accurate)
+   - Smell description (concrete words)
+   - Three traditional uses with cited sources
+   - One active compound and its action
+   - One safety note
+
+2. **Tools and references.** Use Caraka Saṁhitā Sūtrasthāna 26 (compiled excerpts in `sources.md`), modern phytochemistry summaries from ICMR-NIN or *Journal of Ethnopharmacology* reviews.
+
+3. **Work-time.** 30 minutes individual work. Teacher circulates to check sources.
+
+4. **Pair-review.** Pairs swap cards; check for accuracy and one quality-improvement suggestion.
+
+5. **Class deck assembly.** Cards laminated (optional) and bound into a class library. Teachers may keep one set for future use.
 
 ### Activity (15 min)
 

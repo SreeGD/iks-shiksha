@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pitta* (IAST: pitta; lit. "transformation principle (fire, tejas+ap)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Balance and Imbalance**. Keep sentences short.
+- Sometimes one friend gets too loud!
+  - Wiggle too loud = jittery, can't sit still, dry mouth
+  - Spark too loud = grumpy, hot, hangry
+  - Cozy too loud = sleepy, heavy, sad
+
+Story: *"Imagine if all three friends are at a party. If one shouts too much, the others get tired."* Ask: *"What helps Wiggle calm down? What helps Spark cool off? What helps Cozy wake up?"*
+
+Each child draws one friend in calm mode and one in too-loud mode.
 
 ### Activity (8 min)
 

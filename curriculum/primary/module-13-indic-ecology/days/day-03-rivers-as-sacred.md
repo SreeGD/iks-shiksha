@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *ahiṁsā* (IAST: ahiṁsā; lit. "non-violence; extended to non-human life")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Rivers as Sacred**. Keep sentences short.
+- Rivers are sacred in India! The Gaṅgā, Yamunā, Sarasvatī...
+- Why? Because rivers give us water, food, life!
+
+Show a picture of the Ganga. *"People say: don't pollute the river. The river is our mother."*
+
+Children draw a river with fish, plants, and a small flower-offering. Discuss: *"What happens if rivers get dirty?"*
 
 ### Activity (8 min)
 

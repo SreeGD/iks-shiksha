@@ -26,11 +26,15 @@ By the end of this lesson, students will: recite the 15 tithi names (pratipadā,
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define tithi precisely.** A *tithi* is the time taken for the Moon to gain 12° of longitudinal separation from the Sun. 30 tithis per synodic month → 15 per pakṣa. A tithi is therefore a unit of angular progress, NOT a unit of time.
+
+2. **Why a tithi ≠ a day.** Lunar speed varies (elliptical orbit, ~3.4°/hour to ~5.5°/hour). A tithi can last 19 to 26 hours. Two consecutive tithis can both touch the same sunrise (*kṣaya tithi*) or one tithi can span two sunrises (*adhika tithi*).
+
+3. **Name the 15 tithis.** *pratipadā, dvitīyā, tṛtīyā, caturthī, pañcamī, ṣaṣṭhī, saptamī, aṣṭamī, navamī, daśamī, ekādaśī, dvādaśī, trayodaśī, caturdaśī, pūrṇimā/amāvasyā.* The 15th is *pūrṇimā* in śukla pakṣa, *amāvasyā* in kṛṣṇa pakṣa.
+
+4. **Source.** Sūrya-siddhānta, ch. 2 (lunar motion); also *Vasiṣṭha-siddhānta* tradition.
+
+5. **Computation exercise.** Given today's Moon-Sun elongation in degrees (provide one), students compute today's tithi number. Then compare with the published pañcāṅga.
 
 ### Activity (15 min)
 

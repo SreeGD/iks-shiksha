@@ -26,11 +26,18 @@ By the end of this lesson, students will: create a personalised 4×4 or 5×5 mag
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Personal magic-square design.** Each student designs ONE magic square. Options:
+   - 3×3 with custom numbers (e.g. start from 5 instead of 1; magic constant changes accordingly).
+   - 4×4 using Nārāyaṇa-style or Strachey method.
+   - 5×5 using stair-step.
+
+2. **Artistic treatment.** Calligraphy, colour-coding, geometric decoration. Inspired by mandala / yantra aesthetics or modernist grid art.
+
+3. **Document the math.** Each student writes on the back: starting numbers, magic constant, method used, source reference. This is a "math behind the art" supplement.
+
+4. **Source-anchoring.** Each student cites at least ONE source from this module (Nārāyaṇa, Khajuraho, Dürer, Plofker, etc.).
+
+5. **Pair-critique.** Pairs swap; verify each other's math correctness.
 
 ### Activity (15 min)
 

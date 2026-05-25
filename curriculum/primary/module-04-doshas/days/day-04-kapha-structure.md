@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *kapha* (IAST: kapha; lit. "structure principle (cohesion, ap+pṛthvī)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Kapha — The Structure Principle**. Keep sentences short.
+- *kapha* is the **cozy friend** inside us.
+- Today's word: *kapha* (say "KAH-pah").
+
+Hold a blanket or pillow. *"Cozy is warm, soft, slow, and holds you steady. Like a comfy hug."*
+
+Each child draws **Cozy** — a soft round figure. What does Cozy like? (Big meals, naps, sweet songs, looking after others.)
 
 ### Activity (8 min)
 

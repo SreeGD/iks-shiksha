@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *anvayana* (IAST: anvayana; lit. "integration / following-through; capstone synthesis")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Research — Day 2**. Keep sentences short.
+- More research today!
+
+If yesterday you found 3 facts, today find 2 MORE. Plus: DRAW a picture of how your project will look when done.
+
+Show your picture to a friend. Friend asks one question. *"How will you do that?"*
+
+Children answer with a sentence.
 
 ### Activity (8 min)
 

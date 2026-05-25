@@ -26,11 +26,15 @@ By the end of this lesson, students will: identify makara, karka, and other sa�
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define saṅkrānti.** The moment the Sun moves from one rāśi to the next. ~12 saṅkrāntis per year (one every ~30 days). Two are most culturally prominent: *Makara Saṅkrānti* (Capricorn entry) ~Jan 14, and *Karka Saṅkrānti* (Cancer entry) ~Jul 16.
+
+2. **The Jan 14 / Solstice mystery.** *Makara Saṅkrānti* is celebrated as the start of *Uttarāyaṇa* — but Dec 21 (solstice) is the astronomical start. Why the ~24-day difference? Answer (preview): the celebration uses the SIDEREAL (nirayana) zodiac, while the seasons (and solstice) align with the TROPICAL (sāyana) zodiac. Tomorrow we'll unpack this.
+
+3. **Source.** Sūrya-siddhānta computes saṅkrāntis as solar longitudes crossing rāśi boundaries.
+
+4. **Cultural saṅkrāntis.** Festivals tied to specific saṅkrāntis: *Makara Saṅkrānti* (Pongal in Tamil Nadu, Lohri in Punjab, Magh Bihu in Assam), *Karka Saṅkrānti* (mid-monsoon).
+
+5. **Class exercise.** Identify the 12 saṅkrānti dates for the current year (use a published pañcāṅga). Plot them on a circular year-wheel.
 
 ### Activity (15 min)
 

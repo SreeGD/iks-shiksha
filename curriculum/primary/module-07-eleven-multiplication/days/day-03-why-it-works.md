@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Anurūpyena* (IAST: Anurūpyena; lit. ""proportionately" — sūtra used for ×12, ×13 extensions")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Why It Works — The Algebra**. Keep sentences short.
+- Why does the magic work?
+
+Show 23 × 11 with paper strips:
+- One strip of 23 + ten strips of 23 = 11 strips.
+- Stack them: 230 + 23 = 253.
+- The "230" gives the 2 and the 3 (separated). The "23" gives the +2 in the tens and +3 in the ones.
+- 2 + 3 = 5 in the tens place. The 2 and 3 stay on the ends!
+
+Magic? No — just adding! Children try with strips of 14: 14 × 11 = 140 + 14 = 154.
 
 ### Activity (8 min)
 

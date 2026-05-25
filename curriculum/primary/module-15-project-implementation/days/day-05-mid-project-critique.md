@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pañcagavya* (IAST: pañcagavya; lit. "five-cow-product preparation (substituted with fermented-foods study for school safety)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Mid-Project Critique**. Keep sentences short.
+- Friend check-in!
+
+Show your project plan and picture to 2 friends. They each tell you ONE thing they like, ONE thing to think about.
+
+Write down what they say. Then YOU decide: change something? keep it same?
+
+Show your "updated plan" to the teacher.
 
 ### Activity (8 min)
 

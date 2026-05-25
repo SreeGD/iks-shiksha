@@ -26,11 +26,19 @@ By the end of this lesson, students will: compute 102 × 98 with sign care.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Mixed case (one above, one below).** Care with signs! Example: 102 × 98.
+   - 102 → +2 (excess), 98 → −2 (deficit).
+   - Left part: 102 − 2 = 100 (or 98 + 2 = 100).
+   - Right part: (+2)(−2) = **−4**.
+   - Combine: 100 | −4. But how to interpret −4 in the right slot?
+
+2. **The "borrow back" trick.** Negative right part → subtract from left. 100|−4 means 10000 − 4 = **9996**.
+
+3. **Alternative algebra check.** 102 × 98 = (100+2)(100−2) = 100² − 4 = 9996. ✓ (Difference of squares identity.)
+
+4. **General mixed-case rule.** Cross-subtract (using the deficit sign) for left; multiply excess and deficit (negative result) for right; convert negative right to a borrow from left.
+
+5. **Independent practice.** 5 problems mixing all three cases (both below, both above, mixed). 10 minutes.
 
 ### Activity (15 min)
 

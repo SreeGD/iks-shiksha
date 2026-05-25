@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *doṣa* (IAST: doṣa; lit. "humour / functional principle")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Three Doshas Introduction**. Keep sentences short.
+- Three friends live inside us all the time:
+  - **Wiggle** (*vāta*) — quick, lively, like wind
+  - **Spark** (*pitta*) — warm, sharp, like fire
+  - **Cozy** (*kapha*) — slow, soft, like a snug blanket
+
+Show three picture cards (or draw the three on the board). Ask children: *"Which one feels most like you in the morning? Right now?"*
+
+Each child draws one of the three friends in their notebook with one word that fits them today.
 
 ### Activity (8 min)
 

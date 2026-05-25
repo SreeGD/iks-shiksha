@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *nimba* (IAST: nimba; lit. "neem — *Azadirachta indica*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Final Share and Assessment**. Keep sentences short.
+- Show-and-tell day!
+
+Each child holds up their card and says ONE thing about their herb. Cheer for each.
+
+Then quiz with stickers — everyone gets a "Garden Friend" sticker.
+
+End: chant the six names together: *"Tulasī! Nimba! Haridrā! Adraka! Yavānī! Pudīnā!"*
 
 ### Activity (8 min)
 

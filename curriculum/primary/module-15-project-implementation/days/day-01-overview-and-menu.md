@@ -25,7 +25,18 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *anvayana* (IAST: anvayana; lit. "integration / following-through; capstone synthesis")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Capstone Overview and Project Menu**. Keep sentences short.
+- A WHOLE new kind of class: we make our OWN project!
+
+Show 5 simple project pictures:
+1. 🌿 Plant garden
+2. 🎨 Make a herb book
+3. 📜 Draw a moon calendar
+4. 🪷 Magic square art
+5. 🧘 Teach yoga to little kids
+
+Children pick a favourite. *"Tomorrow you'll start planning!"*
+
+End: cheer for every choice.
 
 ### Activity (8 min)
 

@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *bhadra-gaṇita* (IAST: bhadra-gaṇita; lit. ""auspicious arithmetic" — the Indian term for magic squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Discover the 3×3**. Keep sentences short.
+- BIG puzzle! Put the numbers 1 to 9 in a 3×3 grid. Each row, column, and diagonal should add to the SAME number!
+
+Children work in pairs. Try, fail, try again.
+
+Hint after 5 min: *"5 always goes in the middle."*
+
+The answer: 2-7-6 / 9-5-1 / 4-3-8. All rows = 15! All columns = 15! Even diagonals = 15! MAGIC!
 
 ### Activity (8 min)
 

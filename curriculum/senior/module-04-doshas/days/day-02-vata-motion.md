@@ -26,11 +26,20 @@ By the end of this lesson, students will: identify vāta-style behaviours (quick
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Observe motion.** Watch a leaf in a draft, a flag on a breezy day, or a fan spinning. *"What do you notice about the air's qualities? Is it predictable or changeable?"*
+
+2. **Define *vāta*.** Motion principle. Five subtypes are described in Caraka:
+   - *prāṇa* — inhalation, heart, head
+   - *udāna* — speech, exhalation
+   - *samāna* — digestion, equilibrium
+   - *apāna* — elimination, downward flow
+   - *vyāna* — circulation, full-body movement
+
+3. **Vāta qualities (*guṇas*):** dry, light, cold, rough, subtle, mobile, clear. Have students list one observation matching each quality.
+
+4. **Source.** Caraka Saṁhitā, *Sūtrasthāna* 12 enumerates *vāta-prakopa* (vāta aggravation) signs: dry skin, restless sleep, anxiety, irregular digestion. Read one paragraph.
+
+5. **Modern bridge.** *Vāta* maps loosely to *autonomic nervous-system arousal patterns* and *peristaltic / circulatory rhythms*. Be careful: this is a wellness lens — NOT diagnosis.
 
 ### Activity (15 min)
 

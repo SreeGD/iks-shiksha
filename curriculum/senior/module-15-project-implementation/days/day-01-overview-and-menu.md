@@ -30,11 +30,25 @@ From *All Modules 1–14 of this curriculum* — see `sources.md`.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Capstone overview.** This module is different. No new content delivery. Instead: 10 days of structured project work, applying what you learned from Modules 1–14.
+
+2. **Walk through the 10-option project menu.** Read each, with a 1-minute description per option:
+   - Pañcagavya kitchen science → SUBSTITUTED with fermented-foods study (safety)
+   - Mandala / Pṛthvī geometry
+   - Tithi/festival calendar
+   - Herb identification card-deck
+   - Magic-square art
+   - Yoga sequence design
+   - Sustainability audit
+   - Doshic self-study
+   - Multiplication-method comparison
+   - Open-design (your own)
+
+3. **The discipline.** Each project requires: scope, research, design, build, document, present. Daily journal. Source citations.
+
+4. **The safety floor.** Pañcagavya — NEVER cow-urine ingestion in school. Use comparative fermented-foods study (curd, paneer, batter — biochemically interesting and safe).
+
+5. **Today's task.** Read all 10 options in detail (printout provided). DON'T pick yet — sleep on it. Tomorrow you'll choose and scope.
 
 ### Activity (15 min)
 

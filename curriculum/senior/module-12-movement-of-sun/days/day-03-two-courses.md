@@ -26,11 +26,17 @@ By the end of this lesson, students will: identify the dates and direction of ea
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define the two ayanas.**
+   - *Uttarāyaṇa* — northward course. Roughly Dec 21 (winter solstice) through Jun 21 (summer solstice). Sun moves NORTH on the sky (Northern Hemisphere).
+   - *Dakṣiṇāyana* — southward course. Jun 21 through Dec 21. Sun moves SOUTH.
+
+2. **Cultural importance.** *Uttarāyaṇa* is considered auspicious in many Indian traditions. *Makara Saṅkrānti* (~Jan 14) is celebrated as the start of *Uttarāyaṇa* — but technically the solstice (Dec 21) IS the start. The Jan 14 date reflects the sidereal-zodiac (*nirayana*) convention. We'll unpack this on Day 7.
+
+3. **Source.** Sūrya-siddhānta defines both ayanas in chapter 2.
+
+4. **Modern bridge.** The Northern Hemisphere's summer happens during the Sun's *Uttarāyaṇa* (high northern declination). NCERT Geography IX ch. 3 has the standard diagram.
+
+5. **Identify today.** *"Which ayana are we in today?"* Students compute based on the date. (Northern winter to summer = Uttarāyaṇa; rest = Dakṣiṇāyana.)
 
 ### Activity (15 min)
 

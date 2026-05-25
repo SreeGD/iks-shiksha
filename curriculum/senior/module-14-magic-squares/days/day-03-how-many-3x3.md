@@ -26,11 +26,17 @@ By the end of this lesson, students will: count the equivalence classes (up to s
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **How many 3×3 magic squares are there?** Counting carefully:
+   - 1 fundamentally different square (up to symmetry).
+   - 8 squares including rotations (×4) and reflections (×2).
+
+2. **Demonstrate the symmetries.** Start with 2-7-6 / 9-5-1 / 4-3-8. Rotate 90° → 4-9-2 / 3-5-7 / 8-1-6. Rotate again → 8-3-4 / 1-5-9 / 6-7-2. Etc. Also reflect.
+
+3. **Define "essentially different."** Two squares are equivalent if one is obtained from the other by rotation or reflection. The count of essentially distinct n×n magic squares is one of the harder combinatorial problems.
+
+4. **Higher orders.** Number of essentially-different magic squares: 1 (for n=3), 880 (n=4), ~275 million (n=5). Source: combinatorial computer enumeration (Frenicle, Schinzel).
+
+5. **Class exercise.** Each pair writes out all 8 symmetric variants of the 3×3 from Day 1. Verify each is still a magic square.
 
 ### Activity (15 min)
 

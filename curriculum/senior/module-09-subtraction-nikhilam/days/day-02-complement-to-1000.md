@@ -26,11 +26,18 @@ By the end of this lesson, students will: compute complements to 1000 and 10000 
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Define complement.** The complement of *N* to base *B* is *B − N*. Today we find complements to 1000 mentally.
+
+2. **Worked examples.**
+   - 738 → 9-7=2, 9-3=6, 10-8=2 → **262**. Check: 738 + 262 = 1000. ✓
+   - 405 → 9-4=5, 9-0=9, 10-5=5 → **595**. Check: 405 + 595 = 1000. ✓
+   - 999 → 0, 0, 1 → **001**. Edge case: trailing 9s carry differently — *"all from 9 except the LAST non-zero digit, which is from 10."*
+
+3. **The "trailing zero" caveat.** For 730 (ends in 0): treat the last non-zero digit as the one from 10. 730 → 9-7=2, 10-3=7, 0 → **270**. Or equivalently: complement 73 to 100 (= 27), append the trailing 0 → 270.
+
+4. **Pattern algebra.** For *N* < 10^k, the complement is (10^k − 1) − N + 1 = (10^k − N). The "all from 9 last from 10" procedure computes this digit-by-digit.
+
+5. **Practice.** 15-problem mental sprint, complements to 1000 only. 5 minutes.
 
 ### Activity (15 min)
 

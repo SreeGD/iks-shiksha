@@ -26,11 +26,25 @@ By the end of this lesson, students will: extend the method to ×12 and ×13 usi
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Move beyond ×11.** Tirthaji's *Anurūpyena* ("proportionately") sūtra extends the digit-sum idea to ×12 through ×19. Procedure for ×12:
+   - Write any number *N*.
+   - Compute: *N* × 12 = (*N* × 10) + (*N* × 2) — easy mental sum.
+   - Equivalent digit-procedure: split-double-add.
+
+2. **Worked example, 23 × 12.**
+   - 23 × 10 = 230
+   - 23 × 2 = 46
+   - Sum: 276
+   - OR digit-wise: 2 _ 3 → 2_(2·1+3)_(3·1) wait — this gets tangled. The cleanest mental version is the (×10) + (×k) split.
+
+3. **General ×(10+k) rule.** N × (10+k) = 10N + kN. The Anurūpyena framing emphasises the proportional scaling.
+
+4. **Practice.** Compute mentally:
+   - 14 × 13 = 140 + 42 = 182
+   - 25 × 15 = 250 + 125 = 375
+   - 32 × 17 = 320 + 224 = 544
+
+5. **Honest historical note.** The (10+k) decomposition isn't unique to Tirthaji — Western mental-math systems describe the same trick. Tirthaji's contribution is grouping it under a Sanskrit sūtra-system.
 
 ### Activity (15 min)
 

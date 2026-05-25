@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pitta* (IAST: pitta; lit. "transformation principle (fire, tejas+ap)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Pitta — The Transformation Principle**. Keep sentences short.
+- *pitta* is the **fire friend** inside us.
+- Today's word: *pitta* (say "PIT-tah").
+
+Hold hands near a lit candle (safely, from a distance). *"Feel the warmth. That's the kind of friend Spark is — warm, bright."*
+
+Each child draws **Spark** — a small figure with a glow around them. What does Spark like? (Sharp puzzles, focused work, learning fast, eating well.)
 
 ### Activity (8 min)
 

@@ -26,11 +26,15 @@ By the end of this lesson, students will: pitch the 7-day self-observation proje
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Recap the framework in 3 sentences.** Students take turns: someone explains *vāta*, *pitta*, *kapha*; the next student explains the element-mapping; the third explains *prakṛti* vs *vikṛti*. Catch errors collaboratively.
+
+2. **Project pitch.** Hand out the project brief — 7-day doṣa self-observation. Students read silently for 5 minutes.
+
+3. **Pair brainstorm.** In pairs: *"What three things will you track each day? Why those?"* (Common picks: sleep, food, energy, mood, digestion, social interactions.)
+
+4. **Source-anchoring.** For Senior credit, every project must cite at least one Caraka or Aṣṭāṅga reference. Browse the *Sūtrasthāna* index in *sources.md* together.
+
+5. **Critical-thinking close.** *"What are the limits of this self-observation? What might it tell you? What might it MISS?"* Students draft one paragraph on these limits as part of their project journal Day 1.
 
 ### Activity (15 min)
 

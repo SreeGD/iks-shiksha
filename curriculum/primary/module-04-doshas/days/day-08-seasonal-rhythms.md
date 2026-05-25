@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *vāta* (IAST: vāta; lit. "motion principle (wind, ākāśa+vāyu)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Doṣa Rhythms Across Seasons**. Keep sentences short.
+- Each season has a special friend:
+  - **Spring** — Cozy is busy melting away! (Allergies, sniffles.)
+  - **Summer** — Spark is hot! (Sweating, drinking water.)
+  - **Winter** — Wiggle is dry and cool! (Dry skin, blankets.)
+
+Draw a tree in three seasons (bare → blossom → leaves) and write which friend lives there. Ask: *"What did our family eat in summer? In winter? Why?"*
 
 ### Activity (8 min)
 

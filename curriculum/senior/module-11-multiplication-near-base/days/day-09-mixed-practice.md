@@ -26,11 +26,20 @@ By the end of this lesson, students will: solve problems combining ×11 and near
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Crossover with Module 7.** Each student solves 5 problems combining ×11 method + Nikhilam:
+   - 11 × 99 = 1089 (use ×11)
+   - 97 × 96 = 9312 (use Nikhilam)
+   - 11 × 98 = 1078 (use ×11)
+   - 105 × 95 = 9975 (use difference-of-squares or Nikhilam mixed)
+   - 11 × 87 = 957 (use ×11 with carry)
+
+2. **Strategy reflection.** Pair-discuss: *"For each, what method DID you use? Was it the fastest?"*
+
+3. **Build a personal toolkit.** Each student updates their "personal mental-math toolkit" page (started in Module 7) to include Nikhilam multiplication.
+
+4. **One more example.** Solve 998 × 997 mentally. (Nikhilam: deficits 2, 3 → left = 995, right = 006 → **995006**.) 4 seconds with the trick; >1 minute by long multiplication.
+
+5. **Reflection.** *"What's the most useful thing you learned this module?"*
 
 ### Activity (15 min)
 

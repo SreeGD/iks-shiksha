@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *yajña* (IAST: yajña; lit. "cycle of giving and receiving (BG 3.10–14)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Five Elements as Ecological Frame**. Keep sentences short.
+- The 5 elements are all FAMILY too!
+- Earth, water, fire, air, space — they need each other.
+- If we pollute water, earth gets hurt. If we cut trees, air gets hurt.
+
+Children draw a circle of friends: 🌍 💧 🔥 💨 🌌 (sun = fire, etc.). Connect them with lines. *"All friends, all family!"*
 
 ### Activity (8 min)
 

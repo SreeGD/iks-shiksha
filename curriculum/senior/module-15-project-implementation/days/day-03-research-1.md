@@ -26,11 +26,20 @@ By the end of this lesson, students will: gather sources; cross-reference earlie
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Research phase begins.** Each student returns to the relevant Modules for content:
+   - Doṣa project → Module 4
+   - Herbs project → Module 10
+   - Astronomy project → Module 6 or 12
+   - Math project → Module 5, 7, 9, 11, or 14
+   - Ecology project → Module 13
+
+2. **The library / research routine.** Open the relevant pack's `sources.md`. Open at least 2 cited sources (online or print). Take 2-page notes per source. The notes will support the project's references.
+
+3. **Critical eye.** Don't just trust the FIRST source. For each claim, ask: *"Who's the author? When was this written? What's their context?"*
+
+4. **Work-time.** 35 minutes of silent research + note-taking.
+
+5. **Sharing (5 min).** Three students briefly describe what they learned and what surprised them.
 
 ### Activity (15 min)
 

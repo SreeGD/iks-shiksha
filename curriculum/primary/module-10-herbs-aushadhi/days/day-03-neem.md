@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *nimba* (IAST: nimba; lit. "neem — *Azadirachta indica*")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Neem — Bitter Healer**. Keep sentences short.
+- Today: meet Neem! 🌿
+
+Show a neem leaf. *"Taste a TINY bit on your tongue — careful!"* (Bitter!) Children make faces — that's OK, neem is meant to be bitter.
+
+**SAFETY RULE:** Don't eat lots of neem! Just a tiny taste to learn. Always ask a grown-up before using neem.
+
+Children draw the leaf and write "neem" beside it.
 
 ### Activity (8 min)
 

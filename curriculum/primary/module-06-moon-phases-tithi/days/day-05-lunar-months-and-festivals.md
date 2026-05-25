@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *tithi* (IAST: tithi; lit. "lunar day (1/30 of synodic month)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Lunar Months and Festivals**. Keep sentences short.
+- The year has 12 moon-months, each with its own name and feeling:
+  - *Caitra* (spring)
+  - *Śrāvaṇa* (monsoon)
+  - *Kārtika* (Diwali month)
+  - *Phālguna* (Holi month) — and many more!
+
+Show pictures of 4 festivals. Ask: *"Which moon-month is this festival in?"* Children sort cards.
+
+Sing the months: *"Caitra, Vaiśākha, Jyaiṣṭha, Āṣāḍha..."* (Through all 12.)
 
 ### Activity (8 min)
 

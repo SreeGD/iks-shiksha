@@ -25,7 +25,12 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *vāta* (IAST: vāta; lit. "motion principle (wind, ākāśa+vāyu)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Vāta — The Motion Principle**. Keep sentences short.
+- *vāta* is the **wind friend** inside us.
+- Today's word: *vāta* (say "VAH-tah").
+
+Stand up. Wiggle hands in the air like leaves. *"That's vāta — moving, light, quick."*
+
+Each child draws **Wiggle** — a small figure with movement lines around it. What does Wiggle like? (Cool weather, dancing, talking, running.)
 
 ### Activity (8 min)
 

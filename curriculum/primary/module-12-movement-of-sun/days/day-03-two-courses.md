@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Dakṣiṇāyana* (IAST: Dakṣiṇāyana; lit. "southward solar course (June 21 – Dec 21)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Uttarāyaṇa and Dakshiṇāyana**. Keep sentences short.
+- The Sun has two journeys each year:
+  - **Uttarāyaṇa** ("Going North"): Dec to June — days get longer in the north.
+  - **Dakṣiṇāyana** ("Going South"): June to Dec — days get shorter in the north.
+
+Children stand with hands held high. Drift to the right (north). *"That's Uttarāyaṇa!"* Drift to the left (south). *"That's Dakṣiṇāyana!"*
+
+Each child draws an arrow on a calendar showing today's direction.
 
 ### Activity (8 min)
 

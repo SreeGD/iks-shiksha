@@ -25,7 +25,13 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *bhadra-gaṇita* (IAST: bhadra-gaṇita; lit. ""auspicious arithmetic" — the Indian term for magic squares")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Final Share and Assessment**. Keep sentences short.
+- Final day! Show your magic square art.
+
+Each child shows + says one thing they liked. Cheer for each.
+
+Quiz with stickers — everyone gets a "Magic Squares" sticker.
+
+End: chant — *"Bhadragaṇita! Magic numbers!"*
 
 ### Activity (8 min)
 

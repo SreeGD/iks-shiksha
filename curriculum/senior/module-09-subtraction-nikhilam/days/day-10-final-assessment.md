@@ -26,11 +26,15 @@ By the end of this lesson, students will: take the summative quiz.
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Reflection essay (10 min).** *"In 200 words, explain Nikhilam to a younger student. Use one worked example and one limit-case."*
+
+2. **Summative quiz (25 min).** Computation, algebraic proof, two's-complement connection. See `quizzes/summative.md`.
+
+3. **Computer-subtraction explainer project share (10 min).** Each student presents their poster (see `assessments/project-brief.md`).
+
+4. **Module close.** *"What's one number-sense habit from this module you'll keep using?"* Each student shares one sentence.
+
+5. **Linkage.** Tomorrow Module 11 builds the multiplication side of Nikhilam — same sūtra, different application.
 
 ### Activity (15 min)
 

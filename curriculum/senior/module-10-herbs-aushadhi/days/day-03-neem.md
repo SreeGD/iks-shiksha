@@ -26,11 +26,15 @@ By the end of this lesson, students will: identify nimba; learn about azadiracht
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Botanical identification.** *Azadirachta indica*. Tall tree, ~15-20 m. Pinnate compound leaves with serrated leaflets. Distinctive bitter smell when crushed.
+
+2. **Active compound.** Azadirachtin (in seeds, oil). Nimbidin (in leaves, bark). Quercetin (a flavonoid).
+
+3. **Traditional uses.** Caraka and Suśruta cite *nimba* for: skin conditions, fever, infections, oral hygiene (chewing the twig). External use is well-supported by modern studies.
+
+4. **THE SAFETY WARNING.** Neem at high concentrations (especially neem oil) is documented to be hepatotoxic. Caraka itself notes restrictions. Modern pediatric case-reports (e.g. *Indian Pediatrics* journals) document harm in infants given neem oil. NEVER ingest in concentrated form. State this rule THREE TIMES.
+
+5. **Modern use cases.** Neem-based pesticides (azadirachtin is one of the most studied bio-pesticides). Toothpaste with neem extract. Skin creams. Discussion: *"What separates safe external use from risky internal use?"*
 
 ### Activity (15 min)
 

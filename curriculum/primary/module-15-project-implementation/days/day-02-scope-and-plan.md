@@ -25,7 +25,15 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *pañcagavya* (IAST: pañcagavya; lit. "five-cow-product preparation (substituted with fermented-foods study for school safety)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Scope and Plan**. Keep sentences short.
+- Pick ONE project. Write down:
+- WHAT you'll do (one sentence)
+- WHAT you need (paper, plants, paint, etc.)
+- WHO will help (teacher, parent, friend)
+- WHEN it'll be done (today + 8 more days)
+
+Each child has a "plan paper." Teacher helps with words.
+
+End: hold up your plan paper. Cheer.
 
 ### Activity (8 min)
 

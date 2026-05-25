@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *vikṛti* (IAST: vikṛti; lit. "current imbalance")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Prakṛti Self-Assessment**. Keep sentences short.
+- Today: which friend is most like ME right now?
+
+Ask three questions:
+1. *"When you talk to friends, do you feel quick (Wiggle), focused (Spark), or steady (Cozy)?"*
+2. *"At meal time, are you usually nibbling little bits (W), eating fast and hot (S), or eating slow and big (C)?"*
+3. *"At sleep time, do you flip around (W), sleep just enough (S), or sleep deep (C)?"*
+
+Each child colours a small chart with one star for each friend that fits them today. *"All three friends live in everyone. Today's stars are just for today — they can change tomorrow."*
 
 ### Activity (8 min)
 

@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Nikhilaṁ* (IAST: Nikhilaṁ; lit. "the Nikhilam sūtra (also used in Module 9 for subtraction)")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Mixed Practice + Module 7 Crossover**. Keep sentences short.
+- Today: mix ×11 trick (Module 7) and the new trick!
+
+Show 11 × 97 — use the ×11 trick: 1067.
+Show 97 × 96 — use the new trick: 9312.
+
+Children sort: *"Which trick for which problem?"*
+
+End with a number-magic round of applause.
 
 ### Activity (8 min)
 

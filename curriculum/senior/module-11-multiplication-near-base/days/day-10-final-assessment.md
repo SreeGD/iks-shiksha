@@ -26,11 +26,15 @@ By the end of this lesson, students will: summative quiz and method-comparison r
 
 ### Core (20 min)
 
-1. **State the observable phenomenon first.** Whatever the day's idea is — a number trick, a celestial pattern, a herb's identifying feature — start with the thing students can see, hear, or do.
-2. **Introduce the Sanskrit term.** Once, in the triple format, then italicised only.
-3. **Build the conceptual map.** Connect today's idea to prior modules (especially Module 2 if applicable) and prior days.
-4. **Work an example** with the whole class on the board.
-5. **Independent or paired practice** for ~5 minutes.
+1. **Method-comparison written reflection (10 min).** *"In 300 words, compare Tirthaji's near-base multiplication with traditional long multiplication. When does each excel? What does Tirthaji's method teach about number sense?"*
+
+2. **Summative quiz (25 min).** Mix of Nikhilam (below, above, mixed), algebraic proof, strategy choice. See `quizzes/summative.md`.
+
+3. **Personal mental-math toolkit share (10 min).** Each student shows their one-page toolkit.
+
+4. **Module close.** *"One number-sense habit you'll carry forward?"*
+
+5. **Linkage.** Module 14 (Magic Squares) will use related place-value insights for grid arithmetic.
 
 ### Activity (15 min)
 

@@ -25,7 +25,11 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *sūtra* (IAST: sūtra; lit. "aphorism / formula")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Speed Day**. Keep sentences short.
+- Speed time! Today we play a quick ×11 game.
+
+In pairs: one child says a 2-digit number, the other shouts the answer × 11. Switch every 30 seconds. 5 rounds.
+
+End with class cheer: *"Split! Add! Middle! Done!"*
 
 ### Activity (8 min)
 

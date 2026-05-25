@@ -25,7 +25,14 @@ Briefly recall yesterday's lesson by asking: *"What's one thing you remember fro
 
 - *Nikhilaṁ Navataścaramaṁ Daśataḥ* (IAST: Nikhilaṁ Navataścaramaṁ Daśataḥ; lit. ""all from 9, the last from 10"")
 
-Introduce the concept gently using a story, a drawing, or a sensory example. The concept for today: **Why It Works — The Algebra**. Keep sentences short.
+- Why does the trick work? Let's see!
+
+Write 100 = 99 + 1.
+- 99 − 37 is easy (no borrow): 6 from 9 = 6 and 9 - 3 = 6, write it out as: 9-3 = 6, 9-7 = 2... actually let's keep it simple.
+- 100 − 37 = 63.
+- And 9-3 = 6, 10-7 = 3 → 63.
+
+The 9s help because there's no borrow. *"That's the magic!"*
 
 ### Activity (8 min)
 
