@@ -1334,16 +1334,149 @@ The 10 days you\'re skipping if you only do this workshop:
 """
 
 
+DECK_DIR = ROOT / '.build-tmp' / 'darshana-decks'
+
+
+def _table_to_list(md_block: str) -> str:
+    """Convert markdown tables to bullet lists.
+
+    html2pptx silently drops <table> elements (visible as blank gaps in the
+    per-day decks), so for slide use we render tables as definition-style
+    bullets: first column bold, remaining columns joined with ' · '. The
+    header row becomes a lead-in line.
+    """
+    lines = md_block.split('\n')
+    out = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.strip().startswith('|') and i + 1 < len(lines) and \
+           set(lines[i + 1].strip().replace('|', '').replace(':', '').replace(' ', '')) <= {'-'} and \
+           lines[i + 1].strip():
+            # Table detected. Collect contiguous | rows.
+            rows = []
+            while i < len(lines) and lines[i].strip().startswith('|'):
+                rows.append([c.strip() for c in lines[i].strip().strip('|').split('|')])
+                i += 1
+            header = rows[0]
+            body = [r for r in rows[1:] if not (set(''.join(r).replace(' ', '')) <= {'-', ':'})]
+            # Lead-in from header (skip the first header cell label which becomes the bold key)
+            if len(header) > 1:
+                out.append(f"*Each row: {' · '.join(header)}.*")
+                out.append('')
+            for r in body:
+                if not r:
+                    continue
+                key = r[0]
+                rest = ' · '.join(c for c in r[1:] if c)
+                out.append(f"- **{key}**{(' — ' + rest) if rest else ''}")
+            out.append('')
+            continue
+        out.append(line)
+        i += 1
+    return '\n'.join(out)
+
+
+def _split_long(md_block: str, max_lines: int = 16):
+    """Split a section's markdown into chunks of <= max_lines (keeping list/
+    table/quote/paragraph groups intact at blank-line boundaries)."""
+    paras = [p for p in md_block.strip().split('\n\n') if p.strip()]
+    chunks = []
+    cur = []
+    cur_lines = 0
+    for p in paras:
+        n = p.count('\n') + 1
+        if cur and cur_lines + n > max_lines:
+            chunks.append('\n\n'.join(cur))
+            cur = [p]
+            cur_lines = n
+        else:
+            cur.append(p)
+            cur_lines += n
+    if cur:
+        chunks.append('\n\n'.join(cur))
+    return chunks or ['']
+
+
+def render_workshop_deck(slug: str, mod: dict, band: str) -> str:
+    """Produce a Marp-style deck.md for generate-pptx.js.
+
+    Leading `---` makes the title block slide 1; generate-pptx.js detects the
+    `# Module N` h1 and renders it as a styled cover slide. Each section then
+    becomes one or more content slides (long sections are split to avoid
+    overflow), matching the per-day deck look.
+    """
+    mod_num = int(slug.split('-')[1])
+    title = mod['title']
+    sanskrit = mod['sanskrit']
+    band_label = {'primary': 'Primary (Grades 3–5)',
+                  'middle': 'Middle (Grades 6–8)',
+                  'senior': 'Senior (Grades 9–12)'}[band]
+
+    sections = [
+        ('Opening hook · 5 min', mod['hook'][band]),
+        ('Core idea · 15 min', mod['core'][band]),
+        ('Demonstration · 10 min', mod['demo'][band]),
+        ('Source moment · 5 min', mod['source'][band]),
+        ('Hands-on activity · 15 min', mod['activity'][band]),
+        ('Reflection + take-home · 10 min', mod['reflection'][band]),
+    ]
+
+    out = []
+    # Title slide (slide 1). The leading `---` triggers the splitter.
+    out.append('---')
+    out.append('')
+    out.append(f'# Module {mod_num}')
+    out.append(f'## {title}')
+    out.append(f'### {band_label} · Darśana — 60-min Workshop')
+    out.append('')
+    out.append(f'*{sanskrit}*')
+
+    for heading, content in sections:
+        content = _table_to_list(content)
+        chunks = _split_long(content)
+        for ci, chunk in enumerate(chunks):
+            out.append('')
+            out.append('---')
+            out.append('')
+            head = heading if ci == 0 else f'{heading} (cont.)'
+            out.append(f'## {head}')
+            out.append('')
+            out.append(chunk.strip())
+
+    # Go-deeper slide.
+    out.append('')
+    out.append('---')
+    out.append('')
+    out.append('## Go deeper into Adhyayana')
+    out.append('')
+    out.append('The full 10-day version of this module:')
+    out.append('')
+    for d in mod['go_deeper_days']:
+        label = d[0].replace('day-', 'Day ').lstrip('0')
+        out.append(f'- **{label}** — {d[1]}')
+
+    return '\n'.join(out) + '\n'
+
+
 def main():
     written = 0
+    decks = 0
+    DECK_DIR.mkdir(parents=True, exist_ok=True)
     for slug, mod in WORKSHOPS.items():
         for band in ('primary', 'middle', 'senior'):
             path = CURRICULUM / band / slug / 'darshana.md'
             path.parent.mkdir(parents=True, exist_ok=True)
-            content = render_workshop(slug, mod, band)
-            path.write_text(content, encoding='utf-8')
+            path.write_text(render_workshop(slug, mod, band), encoding='utf-8')
             written += 1
-    print(f"Wrote {written} darshana.md files.")
+
+            # Deck path includes the module-NN dir so generate-pptx.js can
+            # derive a proper "Module N — Title" label for the footer/kicker.
+            deck_path = DECK_DIR / slug / f'{band}.md'
+            deck_path.parent.mkdir(parents=True, exist_ok=True)
+            deck_path.write_text(render_workshop_deck(slug, mod, band), encoding='utf-8')
+            decks += 1
+    print(f"Wrote {written} darshana.md files and {decks} deck.md files (in {DECK_DIR}).")
 
 
 if __name__ == '__main__':
