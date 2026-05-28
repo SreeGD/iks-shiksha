@@ -58,30 +58,13 @@ one_day() {
     fi
   fi
 
-  # ----- PPTX (pre-process: tables→lists, split aggressively, escape dashes) -----
+  # ----- PPTX (pre-process via md-to-deck.py) -----
+  # md-to-deck.py does all deck preprocessing: tables→bullet-lists, flatten
+  # nested lists, normalise blockquote bullets, split at H2/H3, overflow-aware
+  # packing onto "(cont.)" slides, and a leading `---`. This eliminates the
+  # blank-table gaps and most IKS_LENIENT overflow/bullet-symbol skips.
   local deck_md="$TMP/$pack_id-$day_stem-deck.md"
-  # Step 1: convert markdown tables to bullet lists. html2pptx silently drops
-  # <table> elements, so tables in a day file would otherwise become blank slide
-  # gaps. (Source markdown / PDF / DOCX are untouched — this only feeds the deck.)
-  # Step 2 (awk): split BEFORE every H2/H3; demote H3→H2; escape leading "- X"
-  # in code lines so the html2pptx bullet-validator doesn't flag them.
-  python3 "$ROOT/scripts/md-tables-to-lists.py" "$md" | awk '
-    BEGIN { first = 1 }
-    /^## / || /^### / {
-      if (!first) print "---"
-      first = 0
-      # Demote ### to ## for visual consistency
-      sub(/^### /, "## ", $0)
-    }
-    # Replace leading "- " or "-x" in code/script lines so html2pptx validator
-    # does not flag them as bullets.
-    /^[[:space:]]*- [A-Z0-9]/ { sub(/- /, "– ") }
-    { print }
-  ' > "$deck_md"
-  # Ensure leading --- exists (the deck splitter expects --- as separator)
-  if ! head -1 "$deck_md" | grep -q '^---$'; then
-    { echo '---'; cat "$deck_md"; } > "$deck_md.tmp" && mv "$deck_md.tmp" "$deck_md"
-  fi
+  python3 "$ROOT/scripts/md-to-deck.py" "$md" > "$deck_md"
 
   node "$ROOT/scripts/generate-pptx.js" \
     --in "$deck_md" \
