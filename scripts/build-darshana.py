@@ -1368,8 +1368,10 @@ def _table_to_list(md_block: str) -> str:
                 if not r:
                     continue
                 key = r[0]
+                # Avoid nested emphasis (***...***) when the key is already italic.
+                key_fmt = key if '*' in key else f"**{key}**"
                 rest = ' · '.join(c for c in r[1:] if c)
-                out.append(f"- **{key}**{(' — ' + rest) if rest else ''}")
+                out.append(f"- {key_fmt}{(' — ' + rest) if rest else ''}")
             out.append('')
             continue
         out.append(line)

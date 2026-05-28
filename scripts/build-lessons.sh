@@ -41,25 +41,31 @@ one_day() {
   local pptx_out="$OUT_PPTX/$pack_id/$day_stem.pptx"
 
   # ----- PDF (direct from markdown) -----
-  local docx_tmp="$TMP/$pack_id-$day_stem.docx"
-  pandoc "$md" \
-    --reference-doc="$REF_DOCX" \
-    --from=markdown+raw_tex+raw_html \
-    --to=docx \
-    -o "$docx_tmp" 2>/dev/null
-  soffice --headless --convert-to pdf --outdir "$OUT_PDF/$pack_id" "$docx_tmp" \
-    >/dev/null 2>&1
-  # soffice names output by docx stem; rename if needed
-  local soffice_pdf="$OUT_PDF/$pack_id/$(basename "$docx_tmp" .docx).pdf"
-  if [ -f "$soffice_pdf" ] && [ "$soffice_pdf" != "$pdf_out" ]; then
-    mv "$soffice_pdf" "$pdf_out"
+  # Skip with IKS_PPTX_ONLY=1 (e.g. when only the deck pipeline changed).
+  if [ -z "${IKS_PPTX_ONLY:-}" ]; then
+    local docx_tmp="$TMP/$pack_id-$day_stem.docx"
+    pandoc "$md" \
+      --reference-doc="$REF_DOCX" \
+      --from=markdown+raw_tex+raw_html \
+      --to=docx \
+      -o "$docx_tmp" 2>/dev/null
+    soffice --headless --convert-to pdf --outdir "$OUT_PDF/$pack_id" "$docx_tmp" \
+      >/dev/null 2>&1
+    # soffice names output by docx stem; rename if needed
+    local soffice_pdf="$OUT_PDF/$pack_id/$(basename "$docx_tmp" .docx).pdf"
+    if [ -f "$soffice_pdf" ] && [ "$soffice_pdf" != "$pdf_out" ]; then
+      mv "$soffice_pdf" "$pdf_out"
+    fi
   fi
 
-  # ----- PPTX (pre-process: split aggressively + escape leading dashes) -----
+  # ----- PPTX (pre-process: tables→lists, split aggressively, escape dashes) -----
   local deck_md="$TMP/$pack_id-$day_stem-deck.md"
-  # Split BEFORE every H2 (##) AND H3 (###); demote H3 to bold H2 for cleaner slides;
-  # replace leading "- " (in non-list contexts) with "– " to avoid bullet-validator.
-  awk '
+  # Step 1: convert markdown tables to bullet lists. html2pptx silently drops
+  # <table> elements, so tables in a day file would otherwise become blank slide
+  # gaps. (Source markdown / PDF / DOCX are untouched — this only feeds the deck.)
+  # Step 2 (awk): split BEFORE every H2/H3; demote H3→H2; escape leading "- X"
+  # in code lines so the html2pptx bullet-validator doesn't flag them.
+  python3 "$ROOT/scripts/md-tables-to-lists.py" "$md" | awk '
     BEGIN { first = 1 }
     /^## / || /^### / {
       if (!first) print "---"
@@ -71,7 +77,7 @@ one_day() {
     # does not flag them as bullets.
     /^[[:space:]]*- [A-Z0-9]/ { sub(/- /, "– ") }
     { print }
-  ' "$md" > "$deck_md"
+  ' > "$deck_md"
   # Ensure leading --- exists (the deck splitter expects --- as separator)
   if ! head -1 "$deck_md" | grep -q '^---$'; then
     { echo '---'; cat "$deck_md"; } > "$deck_md.tmp" && mv "$deck_md.tmp" "$deck_md"
