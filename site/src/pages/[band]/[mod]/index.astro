@@ -75,6 +75,33 @@ const title = MODULE_TITLES[mod] ?? mod;
       </div>
     </div>
 
+    {/* Path picker — quick switch between Adhyayana (this page) and Darśana (60-min) */}
+    {docs.some(d => d.id === `${band}/${mod}/darshana`) && (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-8">
+        <div class="bg-accent text-white rounded-lg p-4">
+          <p class="text-xs tracking-widest uppercase font-bold m-0 opacity-80">
+            You're on · Adhyayana
+          </p>
+          <h3 class="font-display text-lg mt-1 mb-1">Full Course — 10 days × 45 min</h3>
+          <p class="text-sm m-0 opacity-90">
+            All lesson plans, quizzes, activities, decks, projects below.
+          </p>
+        </div>
+        <a
+          href={withBase(`/${band}/${mod}/darshana/`)}
+          class="block bg-surface border-2 border-accent-2 rounded-lg p-4 no-underline text-text hover:shadow-md transition-shadow"
+        >
+          <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+            Switch to · Darśana
+          </p>
+          <h3 class="font-display text-lg mt-1 mb-1 text-accent">Workshop — 1 lesson × 60 min</h3>
+          <p class="text-sm text-text m-0">
+            Condensed 60-min arc. Same module, one hour. <span class="text-accent font-bold">Open →</span>
+          </p>
+        </a>
+      </div>
+    )}
+
     {/* Audience tabs */}
     <AudienceTabs />
 

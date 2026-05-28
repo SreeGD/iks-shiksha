@@ -1,0 +1,67 @@
+---
+/**
+ * PathBadge — header pill showing the current path (Adhyayana / Darśana)
+ * with a click-to-switch dropdown. Mirrors the audience badge pattern in
+ * Header.astro.
+ *
+ * Reads localStorage `iks-path` and the <html data-path> attribute that
+ * PATH_BOOTSTRAP_SCRIPT sets before paint.
+ */
+import { PATH_SET_SNIPPET } from '../utils/path-mode';
+---
+
+<details class="path-badge relative">
+  <summary
+    class="cursor-pointer list-none px-3 py-1 rounded text-xs bg-white/15 hover:bg-white/25 text-white border border-white/20 whitespace-nowrap"
+  >
+    <span class="path-label" data-mode="unset">📚 Pick path</span>
+    <span class="path-label hidden" data-mode="adhyayana">📚 Adhyayana ▾</span>
+    <span class="path-label hidden" data-mode="darshana">⏱ Darśana ▾</span>
+  </summary>
+  <div class="absolute right-0 mt-1 bg-surface text-text border border-border rounded shadow-lg p-1 min-w-[180px] z-50">
+    <button
+      data-set-path="adhyayana"
+      class="block w-full text-left px-3 py-2 hover:bg-bg rounded text-sm"
+    >
+      <div class="font-bold">📚 Adhyayana</div>
+      <div class="text-xs text-text-muted">Full Course · 150 sessions</div>
+    </button>
+    <button
+      data-set-path="darshana"
+      class="block w-full text-left px-3 py-2 hover:bg-bg rounded text-sm"
+    >
+      <div class="font-bold">⏱ Darśana</div>
+      <div class="text-xs text-text-muted">Workshop · 15 sessions</div>
+    </button>
+  </div>
+</details>
+
+<script is:inline set:html={PATH_SET_SNIPPET}></script>
+
+<script is:inline>
+  function updatePathLabel() {
+    const mode = document.documentElement.dataset.path || 'unset';
+    document.querySelectorAll('.path-label').forEach((el) => {
+      el.classList.toggle('hidden', el.dataset.mode !== mode);
+    });
+  }
+  updatePathLabel();
+  document.addEventListener('iks-path-change', updatePathLabel);
+  document.addEventListener('astro:after-swap', updatePathLabel);
+
+  document.querySelectorAll('[data-set-path]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const v = btn.dataset.setPath;
+      // setIksPath provided by PATH_SET_SNIPPET; falls back to direct sets.
+      if (typeof setIksPath === 'function') {
+        setIksPath(v);
+      } else {
+        try { localStorage.setItem('iks-path', v); } catch (e) {}
+        document.documentElement.setAttribute('data-path', v);
+        document.dispatchEvent(new CustomEvent('iks-path-change', { detail: v }));
+      }
+      const details = btn.closest('details');
+      if (details) details.open = false;
+    });
+  });
+</script>

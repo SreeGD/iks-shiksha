@@ -1,8 +1,9 @@
 ---
-import { withBase } from '../utils/path';
+import { withBase, BASE } from '../utils/path';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import PathPicker from '../components/PathPicker.astro';
 import { getCollection } from 'astro:content';
 
 const packs = await getCollection('packs');
@@ -17,18 +18,74 @@ const bands = {
 
 <BaseLayout title="Home">
   <Header />
+  <PathPicker />
 
   <main class="flex-1 max-w-content mx-auto px-6 py-12">
     <p class="text-xs tracking-widest uppercase text-accent-2 font-bold mb-2">
-      IKS Curriculum · v2
+      IKS Curriculum
     </p>
     <h1 class="text-4xl font-display font-bold mb-4">
       Indian Knowledge Systems for Schools
     </h1>
-    <p class="text-lg text-text-muted mb-8">
-      {bands.primary.length + bands.middle.length + bands.senior.length} module
-      packs · 3 age bands · {lessons.length} lessons
+    <p class="text-lg text-text-muted mb-2">
+      15 modules · 3 age bands · two paths to follow
     </p>
+    <p class="text-base text-text-muted mb-8">
+      <strong class="text-text">Adhyayana</strong> (अध्ययन) — the full 150-session course ·
+      <strong class="text-text">Darśana</strong> (दर्शन) — a 15-hour workshop tour ·
+      <a href="#path-cards" class="text-accent hover:underline">choose your path ↓</a>
+    </p>
+
+    {/* Two-path entry cards (always visible on the homepage even after picking) */}
+    <div id="path-cards" class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-12">
+      <button
+        type="button"
+        data-pick-path="adhyayana"
+        class="path-card-home text-left p-5 rounded-lg border-2 border-border bg-surface hover:border-accent transition-all"
+      >
+        <div class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+          Adhyayana · अध्ययन
+        </div>
+        <h3 class="font-display text-xl font-bold mt-1 mb-2 text-accent">Full Course</h3>
+        <p class="text-sm text-text m-0 mb-2">
+          15 modules · ~150 sessions · 45 min each · ~7.5 months.
+        </p>
+        <p class="text-sm text-text-muted m-0">
+          For schools running IKS as a term-long programme.
+        </p>
+        <span class="inline-block mt-4 text-sm text-accent font-bold">Enter Adhyayana →</span>
+      </button>
+
+      <button
+        type="button"
+        data-pick-path="darshana"
+        class="path-card-home text-left p-5 rounded-lg border-2 border-border bg-surface hover:border-accent transition-all"
+      >
+        <div class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+          Darśana · दर्शन
+        </div>
+        <h3 class="font-display text-xl font-bold mt-1 mb-2 text-accent">Workshop</h3>
+        <p class="text-sm text-text m-0 mb-2">
+          15 modules · 15 sessions · 60 min each · ~15 hours total.
+        </p>
+        <p class="text-sm text-text-muted m-0">
+          For workshops, clubs, taster sessions, and parent introductions.
+        </p>
+        <span class="inline-block mt-4 text-sm text-accent font-bold">Enter Darśana →</span>
+      </button>
+    </div>
+
+    <script is:inline define:vars={{ base: BASE }}>
+      document.querySelectorAll('[data-pick-path]').forEach((el) => {
+        el.addEventListener('click', () => {
+          const v = el.dataset.pickPath;
+          try { localStorage.setItem('iks-path', v); } catch (e) {}
+          document.documentElement.setAttribute('data-path', v);
+          document.dispatchEvent(new CustomEvent('iks-path-change', { detail: v }));
+          window.location.href = v === 'darshana' ? base + 'darshana/' : base + 'middle/';
+        });
+      });
+    </script>
 
     <h2 class="text-2xl font-display mt-12 mb-4">I am a …</h2>
     <p class="text-sm text-text-muted mb-4">

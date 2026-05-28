@@ -1,0 +1,109 @@
+---
+/**
+ * Darśana index — the workshop path landing.
+ *
+ * Lists all 15 workshops grouped by module, with a band switcher.
+ * Each workshop is a single 60-minute file at /[band]/[mod]/darshana/.
+ */
+import { withBase } from '../../utils/path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { BAND_LABELS, MODULE_TITLES } from '../../utils/labels';
+
+const docs = await getCollection('docs');
+
+// Find all darshana files; index by module slug + band
+const workshops = docs.filter((d) => {
+  const parts = d.id.split('/');
+  return parts.length === 3 && parts[2] === 'darshana';
+});
+
+// Group by module-slug; collect bands per module
+const moduleSlugs = Array.from(
+  new Set(workshops.map((w) => w.id.split('/')[1]))
+).sort();
+
+function bandsFor(slug: string) {
+  return workshops
+    .filter((w) => w.id.split('/')[1] === slug)
+    .map((w) => w.id.split('/')[0]) as ('primary' | 'middle' | 'senior')[];
+}
+
+const totalWorkshops = workshops.length;
+---
+
+<BaseLayout
+  title="Darśana — 60-min Workshops"
+  description="One-hour condensed workshops on each of the 15 IKS modules, across primary, middle, and senior bands."
+>
+  <Header />
+
+  <main class="flex-1 max-w-content mx-auto px-6 py-10 w-full">
+    <nav class="text-sm text-text-muted mb-4">
+      <a href={withBase("/")} class="text-accent-2">Home</a> › Darśana
+    </nav>
+
+    <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+      Darśana · दर्शन · Workshop path
+    </p>
+    <h1 class="text-4xl font-display font-bold mt-1 mb-3 border-b-2 border-accent-2 pb-2">
+      The 60-min Workshops
+    </h1>
+    <p class="text-text-muted mb-2 text-lg">
+      <em>Darśana</em> means "a glimpse, a view." Each workshop condenses one full
+      module into a 60-minute arc: opening hook → core idea → demonstration →
+      source moment → hands-on activity → reflection.
+    </p>
+    <p class="text-text-muted mb-8 text-sm">
+      {totalWorkshops} workshops · 15 modules × 3 bands · ~15 hours total to traverse one band end-to-end.
+    </p>
+
+    <div class="bg-surface border border-border rounded-lg p-5 mb-8 text-sm">
+      <strong class="text-accent">Looking for the deeper version?</strong>
+      Each workshop links to its 10-day equivalent in <a href={withBase("/middle/")} class="text-accent underline">Adhyayana</a> —
+      the full course path with daily lesson plans, quizzes, projects, and slide decks.
+    </div>
+
+    <h2 class="text-2xl font-display mt-10 mb-4">15 modules · pick a workshop</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {moduleSlugs.map((modSlug) => {
+        const modNum = modSlug.match(/^module-(\d+)/)?.[1] ?? '?';
+        const title = MODULE_TITLES[modSlug] ?? modSlug;
+        const bands = bandsFor(modSlug);
+        return (
+          <div class="bg-surface border-l-4 border-accent-2 rounded-r-lg p-5">
+            <p class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+              Module {parseInt(modNum)}
+            </p>
+            <h3 class="font-display text-xl mt-1 mb-3 text-accent">
+              {title}
+            </h3>
+            <p class="text-sm text-text-muted m-0 mb-3">
+              Pick a band:
+            </p>
+            <div class="flex flex-wrap gap-2">
+              {(['primary', 'middle', 'senior'] as const).map((band) => (
+                bands.includes(band) ? (
+                  <a
+                    href={withBase(`/${band}/${modSlug}/darshana/`)}
+                    class="px-3 py-1 rounded border-2 border-border hover:border-accent transition-colors text-sm no-underline text-text"
+                  >
+                    {BAND_LABELS[band]}
+                  </a>
+                ) : (
+                  <span class="px-3 py-1 rounded border-2 border-border text-sm text-text-muted opacity-50">
+                    {BAND_LABELS[band]}
+                  </span>
+                )
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>

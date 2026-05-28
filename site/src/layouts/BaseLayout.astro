@@ -2,6 +2,7 @@
 import { withBase } from '../utils/path';
 import '../styles/global.css';
 import { AUDIENCE_BOOTSTRAP_SCRIPT } from '../utils/audience';
+import { PATH_BOOTSTRAP_SCRIPT } from '../utils/path-mode';
 import { ClientRouter } from 'astro:transitions';
 
 const THEME_BOOTSTRAP = `
@@ -68,9 +69,10 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       rel="stylesheet"
     />
 
-    {/* Theme + audience bootstrap — both set on <html> before paint to avoid flash */}
+    {/* Theme + audience + path bootstrap — all set on <html> before paint to avoid flash */}
     <script is:inline set:html={THEME_BOOTSTRAP}></script>
     <script is:inline set:html={AUDIENCE_BOOTSTRAP_SCRIPT}></script>
+    <script is:inline set:html={PATH_BOOTSTRAP_SCRIPT}></script>
 
     {/* Smooth page transitions */}
     <ClientRouter />

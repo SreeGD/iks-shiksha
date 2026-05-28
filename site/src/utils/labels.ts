@@ -25,8 +25,18 @@ export const MODULE_TITLES: Record<string, string> = {
   'module-01-what-is-iks': 'What is IKS?',
   'module-02-panchabhuta': 'Panchabhūta (Five Elements)',
   'module-03-ayurveda-good-health': 'Ayurveda and Good Health',
+  'module-04-doshas': 'Doshas (Vāta, Pitta, Kapha)',
   'module-05-dot-addition': 'Bindu Paddhati (Dot Method)',
+  'module-06-moon-phases-tithi': 'Moon Phases and Tithi',
+  'module-07-eleven-multiplication': '×11 Multiplication',
   'module-08-yoga': 'Yoga and the Body',
+  'module-09-subtraction-nikhilam': 'Subtraction by Nikhilam',
+  'module-10-herbs-aushadhi': 'Herbs (Auṣadhi)',
+  'module-11-multiplication-near-base': 'Multiplication Near a Power of 10',
+  'module-12-movement-of-sun': 'Movement of the Sun',
+  'module-13-indic-ecology': 'Indic Ecology (Vasudhaiva Kuṭumbakam)',
+  'module-14-magic-squares': 'Magic Squares (Bhadragaṇita)',
+  'module-15-project-implementation': 'Project Implementation (Capstone)',
 };
 
 export const MODULE_BLURBS: Record<string, string> = {
@@ -59,6 +69,7 @@ export function prettyFileName(filename: string): string {
     summative: 'Summative Quiz',
     'oral-recall': 'Oral Recall',
     deck: 'Slide Deck (source)',
+    darshana: 'Darśana — 60-min Workshop',
   };
   if (labels[stem]) return labels[stem];
 

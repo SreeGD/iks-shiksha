@@ -1,0 +1,154 @@
+---
+/**
+ * PathPicker — first-visit modal that asks the user to choose between
+ * Adhyayana (the full 10-day-per-module course) and Darśana (a single
+ * 60-min workshop per module).
+ *
+ * The modal is only rendered when [data-path="unset"] is on <html>; the
+ * bootstrap script in BaseLayout sets that attribute before paint, so
+ * users who already chose skip the modal entirely.
+ *
+ * Choice persists in localStorage under `iks-path` via path-mode.ts.
+ */
+import { withBase } from '../utils/path';
+import { PATH_SET_SNIPPET } from '../utils/path-mode';
+---
+
+<dialog id="iks-path-picker" class="path-picker">
+  <div class="path-picker-card">
+    <h2 class="text-xl md:text-2xl font-display font-bold mt-0 mb-1">
+      Welcome to the IKS Curriculum
+    </h2>
+    <p class="text-text-muted text-sm md:text-base mt-0 mb-6">
+      How would you like to begin?
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {/* Adhyayana — Full Course */}
+      <button
+        type="button"
+        data-pick="adhyayana"
+        class="path-card text-left p-5 rounded-lg border-2 border-border bg-bg hover:border-accent transition-colors"
+      >
+        <div class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+          Adhyayana · अध्ययन
+        </div>
+        <h3 class="font-display text-xl font-bold mt-1 mb-2 text-accent">Full Course</h3>
+        <ul class="text-sm text-text-muted m-0 p-0 list-none space-y-1">
+          <li>15 modules</li>
+          <li>~150 sessions · 45 min each</li>
+          <li>~7.5 months</li>
+        </ul>
+        <p class="text-sm text-text mt-3 mb-0">
+          For schools running IKS as a term-long programme.
+        </p>
+        <span class="inline-block mt-4 text-sm text-accent font-bold">Enter →</span>
+      </button>
+
+      {/* Darśana — Workshop */}
+      <button
+        type="button"
+        data-pick="darshana"
+        class="path-card text-left p-5 rounded-lg border-2 border-border bg-bg hover:border-accent transition-colors"
+      >
+        <div class="text-xs tracking-widest uppercase text-accent-2 font-bold m-0">
+          Darśana · दर्शन
+        </div>
+        <h3 class="font-display text-xl font-bold mt-1 mb-2 text-accent">Workshop</h3>
+        <ul class="text-sm text-text-muted m-0 p-0 list-none space-y-1">
+          <li>15 modules</li>
+          <li>15 sessions · 60 min each</li>
+          <li>~15 hours total</li>
+        </ul>
+        <p class="text-sm text-text mt-3 mb-0">
+          For workshops, clubs, taster sessions, and parent introductions.
+        </p>
+        <span class="inline-block mt-4 text-sm text-accent font-bold">Enter →</span>
+      </button>
+    </div>
+
+    <div class="mt-5 text-center text-xs text-text-muted">
+      <button type="button" data-pick="adhyayana" data-defer class="underline hover:text-accent">
+        I'll decide later (defaults to Adhyayana)
+      </button>
+    </div>
+  </div>
+</dialog>
+
+<style is:global>
+  .path-picker {
+    max-width: 720px;
+    margin: 8vh auto auto auto;
+    padding: 0;
+    border: none;
+    background: transparent;
+  }
+  .path-picker::backdrop {
+    background: rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(3px);
+  }
+  .path-picker-card {
+    background: rgb(var(--color-surface));
+    color: rgb(var(--color-text));
+    border: 1px solid rgb(var(--color-border));
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  }
+  @media (max-width: 640px) {
+    .path-picker {
+      margin: 0;
+      max-width: 100%;
+      max-height: 100vh;
+      width: 100vw;
+      height: 100vh;
+    }
+    .path-picker-card {
+      border-radius: 0;
+      min-height: 100vh;
+      padding: 1.5rem;
+    }
+  }
+  .path-card:hover { transform: translateY(-2px); }
+  /* Hide the modal if user has already chosen a path */
+  html:not([data-path="unset"]) .path-picker { display: none; }
+</style>
+
+<script is:inline set:html={PATH_SET_SNIPPET}></script>
+
+<script is:inline>
+  (function () {
+    const modal = document.getElementById('iks-path-picker');
+    if (!modal) return;
+
+    function maybeShow() {
+      const cur = document.documentElement.dataset.path || 'unset';
+      if (cur === 'unset' && !modal.open) {
+        try { modal.showModal(); } catch (e) {}
+      }
+    }
+
+    // Wire choice buttons.
+    modal.querySelectorAll('[data-pick]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const v = btn.dataset.pick;
+        // setIksPath is provided by PATH_SET_SNIPPET above.
+        if (typeof setIksPath === 'function') setIksPath(v);
+        try { modal.close(); } catch (e) {}
+      });
+    });
+
+    // Close on backdrop click.
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        // Defer to default (adhyayana) when dismissed without an explicit pick.
+        if (typeof setIksPath === 'function') setIksPath('adhyayana');
+        try { modal.close(); } catch (err) {}
+      }
+    });
+
+    // Show on first visit; also re-check after view transitions.
+    maybeShow();
+    document.addEventListener('astro:after-swap', maybeShow);
+  })();
+</script>
